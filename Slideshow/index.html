@@ -1,0 +1,57 @@
+<!DOCTYPE html><html lang="en">
+
+<style>body {background-color: lightblue; margin: 0; height: 50vh;}</style>
+
+<img src="index_loading.jpg" style="position: fixed; top: 49%; left: 44%;">
+
+<button id='menubtn' onclick='toggleMenu()' style="width: 100%; position: fixed; top:0; left:0;background-color: black; color: lightgray; text-align: center; font-size: xxx-large; height: 80px; z-index: 99;"><u>===M E N U===</u></button>
+<iframe id="my-iframe" style="position:fixed; top:60px; left:30%; border: none; z-index: 100;" src="../_nav_menu.html" width="40%" height='0px'></iframe>
+
+<script>
+    var toggleVar = 0; var iframe = document.getElementById('my-iframe');
+    function toggleMenu() {
+        toggleVar = toggleVar === 0 ? 1 : 0;
+        if (toggleVar === 1) {iframe.style.height = '80%';}
+        else {iframe.style.height = '0%';}}
+</script><br>
+<style>
+    table { border-collapse: collapse; }
+    td { border: 1px solid black; padding: 5px; }
+</style>
+<br>
+<div class="container" style="width: 100%; margin: 0 auto; border: 2px solid black; text-align: center; font-size: xxx-large;">
+    <br>
+    <img src="../_nav_icons_/SlideShow.jpg">
+    <b>  Slideshow:</b>
+    <br>
+
+<script>
+    // Add your PicRoll image paths here (relative to this file):
+    const imageArray = [
+        // "PicRoll/image1.jpg",
+        // "PicRoll/image2.jpg",
+        // "PicRoll/image3.jpg",
+    ];
+
+    if (imageArray.length > 0) {
+        const img = document.createElement('img');
+        const isLandscape = window.innerWidth > window.innerHeight;
+        let topValue = isLandscape ? "27%" : "11%";
+        img.style.cssText = `position: absolute; top: ${topValue}; left: 2.5%; width: 95%; height: 90%; object-fit: stretch;`;
+
+        function getRandomImage() {
+            return imageArray[Math.floor(Math.random() * imageArray.length)];}
+
+        img.src = getRandomImage();
+        setInterval(() => { img.src = getRandomImage(); }, 3000);
+        document.querySelector('.container').appendChild(img);
+
+        window.addEventListener('resize', () => {
+            topValue = window.innerWidth > window.innerHeight ? "27%" : "11%";
+            img.style.top = topValue;});
+    }
+</script>
+
+</div>
+
+</html>
