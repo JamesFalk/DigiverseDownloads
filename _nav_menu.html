@@ -1,0 +1,43 @@
+<script>
+const colors = ['lightblue', 'lightgreen', 'orange', 'turquoise', 'tan'];
+let colorIndex = 0;
+
+function changeBackgroundColor() {
+  btnhome.style.backgroundColor = colors[colorIndex];
+  btnfeeds.style.backgroundColor = 'lightgray';
+  btnblog.style.backgroundColor = 'lightgreen';
+  btnpodcast.style.backgroundColor = 'gray';
+  btnslideshow.style.backgroundColor = "lightblue";
+  btndigitube.style.backgroundColor = "yellow";
+  btndigistore.style.backgroundColor = "orange";
+  btncontact.style.backgroundColor = "turquoise";
+  colorIndex = (colorIndex + 1) % colors.length;}
+setInterval(changeBackgroundColor, 15);
+</script>
+
+<div class="container;" style="width: 100%; background-color: black; color: white; font-size: x-large;">
+    <br>
+    <a href="index.html" target="_parent"><button id="btnhome" style="font-size: xxx-large;">
+        <img src="_nav_icons_/Home.jpg">  HOME</button></a>
+    <br><br>
+    <a href="feeds.html" target="_parent"><button id="btnfeeds" style="font-size: xxx-large;">
+        <img src="_nav_icons_/Feeds.jpg">  Feeds</button></a>
+    <br><br>
+    <a href="blog.html" target="_parent"><button id="btnblog" style="font-size: xxx-large;">
+        <img src="_nav_icons_/Blog.jpg">  Blog</button></a>
+    <br><br>
+    <a href="https://digiversedownloads.com/technologistspodcast/" target="_parent"><button id="btnpodcast" style="font-size: xxx-large;">
+        <img src="_nav_icons_/PodCast.jpg">  Podcast</button></a>
+    <br><br>
+    <a href="slideshow/index.html" target="_parent"><button id="btnslideshow" style="font-size: xxx-large;">
+        <img src="_nav_icons_/SlideShow.jpg">  Slideshow</button></a>
+    <br><br>
+    <a href="digitube/index.html" target="_parent"><button id="btndigitube" style="font-size: xxx-large;">
+        <img src="_nav_icons_/DigiTube.jpg">  DigiTube</button></a>
+    <br><br>
+    <a href="store.html" target="_parent"><button id="btndigistore" style="font-size: xxx-large;">
+        <img src="_nav_icons_/Store.jpg">  DigiStore</button></a>
+    <br><br>
+    <a href="https://digiversedownloads.com/digitalstore/contact-me/" target="_parent"><button id="btncontact" style="font-size: xxx-large;">
+        <img src="_nav_icons_/ContactMe.jpg">  CONTACT ME</button></a>
+</div>

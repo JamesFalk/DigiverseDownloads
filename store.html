@@ -1,0 +1,54 @@
+<!DOCTYPE html><html lang="en">
+<head>
+    <title>Digiverse AppStore</title>
+    <style>
+    .flex-container {display: flex; flex-direction: row; justify-content: space-between; flex-wrap: wrap;}
+    .flex-item {width: 48%; text-align: center; box-sizing: border-box; margin: 1%}
+    </style>
+</head>
+<body>
+    <style>body {background-color: sandybrown; margin: 0; height: 100vh;}</style>
+
+<button id='menubtn' onclick='toggleMenu()' style="width: 100%; position: fixed; top:0; left:0;background-color: black; color: lightgray; text-align: center; font-size: xxx-large; height: 80px"><u>===M E N U===</u></button>
+<iframe id="my-iframe" style="position:fixed; top:60px; left:30%; border: none;" src="_nav_menu.html" width="40%" height='0px'></iframe>
+<script>
+    var toggleVar = 0; var iframe = document.getElementById('my-iframe');
+    function toggleMenu() {
+        toggleVar = toggleVar === 0 ? 1 : 0;
+        if (toggleVar === 1) {iframe.style.height = '80%';}
+        else {iframe.style.height = '0%';}}
+</script>
+<br><br><br><br><br>
+
+<div class="container" style="width: 100%; margin: 0 auto; border: 2px solid black;font-size: xxx-large; text-align: center; color: green; border-color: green; font-family: arial">
+    <img src="_nav_icons_/Store.jpg">  DigiStore</div><br>
+
+<div class="container" style="width: 100%; margin: 0 auto; border: 2px solid black;font-size: xxx-large; text-align: center; color: green; border-color: green; font-family: arial"> eBooks</div><br>
+
+<div class="flex-container">
+    <div class="flex-item">
+    <a href="https://digiversedownloads.com/digitalstore/downloads/digibook1" style="font-size: xx-large">
+    <img src="https://digiversedownloads.com/slideshow/PicRoll/DigiBook1.jpg"><br>
+            $1.99 - Being More Useful</a></div>
+    <div class="flex-item">
+    <a href="https://digiversedownloads.com/digitalstore/downloads/digibook2" style="font-size: xx-large">
+    <img src="https://digiversedownloads.com/slideshow/PicRoll/DigiBook2.jpg"><br>
+            $2.99 - Marketing Strategies</a></div>
+</div>
+<br>
+
+<div class="container" style="width: 100%; margin: 0 auto; border: 2px solid black;font-size: xxx-large; text-align: center; color: green; border-color: green; font-family: arial"> Apps</div><br>
+
+<div class="flex-container">
+    <div class="flex-item">
+          <iframe allowfullscreen="" src="https://www.youtube.com/embed/H7dbeazURxw" height="350"></iframe><br>
+    <a href="https://digiversedownloads.com/digitalstore/downloads/digiapp1/" style="font-size: xx-large">
+            $2.99 - Bad Referee App</a></div>
+    <div class="flex-item">
+          <iframe allowfullscreen="" src="https://www.youtube.com/embed/fftVZNoGw-I" height="350"></iframe><br>
+                <a href="https://digiversedownloads.com/digitalstore/downloads/digiapp2/" style="font-size: xx-large">
+            $4.99 - Stock Splitter App</a></div>
+</div>
+
+</body>
+</html>

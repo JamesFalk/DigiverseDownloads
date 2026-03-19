@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>DigiFeeds</title>
+</head>
+<body>
+
+<button id='menubtn' onclick='toggleMenu()' style="width: 100%; position: fixed; top:0; left:0;background-color: black; color: lightgray; text-align: center; font-size: xxx-large; height: 80px"><u>===M E N U===</u></button>
+<iframe id="my-iframe" style="position:fixed; top:60px; left:30%; border: none; z-index: 100;"
+        src="_nav_menu.html" width="40%" height='0px'></iframe>
+
+<script>
+    var toggleVar = 0; var iframe = document.getElementById('my-iframe');
+    function toggleMenu() {
+        toggleVar = toggleVar === 0 ? 1 : 0;
+        if (toggleVar === 1) {iframe.style.height = '80%';}
+        else {iframe.style.height = '0%';}}
+</script>
+
+<br><br><br><br>
+
+<p style="width: 100%; text-align: center; font-size: 400%; margin: 0 auto;">--- <img src="_nav_icons_/Feeds.jpg"> FEEDS ---</p>
+
+<div style="width: 100%; text-align: center; font-size: 200%; border: 2px solid black;">
+    <b>FB Groups:</b><br>
+    <a href="https://www.facebook.com/groups/technologists" target="_parent">
+        <button style="font-size: 112%">Technologists</button></a>
+    <a href="https://www.facebook.com/groups/theoreticians" target="_parent">
+        <button style="font-size: 112%">Theoreticians</button></a>
+    <br>
+    <a href="https://www.facebook.com/groups/epicmarketpicks" target="_parent">
+        <button style="font-size: 82.5%">Epic Daily Market Picks</button></a>
+
+    <br><b>R-Feeds: </b><br>
+    <a href="https://www.reddit.com/user/jimthecodeguru/m/comedy/new/" target="_blank">
+        <button style="font-size: 102%">Comedy</button></a>
+    <br>
+    <a href="https://www.reddit.com/user/jimthecodeguru/m/dev00_lifehacks/new/" target="_blank">
+        <button style="font-size: 88%">Life Hacks</button></a>
+    <br>
+    <a href="https://www.reddit.com/user/jimthecodeguru/m/dev0_business/new/" target="_blank">
+        <button style="font-size: 116%">B I Z</button></a>
+    <a href="https://www.reddit.com/user/jimthecodeguru/m/dev0_web_biz/new/" target="_blank">
+        <button style="font-size: 116%">D E V</button></a>
+    <br>
+    <a href="https://www.reddit.com/user/jimthecodeguru/m/dev1_game_code/new/" target="_blank">
+        <button style="font-size: 105%">Game Code</button></a>
+    <a href="https://www.reddit.com/user/jimthecodeguru/m/dev1_web_code/new/" target="_blank">
+        <button style="font-size: 105%">Web Code</button></a>
+    <br>
+    <a href="https://www.reddit.com/user/jimthecodeguru/m/dev2_web_design/new/" target="_blank">
+        <button style="font-size: 105%">Web Design</button></a>
+    <br>
+    <a href="https://www.reddit.com/user/jimthecodeguru/m/dev3_art/new/" target="_blank">
+        <button style="font-size: 105%">Art</button></a>
+    <a href="https://www.reddit.com/user/jimthecodeguru/m/dev3_graphics/new/" target="_blank">
+        <button style="font-size: 105%">Scenes</button></a>
+    <a href="https://www.reddit.com/user/jimthecodeguru/m/dev3_data/new/" target="_blank">
+        <button style="font-size: 105%">Charts</button></a>
+    <br>
+    <a href="https://www.reddit.com/user/jimthecodeguru/m/dev4_mechanics/new/" target="_blank">
+        <button style="font-size: 105%">Auto Repair</button></a>
+    <a href="https://www.reddit.com/user/jimthecodeguru/m/dev4_tech_hacks/new/" target="_blank">
+        <button style="font-size: 105%">Home Fixup</button></a>
+    <br>
+    <a href="https://www.reddit.com/user/jimthecodeguru/m/dev5_news/new/" target="_blank">
+        <button style="font-size: 105%">Tech News</button></a>
+</div>
+
+</body>
+</html>

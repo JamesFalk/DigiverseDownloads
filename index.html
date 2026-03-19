@@ -1,0 +1,65 @@
+<!DOCTYPE html><html lang="en">
+  <meta property="og:image" content="index_DDprvw.png">
+
+<style>
+body {margin: 0; height: 85vh;}
+.center {display: block; margin-left: auto; margin-right: auto;
+  width: 100%; height: 72.5vh; object-fit: stretch;}
+.button-container {display: grid; background-color: transparent;
+  position: fixed; top: 62.8vh; height: 25vh}
+.button-container button {font-size: 290%; height: 100%; padding: 1%;
+  width: 100vw;}
+</style>
+
+<button id='menubtn' onclick='toggleMenu()' style="width: 100%;
+  position: fixed; top:0; left:0;background-color: black;
+  color: lightgray; text-align: center; font-size: xxx-large;
+  height: 80px"><u>===M E N U===</u></button>
+
+<iframe id="my-iframe" style="position:fixed; top:60px; left:30%;
+  border: none; z-index: 100;" src="_nav_menu.html" width="40%"
+  height='0px'></iframe>
+
+<script>
+    var toggleVar = 0; var iframe = document.getElementById('my-iframe');
+    function toggleMenu() {
+        toggleVar = toggleVar === 0 ? 1 : 0;
+        if (toggleVar === 1) {iframe.style.height = '80%';}
+        else {iframe.style.height = '0%';}}
+</script>
+
+<br><br><br><br>
+<img src="index_DigiverseDownloads.webp" class="center">
+
+<div class="button-container">
+
+<a href="feeds.html">
+    <button style="background-color: lightgrey;">
+    <img src="_nav_icons_/Feeds.jpg"> Feeds</button></a>
+
+<a href="blog.html">
+    <button style="background-color: lightgreen;">
+    <img src="_nav_icons_/Blog.jpg"> Blog</button></a>
+
+<a href="https://digiversedownloads.com/technologistspodcast/">
+    <button style="background-color: Grey;">
+    <img src="_nav_icons_/PodCast.jpg"> Podcast</button></a>
+
+<a href="slideshow/index.html">
+    <button style="background-color: lightblue;">
+    <img src="_nav_icons_/SlideShow.jpg"> SlideShow</button></a>
+
+<a href="digitube/index.html">
+    <button style="background-color: yellow;">
+    <img src="_nav_icons_/DigiTube.jpg"> DigiTube</button></a>
+
+<a href="store.html">
+    <button style="background-color: orange;">
+    <img src="_nav_icons_/Store.jpg"> DigiStore</button></a>
+
+<a href="https://digiversedownloads.com/digitalstore/contact-me/">
+    <button style="background-color: turquoise;">
+    <img src="_nav_icons_/ContactMe.jpg"> CONTACT ME</button></a>
+
+</div>
+</html>
