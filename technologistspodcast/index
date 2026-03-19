@@ -1,0 +1,49 @@
+<!DOCTYPE html><html lang="en">
+
+<style>
+body {margin: 0; height: 85vh; background-color: green;}
+.center {display: block; margin-left: auto; margin-right: auto; width: 100%; height: 60vh; object-fit: stretch;}
+.button-container {display: grid; background-color: transparent;}
+.button-container button {font-size: xx-large; height: 90px; padding: 3%; width: 100%;}
+</style>
+
+<button id='menubtn' onclick='toggleMenu()' style="width: 100%; position: fixed; top:0; left:0;background-color: black; color: lightgray; text-align: center; font-size: xxx-large; height: 80px; z-index: 99;"><u>===M E N U===</u></button>
+<iframe id="my-iframe" style="position:fixed; top:60px; left:30%; border: none; z-index: 100;" src="../_nav_menu.html" width="40%" height='0px'></iframe>
+
+<script>
+    var toggleVar = 0; var iframe = document.getElementById('my-iframe');
+    function toggleMenu() {
+        toggleVar = toggleVar === 0 ? 1 : 0;
+        if (toggleVar === 1) {iframe.style.height = '80%';}
+        else {iframe.style.height = '0%';}}
+</script>
+
+<br><br><br><br><br>
+<img src="index_TechnologistsPodcast.jpg" class="center">
+<br><br>
+
+<div class="button-container">
+
+    <a href="tpc_12_05_2024_QuantumComputingApplications.mp3">
+    <button style="background-color: lightgrey;">
+    <img src="../_nav_icons_/PodCast.jpg"> Quantum Computing Applications - 12_05_2024</button></a>
+
+    <a href="tpc_11_10_2024_Fractals_In_Physics_and_Life.mp3">
+    <button style="background-color: lightgrey;">
+    <img src="../_nav_icons_/PodCast.jpg"> Fractals in Physics and Life - 11_10_2024</button></a>
+
+    <a href="tpc_11_07_2024_ShootingTheMessengers.mp3">
+    <button style="background-color: lightgrey;">
+    <img src="../_nav_icons_/PodCast.jpg"> Shooting The Messenger - 11_07_2024</button></a>
+
+    <a href="tpc_10_27_2024_spending-strategy.wav">
+    <button style="background-color: lightgrey;">
+    <img src="../_nav_icons_/PodCast.jpg"> Spending Strategy - 10_27_2024</button></a>
+
+    <a href="tpc_10_05_2024_AIagents.wav">
+    <button style="background-color: lightgrey;">
+    <img src="../_nav_icons_/PodCast.jpg"> AI Agents - 10_05_2024</button></a>
+
+</div>
+</html>
+
