@@ -3,7 +3,7 @@ import json
 
 picroll_path = os.path.join(os.getcwd(), '+James/Code_Projects/DigiverseDownloads/+digiversedownloads(github)/Slideshow/PicRoll')
 
-output_path = os.path.join(os.getcwd(), '+James/Code_Projects/DigiverseDownloads/+digiversedownloads(github)/Slideshow/PicRoll/images.json')
+output_path = os.path.join(os.getcwd(), '+James/Code_Projects/DigiverseDownloads/+digiversedownloads(github)/Slideshow/images.json')
 
 extensions = (".jpg", ".jpeg", ".png", ".gif", ".webp")
 images = []
