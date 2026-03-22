@@ -77,7 +77,7 @@
 <script>
     async function openOptionsRecos() {
         try {
-            const response = await fetch('Options Recos/recos.json');
+            const response = await fetch('OptionsRecos/recos.json');
             if (!response.ok) throw new Error('Could not load recos.json (status ' + response.status + ')');
             const data = await response.json();
             if (!data.pdf) throw new Error('No "pdf" field found in recos.json');
