@@ -49,5 +49,44 @@
         <button style="font-size: 105%">Tech News</button></a>
 </div>
 
+<br><br>
+
+<!-- Options Recos Button -->
+<div style="width: 100%; text-align: center; margin: 20px 0 40px 0;">
+    <button onclick="openOptionsRecos()" style="
+        background-color: #22c55e;
+        color: white;
+        font-size: 2em;
+        font-weight: bold;
+        padding: 24px 60px;
+        border: none;
+        border-radius: 16px;
+        cursor: pointer;
+        box-shadow: 0 6px 18px rgba(0,0,0,0.25);
+        letter-spacing: 2px;
+        transition: background-color 0.2s, transform 0.1s;
+    "
+    onmouseover="this.style.backgroundColor='#16a34a'"
+    onmouseout="this.style.backgroundColor='#22c55e'"
+    onmousedown="this.style.transform='scale(0.97)'"
+    onmouseup="this.style.transform='scale(1)'">
+        📄 OPTIONS RECOS
+    </button>
+</div>
+
+<script>
+    async function openOptionsRecos() {
+        try {
+            const response = await fetch('Options Recos/recos.json');
+            if (!response.ok) throw new Error('Could not load recos.json (status ' + response.status + ')');
+            const data = await response.json();
+            if (!data.pdf) throw new Error('No "pdf" field found in recos.json');
+            window.open('OptionsRecos/' + data.pdf, '_blank');
+        } catch (err) {
+            alert('Error opening Options Recos: ' + err.message);
+        }
+    }
+</script>
+
 </body>
 </html>
