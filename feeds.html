@@ -51,9 +51,9 @@
 
 <br><br>
 
-<!-- Options Recos Button -->
-<div style="width: 100%; text-align: center; margin: 20px 0 40px 0;">
-    <button onclick="openOptionsRecos()" style="
+<!-- Options Recos Section -->
+<div style="width: 100%; text-align: center; margin: 20px 0 10px 0;">
+    <button onclick="openLatestReco()" style="
         background-color: #22c55e;
         color: white;
         font-size: 2em;
@@ -70,22 +70,79 @@
     onmouseout="this.style.backgroundColor='#22c55e'"
     onmousedown="this.style.transform='scale(0.97)'"
     onmouseup="this.style.transform='scale(1)'">
-        📄 OPTIONS RECOS
+        📄 ChampWinJim's Latest Top Notch Options Recos
     </button>
 </div>
 
+<div style="width: 100%; text-align: center; margin: 0 0 40px 0;">
+    <details style="display: inline-block; font-size: 1.4em;">
+        <summary style="
+            cursor: pointer;
+            background-color: #1e3a5f;
+            color: #90cdf4;
+            padding: 10px 32px;
+            border-radius: 10px;
+            font-weight: bold;
+            list-style: none;
+            user-select: none;
+        ">📂 ChampWinJim's Historic Top Options Recos ▾</summary>
+        <div id="historic-list" style="
+            background: #f0f7ff;
+            border: 2px solid #1e3a5f;
+            border-radius: 10px;
+            padding: 12px 24px;
+            margin-top: 6px;
+            text-align: left;
+        ">
+            <em style="color:#888">Loading...</em>
+        </div>
+    </details>
+</div>
+
 <script>
-    async function openOptionsRecos() {
+    let recosData = null;
+
+    async function loadRecos() {
+        if (recosData) return recosData;
+        const response = await fetch('OptionsRecos/recos.json');
+        if (!response.ok) throw new Error('Could not load recos.json (status ' + response.status + ')');
+        recosData = await response.json();
+        return recosData;
+    }
+
+    async function openLatestReco() {
         try {
-            const response = await fetch('OptionsRecos/recos.json');
-            if (!response.ok) throw new Error('Could not load recos.json (status ' + response.status + ')');
-            const data = await response.json();
-            if (!data.pdf) throw new Error('No "pdf" field found in recos.json');
-            window.open('OptionsRecos/' + data.pdf, '_blank');
+            const data = await loadRecos();
+            if (!data.recos || !data.recos.length) throw new Error('No recos found in recos.json');
+            window.open('OptionsRecos/' + data.recos[0], '_blank');
         } catch (err) {
-            alert('Error opening Options Recos: ' + err.message);
+            alert('Error opening latest reco: ' + err.message);
         }
     }
+
+    // Populate historic list when dropdown opens
+    document.querySelector('details').addEventListener('toggle', async function() {
+        if (!this.open) return;
+        const container = document.getElementById('historic-list');
+        try {
+            const data = await loadRecos();
+            const historic = data.recos.slice(1); // everything after the latest
+            if (!historic.length) {
+                container.innerHTML = '<em style="color:#888">No historic recos yet.</em>';
+                return;
+            }
+            container.innerHTML = historic.map(pdf =>
+                `<div style="margin: 6px 0;">
+                    <a href="OptionsRecos/${pdf}" target="_blank"
+                       style="color: #1e3a5f; font-weight: bold; text-decoration: none;">
+                        📄 ${pdf}
+                    </a>
+                </div>`
+            ).join('');
+        } catch (err) {
+            container.innerHTML = '<em style="color:red">Error loading history: ' + err.message + '</em>';
+        }
+    });
 </script>
 
 </body>
