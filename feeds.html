@@ -104,7 +104,7 @@
 
     async function loadRecos() {
         if (recosData) return recosData;
-        const response = await fetch('OptionsRecos/recos.json');
+        const response = await fetch('OptionsRecos/Big_Options_Recos.json');
         if (!response.ok) throw new Error('Could not load recos.json (status ' + response.status + ')');
         recosData = await response.json();
         return recosData;
