@@ -27,7 +27,13 @@ body {margin: 0; height: 85vh;}
         if (toggleVar === 1) {iframe.style.height = '80%';}
         else {iframe.style.height = '0%';}}
 </script>
-
+<script>
+  document.addEventListener('click', function playAudio() {
+    const audio = new Audio('AwsMgcWelcome.wav'); // or .mp3
+    audio.play();
+    document.removeEventListener('click', playAudio); // play only once
+  }, { once: true });
+</script>
 <br><br><br><br>
 <img src="index_DigiverseDownloads.webp" class="center">
 
