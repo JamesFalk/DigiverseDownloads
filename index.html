@@ -29,7 +29,7 @@ body {margin: 0; height: 85vh;}
 </script>
 <script>
   document.addEventListener('click', function playAudio() {
-    const audio = new Audio('AwsMgcWelcome.wav'); // or .mp3
+    const audio = new Audio('AwsMgcWelcome.mp3'); // or .mp3
     audio.play();
     document.removeEventListener('click', playAudio); // play only once
   }, { once: true });
