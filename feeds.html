@@ -41,8 +41,15 @@
     <br>
     <a href="https://reddit.com/user/jimthecodeguru/m/markets/" target="_blank">
         <button style="font-size: 105%">Markets</button></a>
-    <a href="https://finance.yahoo.com/quote/^VIX" target="_blank">
-        <button style="font-size: 105%">VIX</button></a>
+    
+    <select onchange="if(this.value) window.open(this.value, '_blank'); this.selectedIndex=0;" style="font-size: 105%">
+  <option value="">-- Select Ticker --</option>
+  <option value="https://finance.yahoo.com/quote/%5EVIX">VIX</option>
+  <option value="https://finance.yahoo.com/quote/AAPL">AAPL</option>
+  <option value="https://finance.yahoo.com/quote/SPY">SPY</option>
+  
+    </select>
+    
     <a href="https://youtube.com/@yahoofinance" target="_blank">
         <button style="font-size: 105%">YFinance</button></a>
     <br>
