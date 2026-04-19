@@ -40,61 +40,88 @@
     <br>
     <a href="https://reddit.com/user/jimthecodeguru/m/markets/" target="_blank">
         <button style="font-size: 105%">Markets</button></a>
-    <select onchange="if(this.value) window.open(this.value, '_blank'); this.selectedIndex=0;" style="font-size: 120%">
-  <option value="">–STOCKLIST–</option>
-  <option value="https://finance.yahoo.com/quote/%5EVIX">VIX</option>
-  <option value="https://finance.yahoo.com/quote/AAL">AAL</option>
-  <option value="https://finance.yahoo.com/quote/ACHR">ACHR</option>
-  <option value="https://finance.yahoo.com/quote/AMC">AMC</option>
-  <option value="https://finance.yahoo.com/quote/BB">BB</option>
-  <option value="https://finance.yahoo.com/quote/BBAI">BBAI</option>
-  <option value="https://finance.yahoo.com/quote/BULL">BULL</option>
-  <option value="https://finance.yahoo.com/quote/CCL">CCL</option>
-  <option value="https://finance.yahoo.com/quote/CMG">CMG</option>
-  <option value="https://finance.yahoo.com/quote/DKNG">DKNG</option>
-  <option value="https://finance.yahoo.com/quote/EPD">EPD</option>
-  <option value="https://finance.yahoo.com/quote/ET">ET</option>
-  <option value="https://finance.yahoo.com/quote/F">F</option>
-  <option value="https://finance.yahoo.com/quote/GAP">GAP</option>
-  <option value="https://finance.yahoo.com/quote/GME">GME</option>
-  <option value="https://finance.yahoo.com/quote/HIMS">HIMS</option>
-  <option value="https://finance.yahoo.com/quote/HTZ">HTZ</option>
-  <option value="https://finance.yahoo.com/quote/IONQ">IONQ</option>
-  <option value="https://finance.yahoo.com/quote/JBLU">JBLU</option>
-  <option value="https://finance.yahoo.com/quote/JOBY">JOBY</option>
-  <option value="https://finance.yahoo.com/quote/KGC">KGC</option>
-  <option value="https://finance.yahoo.com/quote/KHC">KHC</option>
-  <option value="https://finance.yahoo.com/quote/LAC">LAC</option>
-  <option value="https://finance.yahoo.com/quote/LCID">LCID</option>
-  <option value="https://finance.yahoo.com/quote/LUNR">LUNR</option>
-  <option value="https://finance.yahoo.com/quote/NOK">NOK</option>
-  <option value="https://finance.yahoo.com/quote/ONDS">ONDS</option>
-  <option value="https://finance.yahoo.com/quote/OPEN">OPEN</option>
-  <option value="https://finance.yahoo.com/quote/PATH">PATH</option>
-  <option value="https://finance.yahoo.com/quote/PFE">PFE</option>
-  <option value="https://finance.yahoo.com/quote/PLUG">PLUG</option>
-  <option value="https://finance.yahoo.com/quote/QBTS">QBTS</option>
-  <option value="https://finance.yahoo.com/quote/QUBT">QUBT</option>
-  <option value="https://finance.yahoo.com/quote/RCAT">RCAT</option>
-  <option value="https://finance.yahoo.com/quote/RGTI">RGTI</option>
-  <option value="https://finance.yahoo.com/quote/RKT">RKT</option>
-  <option value="https://finance.yahoo.com/quote/RUN">RUN</option>
-  <option value="https://finance.yahoo.com/quote/SBET">SBET</option>
-  <option value="https://finance.yahoo.com/quote/SIRI">SIRI</option>
-  <option value="https://finance.yahoo.com/quote/SOC">SOC</option>
-  <option value="https://finance.yahoo.com/quote/SOUN">SOUN</option>
-  <option value="https://finance.yahoo.com/quote/SPCE">SPCE</option>
-  <option value="https://finance.yahoo.com/quote/T">T</option>
-  <option value="https://finance.yahoo.com/quote/TLRY">TLRY</option>
-  <option value="https://finance.yahoo.com/quote/TMC">TMC</option>
-  <option value="https://finance.yahoo.com/quote/U">U</option>
-  <option value="https://finance.yahoo.com/quote/UNG">UNG</option>
-  <option value="https://finance.yahoo.com/quote/UPST">UPST</option>
-  <option value="https://finance.yahoo.com/quote/WBD">WBD</option>
-</select>
-    <a href="https://youtube.com/@yahoofinance" target="_blank">
-        <button style="font-size: 105%">YgFinance</button></a>
-    <br>
+    <a href="https://reddit.com/user/jimthecodeguru/m/markets/" target="_blank">
+  <button style="font-size: 105%">Markets</button></a>
+
+<div class="custom-dropdown" style="display:inline-block; position:relative;">
+  <button onclick="toggleDrop(this)" style="font-size: 120%">–STOCKLIST–</button>
+  <div class="drop-menu" style="display:none; position:absolute; background:white; border:1px solid #ccc; z-index:999; min-width:180px; max-height:60vh; overflow-y:auto;">
+    <div class="drop-row" style="display:flex; padding:4px 8px; gap:8px; font-weight:bold; border-bottom:1px solid #ccc;">
+      <span style="flex:1;">Ticker</span>
+      <span style="min-width:30px; text-align:center;">Y</span>
+      <span style="min-width:30px; text-align:center;">B</span>
+    </div>
+    <div class="drop-row" style="display:flex; padding:4px 8px; gap:8px;"><span style="flex:1;">VIX</span><a href="https://finance.yahoo.com/quote/%5EVIX" target="_blank" style="min-width:30px; text-align:center;">Y</a><a href="https://www.barchart.com/stocks/quotes/%5EVIX" target="_blank" style="min-width:30px; text-align:center;">B</a></div>
+    <div class="drop-row" style="display:flex; padding:4px 8px; gap:8px;"><span style="flex:1;">AAL</span><a href="https://finance.yahoo.com/quote/AAL" target="_blank" style="min-width:30px; text-align:center;">Y</a><a href="https://www.barchart.com/stocks/quotes/AAL" target="_blank" style="min-width:30px; text-align:center;">B</a></div>
+    <div class="drop-row" style="display:flex; padding:4px 8px; gap:8px;"><span style="flex:1;">ACHR</span><a href="https://finance.yahoo.com/quote/ACHR" target="_blank" style="min-width:30px; text-align:center;">Y</a><a href="https://www.barchart.com/stocks/quotes/ACHR" target="_blank" style="min-width:30px; text-align:center;">B</a></div>
+    <div class="drop-row" style="display:flex; padding:4px 8px; gap:8px;"><span style="flex:1;">AMC</span><a href="https://finance.yahoo.com/quote/AMC" target="_blank" style="min-width:30px; text-align:center;">Y</a><a href="https://www.barchart.com/stocks/quotes/AMC" target="_blank" style="min-width:30px; text-align:center;">B</a></div>
+    <div class="drop-row" style="display:flex; padding:4px 8px; gap:8px;"><span style="flex:1;">BB</span><a href="https://finance.yahoo.com/quote/BB" target="_blank" style="min-width:30px; text-align:center;">Y</a><a href="https://www.barchart.com/stocks/quotes/BB" target="_blank" style="min-width:30px; text-align:center;">B</a></div>
+    <div class="drop-row" style="display:flex; padding:4px 8px; gap:8px;"><span style="flex:1;">BBAI</span><a href="https://finance.yahoo.com/quote/BBAI" target="_blank" style="min-width:30px; text-align:center;">Y</a><a href="https://www.barchart.com/stocks/quotes/BBAI" target="_blank" style="min-width:30px; text-align:center;">B</a></div>
+    <div class="drop-row" style="display:flex; padding:4px 8px; gap:8px;"><span style="flex:1;">BULL</span><a href="https://finance.yahoo.com/quote/BULL" target="_blank" style="min-width:30px; text-align:center;">Y</a><a href="https://www.barchart.com/stocks/quotes/BULL" target="_blank" style="min-width:30px; text-align:center;">B</a></div>
+    <div class="drop-row" style="display:flex; padding:4px 8px; gap:8px;"><span style="flex:1;">CCL</span><a href="https://finance.yahoo.com/quote/CCL" target="_blank" style="min-width:30px; text-align:center;">Y</a><a href="https://www.barchart.com/stocks/quotes/CCL" target="_blank" style="min-width:30px; text-align:center;">B</a></div>
+    <div class="drop-row" style="display:flex; padding:4px 8px; gap:8px;"><span style="flex:1;">CMG</span><a href="https://finance.yahoo.com/quote/CMG" target="_blank" style="min-width:30px; text-align:center;">Y</a><a href="https://www.barchart.com/stocks/quotes/CMG" target="_blank" style="min-width:30px; text-align:center;">B</a></div>
+    <div class="drop-row" style="display:flex; padding:4px 8px; gap:8px;"><span style="flex:1;">DKNG</span><a href="https://finance.yahoo.com/quote/DKNG" target="_blank" style="min-width:30px; text-align:center;">Y</a><a href="https://www.barchart.com/stocks/quotes/DKNG" target="_blank" style="min-width:30px; text-align:center;">B</a></div>
+    <div class="drop-row" style="display:flex; padding:4px 8px; gap:8px;"><span style="flex:1;">EPD</span><a href="https://finance.yahoo.com/quote/EPD" target="_blank" style="min-width:30px; text-align:center;">Y</a><a href="https://www.barchart.com/stocks/quotes/EPD" target="_blank" style="min-width:30px; text-align:center;">B</a></div>
+    <div class="drop-row" style="display:flex; padding:4px 8px; gap:8px;"><span style="flex:1;">ET</span><a href="https://finance.yahoo.com/quote/ET" target="_blank" style="min-width:30px; text-align:center;">Y</a><a href="https://www.barchart.com/stocks/quotes/ET" target="_blank" style="min-width:30px; text-align:center;">B</a></div>
+    <div class="drop-row" style="display:flex; padding:4px 8px; gap:8px;"><span style="flex:1;">F</span><a href="https://finance.yahoo.com/quote/F" target="_blank" style="min-width:30px; text-align:center;">Y</a><a href="https://www.barchart.com/stocks/quotes/F" target="_blank" style="min-width:30px; text-align:center;">B</a></div>
+    <div class="drop-row" style="display:flex; padding:4px 8px; gap:8px;"><span style="flex:1;">GAP</span><a href="https://finance.yahoo.com/quote/GAP" target="_blank" style="min-width:30px; text-align:center;">Y</a><a href="https://www.barchart.com/stocks/quotes/GAP" target="_blank" style="min-width:30px; text-align:center;">B</a></div>
+    <div class="drop-row" style="display:flex; padding:4px 8px; gap:8px;"><span style="flex:1;">GME</span><a href="https://finance.yahoo.com/quote/GME" target="_blank" style="min-width:30px; text-align:center;">Y</a><a href="https://www.barchart.com/stocks/quotes/GME" target="_blank" style="min-width:30px; text-align:center;">B</a></div>
+    <div class="drop-row" style="display:flex; padding:4px 8px; gap:8px;"><span style="flex:1;">HIMS</span><a href="https://finance.yahoo.com/quote/HIMS" target="_blank" style="min-width:30px; text-align:center;">Y</a><a href="https://www.barchart.com/stocks/quotes/HIMS" target="_blank" style="min-width:30px; text-align:center;">B</a></div>
+    <div class="drop-row" style="display:flex; padding:4px 8px; gap:8px;"><span style="flex:1;">HTZ</span><a href="https://finance.yahoo.com/quote/HTZ" target="_blank" style="min-width:30px; text-align:center;">Y</a><a href="https://www.barchart.com/stocks/quotes/HTZ" target="_blank" style="min-width:30px; text-align:center;">B</a></div>
+    <div class="drop-row" style="display:flex; padding:4px 8px; gap:8px;"><span style="flex:1;">IONQ</span><a href="https://finance.yahoo.com/quote/IONQ" target="_blank" style="min-width:30px; text-align:center;">Y</a><a href="https://www.barchart.com/stocks/quotes/IONQ" target="_blank" style="min-width:30px; text-align:center;">B</a></div>
+    <div class="drop-row" style="display:flex; padding:4px 8px; gap:8px;"><span style="flex:1;">JBLU</span><a href="https://finance.yahoo.com/quote/JBLU" target="_blank" style="min-width:30px; text-align:center;">Y</a><a href="https://www.barchart.com/stocks/quotes/JBLU" target="_blank" style="min-width:30px; text-align:center;">B</a></div>
+    <div class="drop-row" style="display:flex; padding:4px 8px; gap:8px;"><span style="flex:1;">JOBY</span><a href="https://finance.yahoo.com/quote/JOBY" target="_blank" style="min-width:30px; text-align:center;">Y</a><a href="https://www.barchart.com/stocks/quotes/JOBY" target="_blank" style="min-width:30px; text-align:center;">B</a></div>
+    <div class="drop-row" style="display:flex; padding:4px 8px; gap:8px;"><span style="flex:1;">KGC</span><a href="https://finance.yahoo.com/quote/KGC" target="_blank" style="min-width:30px; text-align:center;">Y</a><a href="https://www.barchart.com/stocks/quotes/KGC" target="_blank" style="min-width:30px; text-align:center;">B</a></div>
+    <div class="drop-row" style="display:flex; padding:4px 8px; gap:8px;"><span style="flex:1;">KHC</span><a href="https://finance.yahoo.com/quote/KHC" target="_blank" style="min-width:30px; text-align:center;">Y</a><a href="https://www.barchart.com/stocks/quotes/KHC" target="_blank" style="min-width:30px; text-align:center;">B</a></div>
+    <div class="drop-row" style="display:flex; padding:4px 8px; gap:8px;"><span style="flex:1;">LAC</span><a href="https://finance.yahoo.com/quote/LAC" target="_blank" style="min-width:30px; text-align:center;">Y</a><a href="https://www.barchart.com/stocks/quotes/LAC" target="_blank" style="min-width:30px; text-align:center;">B</a></div>
+    <div class="drop-row" style="display:flex; padding:4px 8px; gap:8px;"><span style="flex:1;">LCID</span><a href="https://finance.yahoo.com/quote/LCID" target="_blank" style="min-width:30px; text-align:center;">Y</a><a href="https://www.barchart.com/stocks/quotes/LCID" target="_blank" style="min-width:30px; text-align:center;">B</a></div>
+    <div class="drop-row" style="display:flex; padding:4px 8px; gap:8px;"><span style="flex:1;">LUNR</span><a href="https://finance.yahoo.com/quote/LUNR" target="_blank" style="min-width:30px; text-align:center;">Y</a><a href="https://www.barchart.com/stocks/quotes/LUNR" target="_blank" style="min-width:30px; text-align:center;">B</a></div>
+    <div class="drop-row" style="display:flex; padding:4px 8px; gap:8px;"><span style="flex:1;">NOK</span><a href="https://finance.yahoo.com/quote/NOK" target="_blank" style="min-width:30px; text-align:center;">Y</a><a href="https://www.barchart.com/stocks/quotes/NOK" target="_blank" style="min-width:30px; text-align:center;">B</a></div>
+    <div class="drop-row" style="display:flex; padding:4px 8px; gap:8px;"><span style="flex:1;">ONDS</span><a href="https://finance.yahoo.com/quote/ONDS" target="_blank" style="min-width:30px; text-align:center;">Y</a><a href="https://www.barchart.com/stocks/quotes/ONDS" target="_blank" style="min-width:30px; text-align:center;">B</a></div>
+    <div class="drop-row" style="display:flex; padding:4px 8px; gap:8px;"><span style="flex:1;">OPEN</span><a href="https://finance.yahoo.com/quote/OPEN" target="_blank" style="min-width:30px; text-align:center;">Y</a><a href="https://www.barchart.com/stocks/quotes/OPEN" target="_blank" style="min-width:30px; text-align:center;">B</a></div>
+    <div class="drop-row" style="display:flex; padding:4px 8px; gap:8px;"><span style="flex:1;">PATH</span><a href="https://finance.yahoo.com/quote/PATH" target="_blank" style="min-width:30px; text-align:center;">Y</a><a href="https://www.barchart.com/stocks/quotes/PATH" target="_blank" style="min-width:30px; text-align:center;">B</a></div>
+    <div class="drop-row" style="display:flex; padding:4px 8px; gap:8px;"><span style="flex:1;">PFE</span><a href="https://finance.yahoo.com/quote/PFE" target="_blank" style="min-width:30px; text-align:center;">Y</a><a href="https://www.barchart.com/stocks/quotes/PFE" target="_blank" style="min-width:30px; text-align:center;">B</a></div>
+    <div class="drop-row" style="display:flex; padding:4px 8px; gap:8px;"><span style="flex:1;">PLUG</span><a href="https://finance.yahoo.com/quote/PLUG" target="_blank" style="min-width:30px; text-align:center;">Y</a><a href="https://www.barchart.com/stocks/quotes/PLUG" target="_blank" style="min-width:30px; text-align:center;">B</a></div>
+    <div class="drop-row" style="display:flex; padding:4px 8px; gap:8px;"><span style="flex:1;">QBTS</span><a href="https://finance.yahoo.com/quote/QBTS" target="_blank" style="min-width:30px; text-align:center;">Y</a><a href="https://www.barchart.com/stocks/quotes/QBTS" target="_blank" style="min-width:30px; text-align:center;">B</a></div>
+    <div class="drop-row" style="display:flex; padding:4px 8px; gap:8px;"><span style="flex:1;">QUBT</span><a href="https://finance.yahoo.com/quote/QUBT" target="_blank" style="min-width:30px; text-align:center;">Y</a><a href="https://www.barchart.com/stocks/quotes/QUBT" target="_blank" style="min-width:30px; text-align:center;">B</a></div>
+    <div class="drop-row" style="display:flex; padding:4px 8px; gap:8px;"><span style="flex:1;">RCAT</span><a href="https://finance.yahoo.com/quote/RCAT" target="_blank" style="min-width:30px; text-align:center;">Y</a><a href="https://www.barchart.com/stocks/quotes/RCAT" target="_blank" style="min-width:30px; text-align:center;">B</a></div>
+    <div class="drop-row" style="display:flex; padding:4px 8px; gap:8px;"><span style="flex:1;">RGTI</span><a href="https://finance.yahoo.com/quote/RGTI" target="_blank" style="min-width:30px; text-align:center;">Y</a><a href="https://www.barchart.com/stocks/quotes/RGTI" target="_blank" style="min-width:30px; text-align:center;">B</a></div>
+    <div class="drop-row" style="display:flex; padding:4px 8px; gap:8px;"><span style="flex:1;">RKT</span><a href="https://finance.yahoo.com/quote/RKT" target="_blank" style="min-width:30px; text-align:center;">Y</a><a href="https://www.barchart.com/stocks/quotes/RKT" target="_blank" style="min-width:30px; text-align:center;">B</a></div>
+    <div class="drop-row" style="display:flex; padding:4px 8px; gap:8px;"><span style="flex:1;">RUN</span><a href="https://finance.yahoo.com/quote/RUN" target="_blank" style="min-width:30px; text-align:center;">Y</a><a href="https://www.barchart.com/stocks/quotes/RUN" target="_blank" style="min-width:30px; text-align:center;">B</a></div>
+    <div class="drop-row" style="display:flex; padding:4px 8px; gap:8px;"><span style="flex:1;">SBET</span><a href="https://finance.yahoo.com/quote/SBET" target="_blank" style="min-width:30px; text-align:center;">Y</a><a href="https://www.barchart.com/stocks/quotes/SBET" target="_blank" style="min-width:30px; text-align:center;">B</a></div>
+    <div class="drop-row" style="display:flex; padding:4px 8px; gap:8px;"><span style="flex:1;">SIRI</span><a href="https://finance.yahoo.com/quote/SIRI" target="_blank" style="min-width:30px; text-align:center;">Y</a><a href="https://www.barchart.com/stocks/quotes/SIRI" target="_blank" style="min-width:30px; text-align:center;">B</a></div>
+    <div class="drop-row" style="display:flex; padding:4px 8px; gap:8px;"><span style="flex:1;">SOC</span><a href="https://finance.yahoo.com/quote/SOC" target="_blank" style="min-width:30px; text-align:center;">Y</a><a href="https://www.barchart.com/stocks/quotes/SOC" target="_blank" style="min-width:30px; text-align:center;">B</a></div>
+    <div class="drop-row" style="display:flex; padding:4px 8px; gap:8px;"><span style="flex:1;">SOUN</span><a href="https://finance.yahoo.com/quote/SOUN" target="_blank" style="min-width:30px; text-align:center;">Y</a><a href="https://www.barchart.com/stocks/quotes/SOUN" target="_blank" style="min-width:30px; text-align:center;">B</a></div>
+    <div class="drop-row" style="display:flex; padding:4px 8px; gap:8px;"><span style="flex:1;">SPCE</span><a href="https://finance.yahoo.com/quote/SPCE" target="_blank" style="min-width:30px; text-align:center;">Y</a><a href="https://www.barchart.com/stocks/quotes/SPCE" target="_blank" style="min-width:30px; text-align:center;">B</a></div>
+    <div class="drop-row" style="display:flex; padding:4px 8px; gap:8px;"><span style="flex:1;">T</span><a href="https://finance.yahoo.com/quote/T" target="_blank" style="min-width:30px; text-align:center;">Y</a><a href="https://www.barchart.com/stocks/quotes/T" target="_blank" style="min-width:30px; text-align:center;">B</a></div>
+    <div class="drop-row" style="display:flex; padding:4px 8px; gap:8px;"><span style="flex:1;">TLRY</span><a href="https://finance.yahoo.com/quote/TLRY" target="_blank" style="min-width:30px; text-align:center;">Y</a><a href="https://www.barchart.com/stocks/quotes/TLRY" target="_blank" style="min-width:30px; text-align:center;">B</a></div>
+    <div class="drop-row" style="display:flex; padding:4px 8px; gap:8px;"><span style="flex:1;">TMC</span><a href="https://finance.yahoo.com/quote/TMC" target="_blank" style="min-width:30px; text-align:center;">Y</a><a href="https://www.barchart.com/stocks/quotes/TMC" target="_blank" style="min-width:30px; text-align:center;">B</a></div>
+    <div class="drop-row" style="display:flex; padding:4px 8px; gap:8px;"><span style="flex:1;">U</span><a href="https://finance.yahoo.com/quote/U" target="_blank" style="min-width:30px; text-align:center;">Y</a><a href="https://www.barchart.com/stocks/quotes/U" target="_blank" style="min-width:30px; text-align:center;">B</a></div>
+    <div class="drop-row" style="display:flex; padding:4px 8px; gap:8px;"><span style="flex:1;">UNG</span><a href="https://finance.yahoo.com/quote/UNG" target="_blank" style="min-width:30px; text-align:center;">Y</a><a href="https://www.barchart.com/stocks/quotes/UNG" target="_blank" style="min-width:30px; text-align:center;">B</a></div>
+    <div class="drop-row" style="display:flex; padding:4px 8px; gap:8px;"><span style="flex:1;">UPST</span><a href="https://finance.yahoo.com/quote/UPST" target="_blank" style="min-width:30px; text-align:center;">Y</a><a href="https://www.barchart.com/stocks/quotes/UPST" target="_blank" style="min-width:30px; text-align:center;">B</a></div>
+    <div class="drop-row" style="display:flex; padding:4px 8px; gap:8px;"><span style="flex:1;">WBD</span><a href="https://finance.yahoo.com/quote/WBD" target="_blank" style="min-width:30px; text-align:center;">Y</a><a href="https://www.barchart.com/stocks/quotes/WBD" target="_blank" style="min-width:30px; text-align:center;">B</a></div>
+  </div>
+</div>
+
+<a href="https://youtube.com/@yahoofinance" target="_blank">
+  <button style="font-size: 105%">YgFinance</button></a>
+<br>
+
+<script>
+function toggleDrop(btn) {
+  const menu = btn.nextElementSibling;
+  const isOpen = menu.style.display === 'block';
+  // close all open menus first
+  document.querySelectorAll('.drop-menu').forEach(m => m.style.display = 'none');
+  if (!isOpen) menu.style.display = 'block';
+}
+// close when clicking outside
+document.addEventListener('click', function(e) {
+  if (!e.target.closest('.custom-dropdown')) {
+    document.querySelectorAll('.drop-menu').forEach(m => m.style.display = 'none');
+  }
+});
+</script>
     
     <a href="https://www.reddit.com/user/jimthecodeguru/m/dev5_news/new/" target="_blank">
         <button style="font-size: 105%">Technology</button></a>
