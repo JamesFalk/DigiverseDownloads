@@ -217,13 +217,15 @@ document.addEventListener('click', function(e) {
                 return;
             }
             container.innerHTML = historic.map(pdf =>
-                `<div style="margin: 6px 0;">
-                    <a href="OptionsRecos/${pdf}" target="_blank"
-                       style="color: #1e3a5f; font-weight: bold; text-decoration: none;">
-                        ${pdf}
-                    </a>
-                </div>`
-            ).join('');
+    pdf === '- - -'
+        ? `<hr style="border: none; border-top: 1px solid #aac4e0; margin: 6px 0;">`
+        : `<div style="margin: 6px 0;">
+               <a href="OptionsRecos/${pdf}" target="_blank"
+                  style="color: #1e3a5f; font-weight: bold; text-decoration: none;">
+                   ${pdf}
+               </a>
+           </div>`
+).join('');
         } catch (err) {
             container.innerHTML = '<em style="color:red">Error loading history: ' + err.message + '</em>';
         }
