@@ -1,0 +1,87 @@
+ChampWinJim's Daily Options RecosWednesday | April 29, 2026 | 09:48 PMActive Filter: ≥ 70% Win Rates and/or Best Forecasts <$>
+
+( (+) ) =by Fri May 01  ( (+)+) =by Fri May 08  ( ( ) ) x =MissedTwoWeeksOut+ ?=no data
+
+
+
+(( [3-Double-Locked Calls] ))
+
+(( [GME, Abroon #5wk | 6 : 2 : 2 | 25.0C, 25.5C | 75.0%Win] <$> ))  +, +
+(( [LAC, Auto #5wk | 2 : 1 : 2 | 5.0C | 50.0% Win] <$>))  +
+(( [PLUG, FPiv_inv #2wk | 1 : 1 : 1 | 3.5C | 50.0% Win]<$> ))  x
+
+[( (+) ) 3 (75%) by Friday May 01 
+ [( (+)+)  3 (75%) by Friday May 08 
+  ( ( ) ) x  1 (25%) MissedTWO+]]
+
+
+
+
+(| [22-Single-Locked Calls] |)
+
+(| [SPCE, RSI #5wk | 2 : 1 : 0 | 2.5C | 100.0% Win] |)  +
+(| [SIRI, RSI _inv #5wk | 11 : 3 : 4 | --- ... 28.0C |73.3% Win] |)  x
+(| [F, Auto #5wk | 2 : 1 : 1 | 12.5C | 66.7% Win] <$>|)  x
+(| [QBTS, RSI #3wk | 3 : 2 : 0 | 18.5C, 19.0C | 100.0%Win] <$> |)  +, +
+(| [RCAT, FPiv #3wk | 3 : 3 : 0 | 11.5C, 12.0C, 12.5C |100.0% Win] |)  +, x, x
+(| [SIRI, Abroon #3wk | 6 : 2 : 1 | 27.0C, 27.5C |85.7% Win] |)  +, x
+(| [SOUN, Auto #3wk | 3 : 1 : 1 | 8.5C | 75.0% Win] |)  +
+(| [SOC, RSI #3wk | 5 : 2 : 2 | 14.0C, 14.5C | 71.4%Win] |)  +, ++
+(| [CCL, RSI #2wk | 3 : 3 : 0 | 26.0C, 26.5C, 27.0C |100.0% Win] |)  +, +, ++
+(| [CMG, RSI #2wk | 3 : 2 : 0 | 33.5C, 34.0C | 100.0%Win] |)  +, x
+(| [HTZ, FPiv #2wk | 3 : 2 : 0 | 6.0C, 6.5C | 100.0%Win] |)  +, x
+(| [TLRY, RSI #2wk | 3 : 2 : 0 | 6.5C, 7.0C | 100.0%Win] |)  x, x
+(| [KHC, Abroon_inv #2wk | 2 : 1 : 0 | 22.5C | 100.0%Win] <$> |)  +
+(| [NOK, Abroon #2wk | 2 : 2 : 0 | 12.5C, 13.0C |100.0% Win] <$> |)  +, +
+(| [RKT, RSI #2wk | 2 : 2 : 0 | 14.5C, 15.5C | 100.0%Win] <$> |)  +, ++
+(| [RUN, RSI #2wk | 2 : 2 : 0 | 12.0C, 13.0C | 100.0%Win] <$> |)  +, +
+(| [LUNR, FPiv #2wk | 7 : 2 : 1 | 25.0C, 25.5C | 87.5%Win] |)  +, +
+(| [RKT, FPiv #2wk | 4 : 2 : 1 | --- ... 16.0C | 80.0%Win] |)  x
+(| [UPST, RSI #2wk | 7 : 1 : 2 | 30.5C | 77.8% Win] <$>|)  +
+(| [CCL, FPiv #2wk | 6 : 4 : 2 | --- ... 27.5C, 28.0C |75.0% Win] |)  ++, x
+(| [AAL, FPiv #2wk | 3 : 1 : 1 | 12.0C | 75.0% Win] |)  ++
+(| [GAP, Auto #2wk | 3 : 3 : 1 | --- ... 25.5C, 26.0C |75.0% Win] |)  x, x
+
+[( (+) ) 20 (53%) by Friday May 01 
+ [( (+)+)  25 (66%) by Friday May 08 
+  ( ( ) ) x  13 (34%) MissedTWO+]]
+
+
+
+
+(( [1-Double-Locked Puts] ))
+
+(( [UNG, RSI _inv #2wk | 2 : 1 : 0 | 10.0P | 100.0%Win] <$> ))  x
+
+[( (+) ) 0 (0%) by Friday May 01 
+ [( (+)+)  0 (0%) by Friday May 08 
+  ( ( ) ) x  1 (100%) MissedTWO+]]
+
+
+
+
+(| [19-Single-Locked Puts] |)
+
+(| [BBAI, FPiv #5wk | 4 : 1 : 1 | 3.5P | 80.0% Win] |)  x
+(| [LUNR, Abroon_inv #3wk | 14 : 4 : 0 | 23.0P, 23.5P, 24.0P, 24.5P ø15.5, ø16.0, ø16.5 | 100.0% Win] <$> |)  x, x, x, ++
+(| [RCAT, Auto_inv #3wk | 5 : 2 : 0 | 10.5P, 11.0Pø10.0, ø10.5, ø11.0, ø11.5, ø12.0, ø12.5 | 100.0% Win]<$> |)  ++, ++
+(| [LCID, RSI _inv #3wk | 8 : 1 : 1 | 5.5P | 88.9% Win]<$> |)  x
+(| [RCAT, Abroon_inv #3wk | 6 : 2 : 1 | --- ... ø10.0, ø10.5, ø11.0, ø11.5, ø12.0, ø12.5, ø13.0 | 85.7% Win]|)  
+(| [LUNR, Auto_inv #3wk | 13 : 4 : 3 | --- ... ø15.5, ø16.0, ø16.5 | 81.2% Win] |)  
+(| [LCID, FPiv_inv #3wk | 7 : 2 : 3 | --- ... 5.0P |70.0% Win] |)  x
+(| [SOC, Auto_inv #3wk | 7 : 3 : 3 | --- ... 12.5P\13.5, ø13.5, \14.0, \14.5, ø14.5, \15.0 | 70.0% Win]|)  x
+(| [IONQ, RSI #2wk | 8 : 3 : 0 | 41.0P, 41.5P, 42.0P |100.0% Win] <$> |)  x, x, x
+(| [SIRI, Auto_inv #2wk | 8 : 3 : 0 | 25.5P, 26.0P, 26.5P | 100.0% Win] <$> |)  x, x, ++
+(| [CMG, Abroon_inv #2wk | 6 : 3 : 0 | 31.5P, 32.0P, 32.5P | 100.0% Win] <$> |)  x, ++, ++
+(| [CCL, Abroon_inv #2wk | 5 : 1 : 0 | 25.5P | 100.0%Win] <$> |)  x
+(| [RCAT, RSI _inv #2wk | 4 : 1 : 0 | --- ... ø11.0, ø11.5, ø12.0, ø13.0 | 100.0% Win] |)  
+(| [SOC, FPiv #2wk | 4 : 2 : 0 | 13.0P, 13.5P | 100.0%Win] <$> |)  ++, ++
+(| [GAP, Abroon_inv #2wk | 2 : 2 : 0 | 23.5P, 24.0P |100.0% Win] <$> |)  ++, ++
+(| [IONQ, FPiv #2wk | 2 : 4 : 0 | --- ... 40.5P |100.0% Win] |)  x
+(| [NOK, FPiv #2wk | 2 : 2 : 0 | 10.5P, 12.0P | 100.0%Win] |)  x, x
+(| [TLRY, RSI _inv #2wk | 2 : 1 : 0 | 6.0P | 100.0%Win] |)  ++
+(| [NOK, Auto #2wk | 3 : 3 : 1 | --- ... 11.0P | 75.0%Win] |)  x
+
+[( (+) ) 0 (0%) by Friday May 01 
+ [( (+)+)  11 (38%) by Friday May 08 
+  ( ( ) ) x  18 (62%) MissedTWO+]]
