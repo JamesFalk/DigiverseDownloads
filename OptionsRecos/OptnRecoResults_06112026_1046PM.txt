@@ -1,0 +1,114 @@
+ChampWinJim's Daily Options RecosThursday | June 11, 2026 | 10:46 PMActive Filter: ≥ 70% Win Rates and/or Best Forecasts <$>
+
+( (+) ) =by Fri Jun 12  ( (+)+) =by Fri Jun 19  ( ( ) ) x =MissedTwoWeeksOut+ ?=no data
+
+
+
+(( [5-Double-Locked Calls] ))
+
+(( [PATH, RSI #4wk | 3 : 2 : 0 | 11.0C, 11.5C | 100.0%Win] <$> ))  x, x
+(( [DKNG, Auto_inv #3wk | 7 : 2 : 3 | 30.5C, 31.0C |70.0% Win] ))  x, x
+(( [AAL, FPiv #2wk | 7 : 2 : 0 | 15.0C, 15.5C | 100.0%Win] <$> ))  ++, ++
+(( [UPST, Abroon_inv #2wk | 11 : 2 : 1 | 32.0C, 32.5C |91.7% Win] <$> ))  ++, x
+(( [SIRI, FPiv #2wk | 7 : 3 : 1 | 28.0C, 28.5C, 29.0C |87.5% Win] <$> ))  ++, x, x
+
+[( (+) ) 0 (0%) by Friday Jun 12 
+ [( (+)+)  4 (36%) by Friday Jun 19 
+  ( ( ) ) x  7 (64%) MissedTWO+]]
+
+
+
+
+(| [28-Single-Locked Calls] |)
+
+(| [RR, RSI #5wk | 2 : 1 : 0 | 2.5C | 100.0% Win] |)  x
+(| [LCID, Auto #4wk | 3 : 1 : 0 | 5.5C | 100.0% Win]<$> |)  x
+(| [PLUG, RSI #4wk | 3 : 1 : 0 | 3.0C | 100.0% Win] <$>|)  x
+(| [QUBT, Auto #4wk | 6 : 3 : 1 | 10.0C, 10.5C, 11.0C |85.7% Win] |)  ++, ++, ++
+(| [BB, RSI _inv #4wk | 7 : 2 : 3 | 9.5C, 10.0C | 70.0%Win] <$> |)  x, x
+(| [KGC, FPiv #3wk | 13 : 6 : 0 | 25.0C, 25.5C, 26.0C, 26.5C, 27.0C, 27.5C | 100.0% Win] <$> |)  +, +, ++, ++, ++, ++
+(| [QBTS, Auto #3wk | 10 : 5 : 0 | 24.0C, 24.5C, 25.0C, 25.5C, 26.0C | 100.0% Win] <$> |)  ++, ++, ++, ++, ++
+(| [QBTS, FPiv #2wk | 10 : 7 : 0 | --- ... 26.5C, 27.0C | 100.0% Win] |)  x, x
+(| [RGTI, FPiv #2wk | 9 : 6 : 0 | 21.0C, 21.5C, 22.0C, 22.5C, 23.0C, 23.5C | 100.0% Win] |)  ++, ++, ++, ++, x, x
+(| [U, RSI #2wk | 6 : 4 : 0 | 27.0C, 27.5C, 28.5C, 29.0C | 100.0% Win] <$> |)  +, ++, x, x
+(| [RUN, FPiv #2wk | 4 : 2 : 0 | 14.0C, 14.5C | 100.0%Win] |)  x, x
+(| [GAP, Abroon_inv #2wk | 3 : 1 : 0 | 22.0C | 100.0%Win] <$> |)  ++
+(| [JOBY, FPiv #2wk | 3 : 4 : 0 | 9.5C, 10.0C, 10.5C, 11.0C | 100.0% Win] |)  ++, ++, x, x
+(| [LCID, FPiv #2wk | 3 : 2 : 0 | --- ... 6.0C | 100.0%Win] |)  x
+(| [ONDS, RSI #2wk | 3 : 2 : 0 | 10.0C, 10.5C | 100.0%Win] <$> |)  x, x
+(| [RCAT, FPiv #2wk | 3 : 2 : 0 | 12.5C, 13.0C | 100.0%Win] <$> |)  x, x
+(| [RKT, Abroon_inv #2wk | 3 : 2 : 0 | 13.5C, 14.0C |100.0% Win] |)  ++, ++
+(| [TMC, FPiv #2wk | 3 : 1 : 0 | 5.5C | 100.0% Win] <$>|)  x
+(| [ACHR, FPiv #2wk | 2 : 2 : 0 | 5.5C, 6.0C | 100.0%Win] <$> |)  ++, x
+(| [BBAI, FPiv #2wk | 2 : 1 : 0 | 4.5C | 100.0% Win] |)  x
+(| [LAC, FPiv #2wk | 2 : 2 : 0 | 4.5C, 5.0C | 100.0%Win] |)  +, x
+(| [PLUG, FPiv #2wk | 2 : 2 : 0 | --- ... 3.5C | 100.0%Win] |)  x
+(| [ONDS, FPiv #2wk | 6 : 4 : 1 | --- ... 11.0C, 11.5C | 85.7% Win] |)  x, x
+(| [SPCE, RSI #2wk | 5 : 1 : 1 | 6.0C | 83.3% Win] |)  x
+(| [GME, RSI #2wk | 4 : 1 : 1 | 22.5C | 80.0% Win] |)  x
+(| [SERV, FPiv #2wk | 4 : 3 : 1 | 7.5C, 8.0C, 8.5C |80.0% Win] |)  x, x, x
+(| [NOK, Auto #2wk | 7 : 3 : 2 | 14.5C, 15.0C, 15.5C |77.8% Win] |)  +, x, x
+(| [RUN, RSI #2wk | 3 : 3 : 1 | --- ... 13.0C, 13.5C |75.0% Win] |)  ++, ++
+
+[( (+) ) 5 (8%) by Friday Jun 12 
+ [( (+)+)  30 (47%) by Friday Jun 19 
+  ( ( ) ) x  34 (53%) MissedTWO+]]
+
+
+
+
+(( [5-Double-Locked Puts] ))
+
+(( [ET, Abroon_inv #3wk | 4 : 1 : 1 | 18.5P | 80.0%Win] <$> ))  x
+(( [EPD, Abroon_inv #3wk | 10 : 1 : 3 | 37.0P | 76.9%Win] ))  ++
+(( [SOC, RSI _inv #2wk | 5 : 1 : 0 | 11.5P ø11.5, ø12.0, ø12.5, ø13.0 | 100.0% Win] <$> ))  +
+(( [UNG, Auto_inv #2wk | 4 : 1 : 0 | 11.0P | 100.0%Win] ))  x
+(( [SOC, Auto #2wk | 3 : 2 : 0 | --- ... 11.0P | 100.0%Win] ))  +
+
+[( (+) ) 2 (40%) by Friday Jun 12 
+ [( (+)+)  3 (60%) by Friday Jun 19 
+  ( ( ) ) x  2 (40%) MissedTWO+]]
+
+
+
+
+(| [34-Single-Locked Puts] |)
+
+(| [QUBT, Abroon_inv #5wk | 9 : 3 : 2 | --- ... ø11.0, ø11.5 | 81.8% Win] |)  
+(| [SPCE, Auto_inv #5wk | 7 : 1 : 2 | 4.5P ø4.5 | 77.8%Win] |)  +
+(| [CMG, Abroon_inv #5wk | 13 : 1 : 4 | 31.0P | 76.5%Win] <$> |)  x
+(| [SPCE, Abroon_inv #5wk | 5 : 2 : 2 | --- ... 5.5Pø4.5 | 71.4% Win] |)  +
+(| [SPCE, RSI _inv #5wk | 7 : 2 : 3 | --- ... ø4.5 |70.0% Win] |)  
+(| [RR, Auto_inv #4wk | 2 : 1 : 0 | 2.0P ø3.0 | 100.0%Win] <$> |)  x
+(| [LCID, RSI _inv #3wk | 3 : 2 : 0 | 4.5P, 5.0P |100.0% Win] |)  x, x
+(| [BBAI, Auto_inv #3wk | 2 : 2 : 0 | 3.5P, 4.0P |100.0% Win] <$> |)  x, ++
+(| [TMC, Abroon_inv #3wk | 2 : 1 : 0 | 5.0P | 100.0%Win] |)  x
+(| [RUN, Auto_inv #3wk | 9 : 4 : 2 | --- ... ø14.0 |81.8% Win] |)  
+(| [TLRY, Abroon_inv #3wk | 2 : 1 : 1 | 5.0P | 66.7%Win] <$> |)  +
+(| [RGTI, Auto_inv #2wk | 9 : 4 : 0 | 18.5P, 19.0P, 19.5P, 20.5P | 100.0% Win] <$> |)  x, x, x, ++
+(| [RUN, Abroon_inv #2wk | 9 : 4 : 0 | 10.5P, 11.0P, 11.5P, 12.5P ø14.0 | 100.0% Win] <$> |)  x, x, x, ++
+(| [CCL, RSI #2wk | 4 : 1 : 0 | 28.0P | 100.0% Win] <$>|)  x
+(| [JOBY, Abroon_inv #2wk | 4 : 1 : 0 | 8.5P | 100.0%Win] <$> |)  x
+(| [RKT, RSI _inv #2wk | 4 : 2 : 0 | 12.0P, 12.5P |100.0% Win] <$> |)  x, x
+(| [SERV, Abroon_inv #2wk | 4 : 1 : 0 | 6.5P | 100.0%Win] <$> |)  x
+(| [SOUN, Abroon_inv #2wk | 4 : 2 : 0 | 6.0P, 6.5P ø7.5 | 100.0% Win] <$> |)  x, x
+(| [SOUN, FPiv_inv #2wk | 4 : 3 : 0 | --- ... 5.5P ø7.5 | 100.0% Win] |)  x
+(| [GME, FPiv #2wk | 3 : 2 : 0 | 21.5P, 22.0P | 100.0%Win] |)  ++, +
+(| [SBET, RSI _inv #2wk | 3 : 1 : 0 | 5.0P | 100.0%Win] |)  x
+(| [SOUN, Auto_inv #2wk | 3 : 2 : 0 | --- ... ø7.5 |100.0% Win] |)  
+(| [WBD, FPiv_inv #2wk | 3 : 1 : 0 | 26.0P | 100.0%Win] <$> |)  x
+(| [PLUG, FPiv_inv #2wk | 2 : 2 : 0 | 2.0P, 2.5P |100.0% Win] |)  x, x
+(| [QUBT, FPiv_inv #2wk | 2 : 3 : 0 | 8.5P, 9.0P, 9.5P | 100.0% Win] <$> |)  x, x, x
+(| [KGC, RSI _inv #2wk | 8 : 5 : 1 | 22.5P, 23.0P, 23.5P, 24.0P, 24.5P | 88.9% Win] |)  x, x, x, x, x
+(| [CCL, Auto #2wk | 4 : 2 : 1 | --- ... 26.0P | 80.0%Win] |)  x
+(| [RKT, Abroon #2wk | 4 : 1 : 1 | 13.0P | 80.0% Win]|)  x
+(| [SOUN, RSI _inv #2wk | 4 : 1 : 1 | --- ... ø7.0, ø7.5 | 80.0% Win] |)  
+(| [T, RSI _inv #2wk | 4 : 3 : 1 | 21.5P, 22.0P, 22.5P | 80.0% Win] <$> |)  x, x, ++
+(| [NOK, Abroon_inv #2wk | 5 : 2 : 2 | 13.5P, 14.0P |71.4% Win] |)  ++, ++
+(| [ONDS, Abroon_inv #2wk | 5 : 2 : 2 | 9.0P, 9.5Pø9.0, ø9.5, ø10.0, ø11.5 | 71.4% Win] |)  x, +
+(| [ONDS, Auto_inv #2wk | 5 : 2 : 2 | --- ... ø9.5, ø10.0, ø11.5 | 71.4% Win] |)  
+(| [RR, RSI _inv | 1 : 1 : 0 | --- ... ø2.0 | 100.0%Win] |)  
+
+[( (+) ) 5 (10%) by Friday Jun 12 
+ [( (+)+)  12 (24%) by Friday Jun 19 
+  ( ( ) ) x  37 (76%) MissedTWO+]]
