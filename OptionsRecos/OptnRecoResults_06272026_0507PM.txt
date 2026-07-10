@@ -1,0 +1,105 @@
+MARKET CONDITIONS: (Saturday | June 27, 2026 | 05:07 PM)
+Index: Up Nt Dn Odds Årn RSI Gravity
+SPY : 18% 47% 29% ntrl-dn -79 .42 (Crãsh)
+QQQ : 35% 12% 47% ntrl-dn -68 .47 (Crãsh)
+DIA : 24% 47% 24% ntrl 42 .64 ( Fäll )
+BTC* : 33% 21% 42% ntrl-dn -57 .31 ( Fäll )
+ETH* : 33% 21% 42% ntrl-dn -57 .32 ( Fäll )
+SVIX : 47% 12% 35% up-ntrl -61 .54 ( Fäll )
+Indices Forecast Table:
+[Asset (Prsnt | Opts | tm mWP~mF | cWP~cF) | ENV | Arn | RSI]
+SVIX (22.5b | ——— |0d 1.0x~22.5b|0.9x~19.8b) |4:3ƒivs| -61 |.54
+C_OIL (69.2b | ——— |5d 1.2x~86.3b|1.3x~87.1b) |1:1ƒivs| -79 |.23
+DIA (518b | ——— |1d 1.0x~524b|1.0x~527b) |4:4ƒivs| 42 |.64
+GLD (374b | ——— |18d 1.0x~388b|1.0x~373b) |2:1ƒivs| -68 |.31
+BTC* (60.0Kb | ——— |6d 1.1x~64.4Kb|1.1x~64.7Kb) |1:1ƒivs| -57 |.31
+COIN (149b | ——— |4d 1.1x~162b|1.1x~161b) |3:1ƒivs| -74 |.34
+HOOD (98.7b | ——— |0d 1.0x~98.7b|0.9x~86.5b) |5:4ƒivs| -46 |.58
+REM (21.9b | ——— |0d 1.0x~21.9b|1.0x~21.8b) |1:5ƒivs| 4 |.47
+TPOR (42.9b | ——— |0d 1.0x~42.9b|1.0x~41.5b) |2:5ƒivs| 50 |.63
+ONLN (54.3b | ——— |1d 1.0x~54.9b|1.0x~55.6b) |2:3ƒivs| -37 |.42
+RETL (9.36b | ——— |1d 1.0x~9.39b|1.0x~9.11b) |3:5ƒivs| 38 |.61
+PBJ (47.8b | ——— |1d 1.0x~48.6b|1.0x~49.6b) |1:4ƒivs| 31 |.50
+HEAL (27.6b | ——— |0d 1.0x~27.6b|0.9x~25.7b) |4:8ƒivs| 65 |.73
+XLE (53.8b | ——— |1d 1.0x~55.1b|1.1x~59.0b) |1:2ƒivs| -40 |.35
+FMAT (59.4b | ——— |1d 1.0x~59.5b|1.0x~59.4b) |3:3ƒivs| -68 |.52
+MADE (38.2b | ——— |0d 1.0x~38.2b|0.8x~31.3b) |5:3ƒivs| 72 |.62
+ARTY (72.3b | ——— |0d 1.0x~72.3b|0.9x~67.1b) |4:2ƒivs| -61 |.49
+QTUM (156b | ——— |0d 1.0x~156b|0.9x~141b) |4:2ƒivs| -61 |.49
+BOTZ (36.0b | ——— |18d 1.0x~36.9b|1.0x~34.4b) |2:-1ƒivs| -61 |.35
+NLR (116b | ——— |5d 1.0x~118b|1.0x~117b) |3:1ƒivs| -73 |.34
+DFEN (74.9b | ——— |2d 1.0x~75.3b|1.0x~72.9b) |3:4ƒivs| -17 |.57
+MSOS (4.69b | ——— |2d 1.1x~5.00b|1.2x~5.41b) |1:2ƒivs| -48 |.45
+
+
+ChampWinJim's Daily Options RecosSaturday | June 27, 2026 | 05:07 PMActive Filter: ≥ 70% Win Rates and/or Best Forecasts <$>
+
+( (+) ) =by Fri Jul 03  ( (+)+) =by Fri Jul 10  ( ( ) ) x =MissedTwoWeeksOut+ ?=no data
+
+
+
+(( [4-Double-Locked Calls] ))
+
+(( [NOK, RSI #5wk | 8 : 1 : 2 | 13.5C | 80.0% Win] <$>))  x
+(( [HIMS, FPiv_inv #5wk | 11 : 4 : 6 | 34.0C, 34.5C, 35.0C, 35.5C | 64.7% Win] <$> ))  +, +, +, +
+(( [U, Abroon #3wk | 9 : 2 : 3 | 28.5C, 29.0C | 75.0%Win] <$> ))  +, +
+(( [SIRI, Abroon #3wk | 4 : 1 : 2 | 28.5C | 66.7% Win]<$> ))  +
+
+[( (+) ) 7 (88%) by Friday Jul 03 
+ [( (+)+)  7 (88%) by Friday Jul 10 
+  ( ( ) ) x  1 (12%) MissedTWO+]]
+
+
+
+
+(| [10-Single-Locked Calls] |)
+
+(| [SPCE, Abroon #5wk | 7 : 1 : 2 | 3.0C | 77.8% Win]|)  x
+(| [GAP, FPiv #5wk | 12 : 1 : 10 | 20.5C | 54.5% Win]<$> |)  x
+(| [RR, Abroon_inv #5wk | 1 : 1 : 1 | 2.0C | 50.0% Win]<$> |)  +
+(| [F, RSI #4wk | 7 : 1 : 2 | 14.5C | 77.8% Win] |)  x
+(| [GME, Auto_inv #3wk | 6 : 1 : 2 | 22.0C | 75.0% Win]<$> |)  +
+(| [QUBT, FPiv #2wk | 5 : 2 : 0 | 9.5C, 10.0C | 100.0%Win] <$> |)  +, x
+(| [BB, Auto_inv #2wk | 6 : 2 : 2 | 11.5C, 12.0C |75.0% Win] <$> |)  +, +
+(| [RUN, RSI #2wk | 3 : 2 : 1 | 13.5C, 14.0C | 75.0%Win] |)  x, x
+(| [DKNG, FPiv #2wk | 8 : 2 : 4 | 26.0C, 26.5C | 66.7%Win] <$> |)  ++, ++
+(| [SOUN, Auto #2wk | 2 : 1 : 1 | 6.5C | 66.7% Win] <$>|)  +
+
+[( (+) ) 6 (43%) by Friday Jul 03 
+ [( (+)+)  8 (57%) by Friday Jul 10 
+  ( ( ) ) x  6 (43%) MissedTWO+]]
+
+
+
+
+(( [2-Double-Locked Puts] ))
+
+(( [SOC, RSI _inv #5wk | 13 : 2 : 4 | --- ... 6.5Pø7.0, ø7.5, ø8.0, ø10.5, ø11.0, ø12.0, ø12.5, ø13.0 |76.5% Win] ))  +
+(( [SOC, Auto #4wk | 7 : 1 : 2 | 7.0P | 77.8% Win] <$>))  +
+
+[( (+) ) 2 (100%) by Friday Jul 03 
+ [( (+)+)  2 (100%) by Friday Jul 10 
+  ( ( ) ) x  0 (0%) MissedTWO+]]
+
+
+
+
+(| [13-Single-Locked Puts] |)
+
+(| [JOBY, RSI _inv #5wk | 3 : 1 : 1 | 8.5P | 75.0% Win]<$> |)  +
+(| [WBD, Abroon_inv #5wk | 4 : 1 : 2 | 26.5P | 66.7%Win] <$> |)  +
+(| [PATH, Abroon_inv #4wk | 2 : 1 : 0 | 10.5P | 100.0%Win] <$> |)  x
+(| [RGTI, RSI _inv #4wk | 5 : 3 : 2 | --- ... 17.0P, 17.5P ø17.5, ø18.0, ø18.5 | 71.4% Win] |)  ++, ++
+(| [TMC, RSI _inv #4wk | 3 : 1 : 3 | 4.0P | 50.0% Win]<$> |)  x
+(| [SERV, Auto #3wk | 4 : 1 : 1 | 6.0P | 80.0% Win] <$>|)  ++
+(| [SBET, RSI _inv #3wk | 5 : 1 : 2 | 4.5P | 71.4% Win]<$> |)  x
+(| [T, Abroon_inv #2wk | 2 : 1 : 0 | 22.5P | 100.0%Win] <$> |)  +
+(| [RGTI, Auto #2wk | 5 : 1 : 1 | 18.0P | 83.3% Win]<$> |)  +
+(| [RUN, FPiv #2wk | 5 : 1 : 1 | 13.0P | 83.3% Win] <$>|)  +
+(| [HTZ, Abroon #2wk | 3 : 1 : 1 | 2.5P | 75.0% Win]<$> |)  +
+(| [QBTS, Abroon #2wk | 9 : 2 : 4 | 22.0P, 22.5P |69.2% Win] <$> |)  ++, ++
+(| [ACHR, FPiv #2wk | 2 : 1 : 1 | 4.5P | 66.7% Win] <$>|)  x
+
+[( (+) ) 6 (40%) by Friday Jul 03 
+ [( (+)+)  11 (73%) by Friday Jul 10 
+  ( ( ) ) x  4 (27%) MissedTWO+]]

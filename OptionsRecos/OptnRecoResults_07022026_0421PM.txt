@@ -1,0 +1,123 @@
+MARKET CONDITIONS: (Thursday | July 02, 2026 | 04:21 PM)
+Index: Up Nt Dn Odds Årn RSI Gravity
+SPY : 29% 41% 24% up-ntrl 61 .55 (Hôver)
+QQQ : 41% 12% 41% ntrl 19 .49 (Hôver)
+DIA : 29% 53% 12% ntrl 73 .70 (Crãsh)
+BTC* : 33% 29% 33% ntrl 0 .39 (Hôver)
+ETH* : 33% 29% 33% ntrl 73 .43 ( Fäll )
+SVIX : 59% 12% 24% up 61 .63 ( Fäll )
+Indices Forecast Table:
+[Asset (Prsnt | Opts | tm mWP~mF | cWP~cF) | ENV | Arn | RSI]
+SVIX (23.8b | ——— |2d 1.0x~24.3b|1.0x~24.0b) |4:4ƒivs| 61 |.63
+C_OIL (68.5b | ——— |5d 1.1x~76.8b|1.1x~77.2b) |2:2ƒivs| -85 |.22
+DIA (528b | ——— |0d 1.0x~528b|0.9x~499b) |4:6ƒivs| 73 |.70
+GLD (378b | ——— |1d 1.0x~392b|1.1x~415b) |2:3ƒivs| 61 |.42
+BTC* (61.5Kb | ——— |5d 1.0x~62.9Kb|1.0x~63.8Kb) |1:3ƒivs| 0 |.39
+COIN (165b | ——— |1d 1.0x~167b|1.0x~169b) |1:4ƒivs| 46 |.52
+HOOD (113b | ——— |0d 1.0x~113b|0.8x~90.2b) |3:6ƒivs| 73 |.71
+REM (22.0b | ——— |0d 1.0x~22.0b|0.9x~20.5b) |5:5ƒivs| 54 |.57
+TPOR (44.0b | ——— |0d 1.0x~44.0b|0.7x~32.0b) |5:5ƒivs| 76 |.65
+ONLN (55.9b | ——— |1d 1.0x~56.1b|1.0x~56.1b) |3:5ƒivs| 61 |.53
+RETL (9.15b | ——— |0d 1.0x~9.15b|0.9x~8.61b) |4:4ƒivs| 14 |.61
+PBJ (48.0b | ——— |0d 1.0x~48.0b|0.8x~39.0b) |3:4ƒivs| 76 |.52
+HEAL (29.0b | ——— |0d 1.0x~29.0b|0.9x~26.0b) |6:6ƒivs| 83 |.79
+XLE (53.2b | ——— |5d 1.0x~54.3b|1.0x~54.4b) |2:2ƒivs| -57 |.34
+FMAT (59.5b | ——— |1d 1.0x~59.9b|1.0x~60.6b) |2:3ƒivs| -27 |.52
+MADE (38.1b | ——— |0d 1.0x~38.1b|0.9x~34.8b) |3:2ƒivs| -66 |.51
+ARTY (71.1b | ——— |10d 1.0x~73.4b|1.0x~69.7b) |2:1ƒivs| -72 |.48
+QTUM (155b | ——— |3d 1.0x~162b|1.1x~167b) |2:-1ƒivs| 19 |.49
+BOTZ (37.4b | ——— |1d 1.0x~37.6b|1.0x~38.2b) |2:3ƒivs| 33 |.47
+NLR (115b | ——— |5d 1.1x~125b|1.1x~126b) |1:1ƒivs| -81 |.34
+DFEN (85.8b | ——— |0d 1.0x~85.8b|0.9x~76.7b) |4:7ƒivs| 77 |.70
+MSOS (4.89b | ——— |18d 1.1x~5.22b|1.0x~4.76b) |2:3ƒivs| 49 |.51
+
+
+ChampWinJim's Daily Options RecosThursday | July 02, 2026 | 04:21 PMActive Filter: ≥ 70% Win Rates and/or Best Forecasts <$>
+
+( (+) ) =by Fri Jul 03  ( (+)+) =by Fri Jul 10  ( ( ) ) x =MissedTwoWeeksOut+ ?=no data
+
+
+
+(( [5-Double-Locked Calls] ))
+
+(( [RR, Abroon_inv #5wk | 4 : 1 : 1 | 2.0C ø2.0 | 80.0%Win] ))  ++
+(( [SERV, Auto #4wk | 2 : 1 : 0 | 6.5C | 100.0% Win]<$> ))  x
+(( [U, Abroon #4wk | 8 : 3 : 3 | --- ... 30.5C | 72.7%Win] ))  ++
+(( [SIRI, Abroon #3wk | 5 : 1 : 1 | 31.0C | 83.3% Win]<$> ))  x
+(( [U, RSI #3wk | 7 : 2 : 2 | 29.5C, 30.0C | 77.8% Win]<$> ))  ++, ++
+
+[( (+) ) 0 (0%) by Friday Jul 03 
+ [( (+)+)  4 (67%) by Friday Jul 10 
+  ( ( ) ) x  2 (33%) MissedTWO+]]
+
+
+
+
+(| [15-Single-Locked Calls] |)
+
+(| [T, Abroon_inv #5wk | 3 : 2 : 0 | 21.0C, 22.0C |100.0% Win] <$> |)  ++, x
+(| [SPCE, Abroon #5wk | 6 : 1 : 2 | 3.0C | 75.0% Win]|)  x
+(| [HIMS, FPiv_inv #5wk | 15 : 3 : 6 | 37.0C, 37.5C, 38.0C | 71.4% Win] <$> |)  ++, ++, ++
+(| [EPD, Abroon_inv #5wk | 2 : 1 : 1 | 37.0C | 66.7%Win] <$> |)  ++
+(| [RCAT, RSI #5wk | 5 : 2 : 3 | 10.5C, 11.0C | 62.5%Win] <$> |)  x, x
+(| [RGTI, Auto #4wk | 12 : 1 : 3 | 18.0C | 80.0% Win]<$> |)  x
+(| [CCL, FPiv #4wk | 12 : 5 : 5 | 28.0C, 29.0C, 29.5C, 30.0C, 30.5C | 70.6% Win] <$> |)  x, x, x, x, x
+(| [AAL, Abroon #4wk | 7 : 2 : 3 | 18.0C, 18.5C | 70.0%Win] <$> |)  x, x
+(| [QUBT, FPiv #3wk | 6 : 3 : 0 | 9.5C, 10.0C, 10.5C |100.0% Win] <$> |)  x, x, x
+(| [UNG, Auto #3wk | 2 : 1 : 0 | 12.0C | 100.0% Win]<$> |)  x
+(| [BB, Abroon #3wk | 4 : 4 : 1 | 12.0C, 12.5C, 13.0C, 13.5C | 80.0% Win] <$> |)  x, x, x, x
+(| [RUN, RSI #3wk | 4 : 3 : 1 | 13.0C, 13.5C, 14.0C |80.0% Win] |)  x, x, x
+(| [WEN, FPiv_inv #3wk | 4 : 3 : 1 | 9.0C, 9.5C, 10.0C | 80.0% Win] <$> |)  x, x, x
+(| [AMC, FPiv #3wk | 3 : 2 : 1 | 2.0C, 2.5C | 75.0%Win] |)  x, x
+(| [DKNG, FPiv #3wk | 9 : 3 : 5 | 26.0C, 26.5C, 27.0C |64.3% Win] <$> |)  ++, ++, ++
+
+[( (+) ) 0 (0%) by Friday Jul 03 
+ [( (+)+)  8 (22%) by Friday Jul 10 
+  ( ( ) ) x  28 (78%) MissedTWO+]]
+
+
+
+
+(( [4-Double-Locked Puts] ))
+
+(( [JOBY, RSI _inv #5wk | 4 : 1 : 1 | 8.0P | 80.0% Win]<$> ))  ++
+(( [ONDS, RSI _inv #5wk | 7 : 2 : 3 | 6.5P, 7.0P ø6.5, ø7.0, ø9.0 | 70.0% Win] ))  x, x
+(( [TMC, Abroon_inv #5wk | 2 : 1 : 1 | 4.0P | 66.7%Win] <$> ))  x
+(( [WBD, RSI _inv #4wk | 5 : 1 : 1 | 26.0P | 83.3% Win]))  x
+
+[( (+) ) 0 (0%) by Friday Jul 03 
+ [( (+)+)  1 (20%) by Friday Jul 10 
+  ( ( ) ) x  4 (80%) MissedTWO+]]
+
+
+
+
+(| [23-Single-Locked Puts] |)
+
+(| [BBAI, RSI _inv #5wk | 2 : 1 : 0 | --- ... ø4.0 |100.0% Win] |)  
+(| [NOK, RSI _inv #5wk | 5 : 2 : 1 | 11.5P, 12.0P |83.3% Win] |)  x, ++
+(| [RGTI, RSI _inv #5wk | 8 : 3 : 2 | 16.5P, 17.0P, 17.5P ø17.5, ø18.0, ø18.5 | 80.0% Win] |)  x, ++, ++
+(| [KGC, Auto_inv #5wk | 6 : 2 : 2 | 23.5P, 24.5P |75.0% Win] <$> |)  ++, ++
+(| [HTZ, RSI _inv #5wk | 3 : 1 : 1 | 2.0P | 75.0% Win]|)  ++
+(| [SBET, Abroon #5wk | 5 : 1 : 2 | 5.0P | 71.4% Win]<$> |)  x
+(| [BULL, Auto_inv #5wk | 3 : 1 : 2 | 6.5P | 60.0% Win]<$> |)  x
+(| [GME, Abroon #4wk | 3 : 1 : 0 | 21.5P | 100.0% Win]<$> |)  x
+(| [CMG, RSI #4wk | 10 : 4 : 2 | 33.5P, 34.0P, 34.5P, 35.0P | 83.3% Win] <$> |)  ++, ++, ++, ++
+(| [SBET, RSI _inv #4wk | 5 : 1 : 2 | 4.5P | 71.4% Win]|)  x
+(| [GAP, Abroon_inv #4wk | 6 : 2 : 3 | 18.0P, 18.5P |66.7% Win] <$> |)  x, ++
+(| [KHC, RSI #4wk | 6 : 2 : 3 | 24.5P, 25.0P | 66.7%Win] <$> |)  x, ++
+(| [UPST, RSI #3wk | 5 : 2 : 0 | 34.0P, 34.5P | 100.0%Win] <$> |)  ++, ++
+(| [TLRY, Abroon #3wk | 3 : 1 : 0 | 4.5P | 100.0% Win]|)  ++
+(| [BBAI, Auto_inv #3wk | 2 : 1 : 0 | 3.5P | 100.0%Win] |)  ++
+(| [LCID, FPiv #3wk | 2 : 2 : 0 | 5.5P, 6.0P | 100.0%Win] <$> |)  x, ++
+(| [RUN, FPiv #3wk | 7 : 1 : 1 | 12.5P | 87.5% Win] <$>|)  ++
+(| [QBTS, Abroon #3wk | 9 : 2 : 2 | 22.0P, 22.5P |81.8% Win] <$> |)  ++, ++
+(| [UPST, FPiv #3wk | 8 : 5 : 2 | --- ... 32.5P, 33.0P, 33.5P | 80.0% Win] |)  ++, ++, ++
+(| [BB, RSI #3wk | 3 : 2 : 1 | 11.0P, 11.5P | 75.0%Win] |)  ++, ++
+(| [QUBT, RSI _inv #3wk | 3 : 2 : 1 | --- ... 8.5Pø8.5, ø9.0 | 75.0% Win] |)  x
+(| [RUN, RSI _inv #3wk | 3 : 2 : 1 | --- ... 12.0P |75.0% Win] |)  x
+(| [RGTI, FPiv_inv #3wk | 10 : 2 : 4 | --- ... ø17.5, ø18.0, ø18.5 | 71.4% Win] |)  
+
+[( (+) ) 0 (0%) by Friday Jul 03 
+ [( (+)+)  25 (69%) by Friday Jul 10 
+  ( ( ) ) x  11 (31%) MissedTWO+]]
