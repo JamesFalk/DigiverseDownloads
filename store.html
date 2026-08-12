@@ -258,6 +258,8 @@ const paymentLinks = {
     }
 };
 
+document.addEventListener('DOMContentLoaded', function() {
+
 var modal = document.getElementById('imgModal');
 var modalContent = document.getElementById('modalContent');
 var modalCloseBtn = document.getElementById('modalCloseBtn');
@@ -318,6 +320,8 @@ modalCloseBtn.addEventListener('click', closeZoom);
 modalContent.addEventListener('click', function(e) {
     if (e.target.tagName === 'IMG') closeZoom();
 });
+
+}); // end DOMContentLoaded
 </script>
 
 <!-- Image Zoom Modal -->
