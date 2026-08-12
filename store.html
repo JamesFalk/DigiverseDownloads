@@ -5,15 +5,19 @@
     <title>Digiverse AppStore</title>
     <style>
     .flex-container {display: flex; flex-direction: row; justify-content: space-between; flex-wrap: wrap;}
-    .flex-item {width: 47.75%; text-align: center; box-sizing: border-box; margin: 1% 1% 3% 1%;}
+    .flex-item {width: 47.75%; text-align: center; box-sizing: border-box; margin: 1% 1% 3% 1%; font-size: xx-large;}
     .flex-item img {width: 100%; height: auto; display: block;}
+    .payRow {display: flex; flex-direction: column; align-items: center; margin-top: 8px;}
+    .paySelect {font-size: large; padding: 4px; margin-bottom: 6px; width: 90%;}
+    .payBtn {font-size: large; padding: 6px 18px; background-color: green; color: white; border: none; border-radius: 6px; cursor: pointer;}
+    .payBtn:hover {background-color: darkgreen;}
     </style>
 </head>
 <!-- CSS Header End -->
 
-   
 
-<!-- HTML Body Start -->    
+
+<!-- HTML Body Start -->
 <body><style>body {background-color: sandybrown; margin: 0; height: 100vh;}</style>
 
 
@@ -43,24 +47,68 @@
 <div class="container" style="width: 100%; margin: 0 auto; border: 2px solid black;font-size: xxx-large; text-align: center; color: green; border-color: green; font-family: arial"> ChampWinJim's Top Notch Winning<br>Stock Options Reco Subscriptions </div><br>
 <div class="flex-container">
 
-<div class="flex-item"><a href="https://cash.app/pay/link/xamj4v56" style="font-size: xx-large"> 
+<div class="flex-item" data-product="weekly">
     <img src="StorePics/1WeekSubscription.jpg">
-            Weekly Subscription<br>($7.99/week)</a></div>
-    
-<div class="flex-item"><a href="https://cash.app/pay/link/lbfsz590" style="font-size: xx-large"> 
+    Weekly Subscription<br>($7.99/week)
+    <div class="payRow">
+        <select class="paySelect">
+            <option value="cashapp">CashApp</option>
+            <option value="stripe">Card (Stripe)</option>
+            <option value="square">Card (Square)</option>
+            <option value="paypal">PayPal</option>
+            <option value="crypto">Crypto</option>
+        </select>
+        <button class="payBtn">Pay Now</button>
+    </div>
+</div>
+
+<div class="flex-item" data-product="monthly">
     <img src="StorePics/1MonthSubscription.jpg">
-            Monthly Subscription<br>($19.99/mo)</a></div>
+    Monthly Subscription<br>($19.99/mo)
+    <div class="payRow">
+        <select class="paySelect">
+            <option value="cashapp">CashApp</option>
+            <option value="stripe">Card (Stripe)</option>
+            <option value="square">Card (Square)</option>
+            <option value="paypal">PayPal</option>
+            <option value="crypto">Crypto</option>
+        </select>
+        <button class="payBtn">Pay Now</button>
+    </div>
+</div>
 
 <br><br>
 
-<div class="flex-item"><a href="https://cash.app/pay/link/wt8jqtbb" style="font-size: xx-large"> 
+<div class="flex-item" data-product="semiannual">
     <img src="StorePics/6MonthSubscription.jpg">
-            Semi-Annual Subscription<br>$89.94  ($14.99/mo)</a></div>
+    Semi-Annual Subscription<br>$89.94  ($14.99/mo)
+    <div class="payRow">
+        <select class="paySelect">
+            <option value="cashapp">CashApp</option>
+            <option value="stripe">Card (Stripe)</option>
+            <option value="square">Card (Square)</option>
+            <option value="paypal">PayPal</option>
+            <option value="crypto">Crypto</option>
+        </select>
+        <button class="payBtn">Pay Now</button>
+    </div>
+</div>
 
-<div class="flex-item"><a href="https://cash.app/pay/link/t2vcebrd" style="font-size: xx-large"> 
+<div class="flex-item" data-product="yearly">
     <img src="StorePics/1YearSubscription.jpg">
-            Yearly Subscription<br>$143.88  ($11.99/mo)</a></div>    
-</div>    
+    Yearly Subscription<br>$143.88  ($11.99/mo)
+    <div class="payRow">
+        <select class="paySelect">
+            <option value="cashapp">CashApp</option>
+            <option value="stripe">Card (Stripe)</option>
+            <option value="square">Card (Square)</option>
+            <option value="paypal">PayPal</option>
+            <option value="crypto">Crypto</option>
+        </select>
+        <button class="payBtn">Pay Now</button>
+    </div>
+</div>
+</div>
 <br><br>
 
 
@@ -69,23 +117,158 @@
 <div class="container" style="width: 100%; margin: 0 auto; border: 2px solid black;font-size: xxx-large; text-align: center; color: green; border-color: green; font-family: arial"> Pydroid Apps</div><br>
 <div class="flex-container">
 
-<div class="flex-item"><a href="https://cash.app/pay/link/v3leqhex" style="font-size: xx-large"> 
+<div class="flex-item" data-product="portfolioviewer">
     <img src="StorePics/PortfolioViewer365.jpg">
-            PortfolioViewer365<br>($13.99)</a></div>
-
-<div class="flex-item"><a href="https://cash.app/pay/link/e6vxsakw" style="font-size: xx-large"> 
-    <img src="StorePics/RollingCryptos256.jpg">
-            RollingCryptos256<br>($21.99)</a></div>
-    
-<div class="flex-item"><a href="https://cash.app/pay/link/gipahywa" style="font-size: xx-large"> 
-    <img src="StorePics/ForecastTables777.jpg">
-            ForecastTables777<br>($34.99)</a></div>  
-
-<div class="flex-item"><a href="https://cash.app/pay/link/7pcalf4x" style="font-size: xx-large"> 
-    <img src="StorePics/AssetForecasts9000.jpg">
-            AssetForecasts9000<br>($47.99)</a></div>
+    PortfolioViewer365<br>($13.99)
+    <div class="payRow">
+        <select class="paySelect">
+            <option value="cashapp">CashApp</option>
+            <option value="stripe">Card (Stripe)</option>
+            <option value="square">Card (Square)</option>
+            <option value="paypal">PayPal</option>
+            <option value="crypto">Crypto</option>
+        </select>
+        <button class="payBtn">Pay Now</button>
+    </div>
 </div>
 
+<div class="flex-item" data-product="rollingcryptos">
+    <img src="StorePics/RollingCryptos256.jpg">
+    RollingCryptos256<br>($21.99)
+    <div class="payRow">
+        <select class="paySelect">
+            <option value="cashapp">CashApp</option>
+            <option value="stripe">Card (Stripe)</option>
+            <option value="square">Card (Square)</option>
+            <option value="paypal">PayPal</option>
+            <option value="crypto">Crypto</option>
+        </select>
+        <button class="payBtn">Pay Now</button>
+    </div>
+</div>
+
+<div class="flex-item" data-product="forecasttables">
+    <img src="StorePics/ForecastTables777.jpg">
+    ForecastTables777<br>($34.99)
+    <div class="payRow">
+        <select class="paySelect">
+            <option value="cashapp">CashApp</option>
+            <option value="stripe">Card (Stripe)</option>
+            <option value="square">Card (Square)</option>
+            <option value="paypal">PayPal</option>
+            <option value="crypto">Crypto</option>
+        </select>
+        <button class="payBtn">Pay Now</button>
+    </div>
+</div>
+
+<div class="flex-item" data-product="af9000">
+    <img src="StorePics/AssetForecasts9000.jpg">
+    AssetForecasts9000<br>($47.99)
+    <div class="payRow">
+        <select class="paySelect">
+            <option value="cashapp">CashApp</option>
+            <option value="stripe">Card (Stripe)</option>
+            <option value="square">Card (Square)</option>
+            <option value="paypal">PayPal</option>
+            <option value="crypto">Crypto</option>
+        </select>
+        <button class="payBtn">Pay Now</button>
+    </div>
+</div>
+</div>
+
+
+<!-- ============================================================
+     PAYMENT LINK MAP
+     Fill in each PLACEHOLDER below once you've set up the
+     corresponding account. CashApp links are already live
+     (carried over from the original store).
+     - Stripe: create a Payment Link per product in your Stripe
+       Dashboard -> Payment Links
+     - Square: create a Checkout Link per item in Square Dashboard
+       -> Online Checkout
+     - PayPal: paypal.me/yourusername/AMOUNT (or a PayPal.me link
+       per product if you want per-item tracking notes)
+     - Crypto: a Coinbase Commerce checkout link per product
+     ============================================================ -->
+<script>
+const paymentLinks = {
+    weekly: {
+        cashapp: "https://cash.app/pay/link/xamj4v56",
+        stripe:  "PLACEHOLDER_STRIPE_WEEKLY",
+        square:  "PLACEHOLDER_SQUARE_WEEKLY",
+        paypal:  "PLACEHOLDER_PAYPAL_WEEKLY",
+        crypto:  "PLACEHOLDER_CRYPTO_WEEKLY"
+    },
+    monthly: {
+        cashapp: "https://cash.app/pay/link/lbfsz590",
+        stripe:  "PLACEHOLDER_STRIPE_MONTHLY",
+        square:  "PLACEHOLDER_SQUARE_MONTHLY",
+        paypal:  "PLACEHOLDER_PAYPAL_MONTHLY",
+        crypto:  "PLACEHOLDER_CRYPTO_MONTHLY"
+    },
+    semiannual: {
+        cashapp: "https://cash.app/pay/link/wt8jqtbb",
+        stripe:  "PLACEHOLDER_STRIPE_SEMIANNUAL",
+        square:  "PLACEHOLDER_SQUARE_SEMIANNUAL",
+        paypal:  "PLACEHOLDER_PAYPAL_SEMIANNUAL",
+        crypto:  "PLACEHOLDER_CRYPTO_SEMIANNUAL"
+    },
+    yearly: {
+        cashapp: "https://cash.app/pay/link/t2vcebrd",
+        stripe:  "PLACEHOLDER_STRIPE_YEARLY",
+        square:  "PLACEHOLDER_SQUARE_YEARLY",
+        paypal:  "PLACEHOLDER_PAYPAL_YEARLY",
+        crypto:  "PLACEHOLDER_CRYPTO_YEARLY"
+    },
+    portfolioviewer: {
+        cashapp: "https://cash.app/pay/link/v3leqhex",
+        stripe:  "PLACEHOLDER_STRIPE_PORTFOLIOVIEWER",
+        square:  "PLACEHOLDER_SQUARE_PORTFOLIOVIEWER",
+        paypal:  "PLACEHOLDER_PAYPAL_PORTFOLIOVIEWER",
+        crypto:  "PLACEHOLDER_CRYPTO_PORTFOLIOVIEWER"
+    },
+    rollingcryptos: {
+        cashapp: "https://cash.app/pay/link/e6vxsakw",
+        stripe:  "PLACEHOLDER_STRIPE_ROLLINGCRYPTOS",
+        square:  "PLACEHOLDER_SQUARE_ROLLINGCRYPTOS",
+        paypal:  "PLACEHOLDER_PAYPAL_ROLLINGCRYPTOS",
+        crypto:  "PLACEHOLDER_CRYPTO_ROLLINGCRYPTOS"
+    },
+    forecasttables: {
+        cashapp: "https://cash.app/pay/link/gipahywa",
+        stripe:  "PLACEHOLDER_STRIPE_FORECASTTABLES",
+        square:  "PLACEHOLDER_SQUARE_FORECASTTABLES",
+        paypal:  "PLACEHOLDER_PAYPAL_FORECASTTABLES",
+        crypto:  "PLACEHOLDER_CRYPTO_FORECASTTABLES"
+    },
+    af9000: {
+        cashapp: "https://cash.app/pay/link/7pcalf4x",
+        stripe:  "PLACEHOLDER_STRIPE_AF9000",
+        square:  "PLACEHOLDER_SQUARE_AF9000",
+        paypal:  "PLACEHOLDER_PAYPAL_AF9000",
+        crypto:  "PLACEHOLDER_CRYPTO_AF9000"
+    }
+};
+
+document.querySelectorAll('.flex-item[data-product]').forEach(function(item) {
+    var product = item.getAttribute('data-product');
+    var select = item.querySelector('.paySelect');
+    var btn = item.querySelector('.payBtn');
+
+    btn.addEventListener('click', function() {
+        var method = select.value;
+        var link = paymentLinks[product] ? paymentLinks[product][method] : null;
+
+        if (!link || link.indexOf('PLACEHOLDER') === 0) {
+            alert('That payment method isn\'t set up yet for this item. Try CashApp for now, or check back soon!');
+            return;
+        }
+        window.location.href = link;
+    });
+});
+</script>
 
 </body>
 <!-- HTML Body End -->
