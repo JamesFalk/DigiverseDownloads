@@ -191,6 +191,18 @@
      - Crypto: a Coinbase Commerce checkout link per product
      ============================================================ -->
 <script>
+const productMeta = {
+    weekly:          { name: "Weekly Subscription",        price: "$7.99" },
+    monthly:         { name: "Monthly Subscription",       price: "$19.99" },
+    semiannual:      { name: "Semi-Annual Subscription",   price: "$89.94" },
+    yearly:          { name: "Yearly Subscription",        price: "$143.88" },
+    portfolioviewer: { name: "PortfolioViewer365",         price: "$13.99" },
+    rollingcryptos:  { name: "RollingCryptos256",          price: "$21.99" },
+    forecasttables:  { name: "ForecastTables777",          price: "$34.99" },
+    af9000:          { name: "AssetForecasts9000",         price: "$47.99" }
+};
+const deliveryEmail = "digiversedownloads@gmail.com";
+
 const paymentLinks = {
     weekly: {
         cashapp: "https://cash.app/pay/link/xamj4v56",
@@ -294,6 +306,24 @@ document.querySelectorAll('.flex-item[data-product]').forEach(function(item) {
             alert('That payment method isn\'t set up yet for this item. Try CashApp for now, or check back soon!');
             return;
         }
+
+        // CashApp and PayPal.me can't carry a note/memo automatically,
+        // so pop open a pre-filled email as a backup way to identify the order.
+        if (method === 'cashapp' || method === 'paypal') {
+            var meta = productMeta[product] || { name: product, price: '' };
+            var methodLabel = method === 'cashapp' ? 'CashApp' : 'PayPal';
+            var subject = 'Order: ' + meta.name;
+            var body = 'Hi! I just paid ' + meta.price + ' via ' + methodLabel +
+                ' for ' + meta.name + '. Please send my download / access info to this email. Thanks!';
+            var mailtoLink = 'mailto:' + deliveryEmail +
+                '?subject=' + encodeURIComponent(subject) +
+                '&body=' + encodeURIComponent(body);
+
+            window.open(link, '_blank');
+            window.location.href = mailtoLink;
+            return;
+        }
+
         window.location.href = link;
     });
 });
