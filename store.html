@@ -19,6 +19,14 @@
     .modalContent {background:sandybrown; padding:20px; border-radius:10px; text-align:center; max-width:90vw; max-height:90vh; overflow:auto; border: 3px solid green;}
     .modalContent img {max-width:80vw; max-height:55vh; width:auto; cursor: zoom-out; display:block; margin:0 auto;}
     .modalClose {position:absolute; top:15px; right:25px; font-size:xxx-large; color:white; cursor:pointer; font-weight:bold;}
+    #payConfirmContent {max-width: 420px;}
+    #payConfirmText {font-size: large; color: green; font-family: arial; line-height: 1.4; margin-bottom: 16px;}
+    .payConfirmBtn {font-size: large; padding: 8px 16px; border: none; border-radius: 6px; cursor: pointer; display: inline-block; text-decoration: none; margin: 6px;}
+    .payConfirmBtn.emailBtn {background-color: green; color: white;}
+    .payConfirmBtn.emailBtn:hover {background-color: darkgreen;}
+    .payConfirmBtn.continueBtn {background-color: #555; color: white;}
+    .payConfirmBtn.continueBtn:hover {background-color: #333;}
+    .payConfirmBtn.continueBtn:disabled {background-color: #bbb; color: #666; cursor: not-allowed;}
     </style>
 </head>
 <!-- CSS Header End -->
@@ -66,7 +74,7 @@
             <option value="crypto">Crypto</option>
         </select>
         <button class="payBtn">Pay Now</button>
-        <a class="emailNoteLink" href="#" style="display:none; font-size:small; margin-top:6px; color:darkgreen;">📧 Email your order details</a>
+        <a class="emailNoteLink" href="#" style="display:none; font-size:small; margin-top:6px; color:darkgreen;">📧 Email us about this purchase</a>
     </div>
 </div>
 
@@ -81,7 +89,7 @@
             <option value="crypto">Crypto</option>
         </select>
         <button class="payBtn">Pay Now</button>
-        <a class="emailNoteLink" href="#" style="display:none; font-size:small; margin-top:6px; color:darkgreen;">📧 Email your order details</a>
+        <a class="emailNoteLink" href="#" style="display:none; font-size:small; margin-top:6px; color:darkgreen;">📧 Email us about this purchase</a>
     </div>
 </div>
 
@@ -98,7 +106,7 @@
             <option value="crypto">Crypto</option>
         </select>
         <button class="payBtn">Pay Now</button>
-        <a class="emailNoteLink" href="#" style="display:none; font-size:small; margin-top:6px; color:darkgreen;">📧 Email your order details</a>
+        <a class="emailNoteLink" href="#" style="display:none; font-size:small; margin-top:6px; color:darkgreen;">📧 Email us about this purchase</a>
     </div>
 </div>
 
@@ -113,7 +121,7 @@
             <option value="crypto">Crypto</option>
         </select>
         <button class="payBtn">Pay Now</button>
-        <a class="emailNoteLink" href="#" style="display:none; font-size:small; margin-top:6px; color:darkgreen;">📧 Email your order details</a>
+        <a class="emailNoteLink" href="#" style="display:none; font-size:small; margin-top:6px; color:darkgreen;">📧 Email us about this purchase</a>
     </div>
 </div>
 </div>
@@ -136,7 +144,7 @@
             <option value="crypto">Crypto</option>
         </select>
         <button class="payBtn">Pay Now</button>
-        <a class="emailNoteLink" href="#" style="display:none; font-size:small; margin-top:6px; color:darkgreen;">📧 Email your order details</a>
+        <a class="emailNoteLink" href="#" style="display:none; font-size:small; margin-top:6px; color:darkgreen;">📧 Email us about this purchase</a>
     </div>
 </div>
 
@@ -151,7 +159,7 @@
             <option value="crypto">Crypto</option>
         </select>
         <button class="payBtn">Pay Now</button>
-        <a class="emailNoteLink" href="#" style="display:none; font-size:small; margin-top:6px; color:darkgreen;">📧 Email your order details</a>
+        <a class="emailNoteLink" href="#" style="display:none; font-size:small; margin-top:6px; color:darkgreen;">📧 Email us about this purchase</a>
     </div>
 </div>
 
@@ -166,7 +174,7 @@
             <option value="crypto">Crypto</option>
         </select>
         <button class="payBtn">Pay Now</button>
-        <a class="emailNoteLink" href="#" style="display:none; font-size:small; margin-top:6px; color:darkgreen;">📧 Email your order details</a>
+        <a class="emailNoteLink" href="#" style="display:none; font-size:small; margin-top:6px; color:darkgreen;">📧 Email us about this purchase</a>
     </div>
 </div>
 
@@ -181,7 +189,7 @@
             <option value="crypto">Crypto</option>
         </select>
         <button class="payBtn">Pay Now</button>
-        <a class="emailNoteLink" href="#" style="display:none; font-size:small; margin-top:6px; color:darkgreen;">📧 Email your order details</a>
+        <a class="emailNoteLink" href="#" style="display:none; font-size:small; margin-top:6px; color:darkgreen;">📧 Email us about this purchase</a>
     </div>
 </div>
 </div>
@@ -200,14 +208,30 @@
      ============================================================ -->
 <script>
 const productMeta = {
-    weekly:          { name: "Weekly Subscription",        price: "$7.99" },
-    monthly:         { name: "Monthly Subscription",       price: "$19.99" },
-    semiannual:      { name: "Semi-Annual Subscription",   price: "$89.94" },
-    yearly:          { name: "Yearly Subscription",        price: "$143.88" },
-    portfolioviewer: { name: "PortfolioViewer365",         price: "$13.99" },
-    rollingcryptos:  { name: "RollingCryptos256",          price: "$21.99" },
-    forecasttables:  { name: "ForecastTables777",          price: "$34.99" },
-    af9000:          { name: "AssetForecasts9000",         price: "$47.99" }
+    weekly:          { name: "Weekly Subscription",        price: "$7.99",
+                       deliverPhrase: "your weekly subscription of Top Notch Option Recos",
+                       intentPhrase: "a 1 week subscription to your Top Notch Options Recos" },
+    monthly:         { name: "Monthly Subscription",       price: "$19.99",
+                       deliverPhrase: "your monthly subscription of Top Notch Option Recos",
+                       intentPhrase: "a 1 month subscription to your Top Notch Options Recos" },
+    semiannual:      { name: "Semi-Annual Subscription",   price: "$89.94",
+                       deliverPhrase: "your semi-annual subscription of Top Notch Option Recos",
+                       intentPhrase: "a 6 month subscription to your Top Notch Options Recos" },
+    yearly:          { name: "Yearly Subscription",        price: "$143.88",
+                       deliverPhrase: "your yearly subscription of Top Notch Option Recos",
+                       intentPhrase: "a 1 year subscription to your Top Notch Options Recos" },
+    portfolioviewer: { name: "PortfolioViewer365",         price: "$13.99",
+                       deliverPhrase: "your PortfolioViewer365 app",
+                       intentPhrase: "your PortfolioViewer365 app" },
+    rollingcryptos:  { name: "RollingCryptos256",          price: "$21.99",
+                       deliverPhrase: "your RollingCryptos256 app",
+                       intentPhrase: "your RollingCryptos256 app" },
+    forecasttables:  { name: "ForecastTables777",          price: "$34.99",
+                       deliverPhrase: "your ForecastTables777 app",
+                       intentPhrase: "your ForecastTables777 app" },
+    af9000:          { name: "AssetForecasts9000",         price: "$47.99",
+                       deliverPhrase: "your AssetForecasts9000 app",
+                       intentPhrase: "your AssetForecasts9000 app" }
 };
 const deliveryEmail = "digiversedownloads@gmail.com";
 
@@ -269,6 +293,12 @@ var modalContent = document.getElementById('modalContent');
 var modalCloseBtn = document.getElementById('modalCloseBtn');
 var currentZoomed = null; // {item, img, label, payRow}
 
+var payConfirmModal = document.getElementById('payConfirmModal');
+var payConfirmText = document.getElementById('payConfirmText');
+var payConfirmEmailBtn = document.getElementById('payConfirmEmailBtn');
+var payConfirmContinueBtn = document.getElementById('payConfirmContinueBtn');
+var payConfirmCloseBtn = document.getElementById('payConfirmCloseBtn');
+
 function closeZoom() {
     if (!currentZoomed) return;
     var item = currentZoomed.item;
@@ -290,6 +320,35 @@ function openZoom(item, img, label, payRow) {
     currentZoomed = {item: item, img: img, label: label, payRow: payRow};
 }
 
+function buildMailto(meta, method) {
+    var methodLabel = method === 'cashapp' ? 'CashApp' : 'PayPal';
+    var subject = 'Purchase Inquiry: ' + meta.name;
+    var body = 'Hi, I am about to make / am considering making a purchase of ' +
+        meta.intentPhrase + ' (' + meta.price + ' via ' + methodLabel +
+        '). Please let me know the next steps once payment is verified. Thanks!';
+    return 'mailto:' + deliveryEmail +
+        '?subject=' + encodeURIComponent(subject) +
+        '&body=' + encodeURIComponent(body);
+}
+
+function closePayConfirm() {
+    payConfirmModal.classList.remove('active');
+}
+
+function openPayConfirm(meta, method, link) {
+    payConfirmText.textContent = 'Please be courteous and remember to send this confirmation email first -- I\'ll send you a link to ' +
+        meta.deliverPhrase + ' once your payment has been verified. Thanks!';
+    payConfirmEmailBtn.href = buildMailto(meta, method);
+    payConfirmContinueBtn.disabled = true;
+    payConfirmContinueBtn.textContent = 'Continue to Payment (send email first)';
+    payConfirmContinueBtn.onclick = function() {
+        if (payConfirmContinueBtn.disabled) return;
+        closePayConfirm();
+        window.location.href = link;
+    };
+    payConfirmModal.classList.add('active');
+}
+
 document.querySelectorAll('.flex-item[data-product]').forEach(function(item) {
     var product = item.getAttribute('data-product');
     var img = item.querySelector('img');
@@ -303,13 +362,7 @@ document.querySelectorAll('.flex-item[data-product]').forEach(function(item) {
     function updateEmailLink() {
         var method = select.value;
         if (method === 'cashapp' || method === 'paypal') {
-            var methodLabel = method === 'cashapp' ? 'CashApp' : 'PayPal';
-            var subject = 'Order: ' + meta.name;
-            var body = 'Hi! I just paid ' + meta.price + ' via ' + methodLabel +
-                ' for ' + meta.name + '. Please send my download / access info to this email. Thanks!';
-            emailLink.href = 'mailto:' + deliveryEmail +
-                '?subject=' + encodeURIComponent(subject) +
-                '&body=' + encodeURIComponent(body);
+            emailLink.href = buildMailto(meta, method);
             emailLink.style.display = 'inline-block';
         } else {
             emailLink.style.display = 'none';
@@ -336,12 +389,23 @@ document.querySelectorAll('.flex-item[data-product]').forEach(function(item) {
             return;
         }
 
-        window.location.href = link;
-
         if (method === 'cashapp' || method === 'paypal') {
-            alert('After you finish paying, tap the "📧 Email your order details" link below the button to let us know what to send you.');
+            openPayConfirm(meta, method, link);
+        } else {
+            window.location.href = link;
         }
     });
+});
+
+// payment confirmation dialog: close on backdrop click, X, or after sending/continuing
+payConfirmModal.addEventListener('click', function(e) {
+    if (e.target === payConfirmModal) closePayConfirm();
+});
+payConfirmCloseBtn.addEventListener('click', closePayConfirm);
+payConfirmEmailBtn.addEventListener('click', function() {
+    // opens the buyer's mail app via the mailto: link, then unlocks the payment button
+    payConfirmContinueBtn.disabled = false;
+    payConfirmContinueBtn.textContent = 'Continue to Payment →';
 });
 
 // clicking the dark backdrop (but not the modal content itself) closes the zoom
@@ -361,6 +425,16 @@ modalContent.addEventListener('click', function(e) {
 <div id="imgModal" class="modalOverlay">
     <span class="modalClose" id="modalCloseBtn">&times;</span>
     <div class="modalContent" id="modalContent"></div>
+</div>
+
+<!-- Payment Courtesy Confirmation Dialog -->
+<div id="payConfirmModal" class="modalOverlay">
+    <span class="modalClose" id="payConfirmCloseBtn">&times;</span>
+    <div class="modalContent" id="payConfirmContent">
+        <p id="payConfirmText"></p>
+        <a id="payConfirmEmailBtn" class="payConfirmBtn emailBtn" href="#">📧 Send Confirmation Email</a>
+        <button id="payConfirmContinueBtn" class="payConfirmBtn continueBtn">Continue to Payment →</button>
+    </div>
 </div>
 
 </body>
