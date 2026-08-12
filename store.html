@@ -11,6 +11,12 @@
     .paySelect {font-size: large; padding: 4px; margin-bottom: 6px; width: 90%;}
     .payBtn {font-size: large; padding: 6px 18px; background-color: green; color: white; border: none; border-radius: 6px; cursor: pointer;}
     .payBtn:hover {background-color: darkgreen;}
+    .flex-item img {cursor: zoom-in;}
+    .modalOverlay {display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.85); z-index:1000; justify-content:center; align-items:center;}
+    .modalOverlay.active {display:flex;}
+    .modalContent {background:sandybrown; padding:20px; border-radius:10px; text-align:center; max-width:90vw; max-height:90vh; overflow:auto; border: 3px solid green;}
+    .modalContent img {max-width:80vw; max-height:55vh; width:auto; cursor: zoom-out; display:block; margin:0 auto;}
+    .modalClose {position:absolute; top:15px; right:25px; font-size:xxx-large; color:white; cursor:pointer; font-weight:bold;}
     </style>
 </head>
 <!-- CSS Header End -->
@@ -252,10 +258,44 @@ const paymentLinks = {
     }
 };
 
+var modal = document.getElementById('imgModal');
+var modalContent = document.getElementById('modalContent');
+var modalCloseBtn = document.getElementById('modalCloseBtn');
+var currentZoomed = null; // {item, img, payRow}
+
+function closeZoom() {
+    if (!currentZoomed) return;
+    var item = currentZoomed.item;
+    // put the img back as the first child, payRow back at the end -- same order as original markup
+    item.insertBefore(currentZoomed.img, item.firstChild);
+    item.appendChild(currentZoomed.payRow);
+    modal.classList.remove('active');
+    modalContent.innerHTML = '';
+    currentZoomed = null;
+}
+
+function openZoom(item, img, payRow) {
+    if (currentZoomed) { closeZoom(); }
+    modalContent.appendChild(img);
+    modalContent.appendChild(payRow);
+    modal.classList.add('active');
+    currentZoomed = {item: item, img: img, payRow: payRow};
+}
+
 document.querySelectorAll('.flex-item[data-product]').forEach(function(item) {
     var product = item.getAttribute('data-product');
+    var img = item.querySelector('img');
     var select = item.querySelector('.paySelect');
     var btn = item.querySelector('.payBtn');
+    var payRow = item.querySelector('.payRow');
+
+    img.addEventListener('click', function() {
+        if (currentZoomed && currentZoomed.item === item) {
+            closeZoom();
+        } else {
+            openZoom(item, img, payRow);
+        }
+    });
 
     btn.addEventListener('click', function() {
         var method = select.value;
@@ -268,7 +308,23 @@ document.querySelectorAll('.flex-item[data-product]').forEach(function(item) {
         window.location.href = link;
     });
 });
+
+// clicking the dark backdrop (but not the modal content itself) closes the zoom
+modal.addEventListener('click', function(e) {
+    if (e.target === modal) closeZoom();
+});
+modalCloseBtn.addEventListener('click', closeZoom);
+// clicking the enlarged image itself also shrinks it back down
+modalContent.addEventListener('click', function(e) {
+    if (e.target.tagName === 'IMG') closeZoom();
+});
 </script>
+
+<!-- Image Zoom Modal -->
+<div id="imgModal" class="modalOverlay">
+    <span class="modalClose" id="modalCloseBtn">&times;</span>
+    <div class="modalContent" id="modalContent"></div>
+</div>
 
 </body>
 <!-- HTML Body End -->
