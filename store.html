@@ -12,6 +12,8 @@
     .payBtn {font-size: large; padding: 6px 18px; background-color: green; color: white; border: none; border-radius: 6px; cursor: pointer;}
     .payBtn:hover {background-color: darkgreen;}
     .flex-item img {cursor: zoom-in;}
+    .itemLabel {margin-top: 4px;}
+    .modalContent .itemLabel {font-size: xx-large; color: green; font-family: arial; margin: 10px 0;}
     .modalOverlay {display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.85); z-index:1000; justify-content:center; align-items:center;}
     .modalOverlay.active {display:flex;}
     .modalContent {background:sandybrown; padding:20px; border-radius:10px; text-align:center; max-width:90vw; max-height:90vh; overflow:auto; border: 3px solid green;}
@@ -55,7 +57,7 @@
 
 <div class="flex-item" data-product="weekly">
     <img src="StorePics/1WeekSubscription.jpg">
-    Weekly Subscription<br>($7.99/week)
+    <div class="itemLabel">Weekly Subscription<br>($7.99/week)</div>
     <div class="payRow">
         <select class="paySelect">
             <option value="cashapp">CashApp</option>
@@ -70,7 +72,7 @@
 
 <div class="flex-item" data-product="monthly">
     <img src="StorePics/1MonthSubscription.jpg">
-    Monthly Subscription<br>($19.99/mo)
+    <div class="itemLabel">Monthly Subscription<br>($19.99/mo)</div>
     <div class="payRow">
         <select class="paySelect">
             <option value="cashapp">CashApp</option>
@@ -87,7 +89,7 @@
 
 <div class="flex-item" data-product="semiannual">
     <img src="StorePics/6MonthSubscription.jpg">
-    Semi-Annual Subscription<br>$89.94  ($14.99/mo)
+    <div class="itemLabel">Semi-Annual Subscription<br>$89.94  ($14.99/mo)</div>
     <div class="payRow">
         <select class="paySelect">
             <option value="cashapp">CashApp</option>
@@ -102,7 +104,7 @@
 
 <div class="flex-item" data-product="yearly">
     <img src="StorePics/1YearSubscription.jpg">
-    Yearly Subscription<br>$143.88  ($11.99/mo)
+    <div class="itemLabel">Yearly Subscription<br>$143.88  ($11.99/mo)</div>
     <div class="payRow">
         <select class="paySelect">
             <option value="cashapp">CashApp</option>
@@ -125,7 +127,7 @@
 
 <div class="flex-item" data-product="portfolioviewer">
     <img src="StorePics/PortfolioViewer365.jpg">
-    PortfolioViewer365<br>($13.99)
+    <div class="itemLabel">PortfolioViewer365<br>($13.99)</div>
     <div class="payRow">
         <select class="paySelect">
             <option value="cashapp">CashApp</option>
@@ -140,7 +142,7 @@
 
 <div class="flex-item" data-product="rollingcryptos">
     <img src="StorePics/RollingCryptos256.jpg">
-    RollingCryptos256<br>($21.99)
+    <div class="itemLabel">RollingCryptos256<br>($21.99)</div>
     <div class="payRow">
         <select class="paySelect">
             <option value="cashapp">CashApp</option>
@@ -155,7 +157,7 @@
 
 <div class="flex-item" data-product="forecasttables">
     <img src="StorePics/ForecastTables777.jpg">
-    ForecastTables777<br>($34.99)
+    <div class="itemLabel">ForecastTables777<br>($34.99)</div>
     <div class="payRow">
         <select class="paySelect">
             <option value="cashapp">CashApp</option>
@@ -170,7 +172,7 @@
 
 <div class="flex-item" data-product="af9000">
     <img src="StorePics/AssetForecasts9000.jpg">
-    AssetForecasts9000<br>($47.99)
+    <div class="itemLabel">AssetForecasts9000<br>($47.99)</div>
     <div class="payRow">
         <select class="paySelect">
             <option value="cashapp">CashApp</option>
@@ -263,30 +265,33 @@ document.addEventListener('DOMContentLoaded', function() {
 var modal = document.getElementById('imgModal');
 var modalContent = document.getElementById('modalContent');
 var modalCloseBtn = document.getElementById('modalCloseBtn');
-var currentZoomed = null; // {item, img, payRow}
+var currentZoomed = null; // {item, img, label, payRow}
 
 function closeZoom() {
     if (!currentZoomed) return;
     var item = currentZoomed.item;
-    // put the img back as the first child, payRow back at the end -- same order as original markup
+    // put things back in original order: img, then label, then payRow
     item.insertBefore(currentZoomed.img, item.firstChild);
+    item.appendChild(currentZoomed.label);
     item.appendChild(currentZoomed.payRow);
     modal.classList.remove('active');
     modalContent.innerHTML = '';
     currentZoomed = null;
 }
 
-function openZoom(item, img, payRow) {
+function openZoom(item, img, label, payRow) {
     if (currentZoomed) { closeZoom(); }
     modalContent.appendChild(img);
+    modalContent.appendChild(label);
     modalContent.appendChild(payRow);
     modal.classList.add('active');
-    currentZoomed = {item: item, img: img, payRow: payRow};
+    currentZoomed = {item: item, img: img, label: label, payRow: payRow};
 }
 
 document.querySelectorAll('.flex-item[data-product]').forEach(function(item) {
     var product = item.getAttribute('data-product');
     var img = item.querySelector('img');
+    var label = item.querySelector('.itemLabel');
     var select = item.querySelector('.paySelect');
     var btn = item.querySelector('.payBtn');
     var payRow = item.querySelector('.payRow');
@@ -295,7 +300,7 @@ document.querySelectorAll('.flex-item[data-product]').forEach(function(item) {
         if (currentZoomed && currentZoomed.item === item) {
             closeZoom();
         } else {
-            openZoom(item, img, payRow);
+            openZoom(item, img, label, payRow);
         }
     });
 
