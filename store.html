@@ -321,7 +321,7 @@ function openZoom(item, img, label, payRow) {
 }
 
 function buildMailto(meta, method) {
-    var methodLabel = method === 'cashapp' ? 'CashApp' : 'PayPal';
+    var methodLabel = method === 'cashapp' ? 'CashApp' : (method === 'square' ? 'Card (Square)' : 'PayPal');
     var subject = 'Purchase Inquiry: ' + meta.name;
     var body = 'Hi, I am about to make / am considering making a purchase of ' +
         meta.intentPhrase + ' (' + meta.price + ' via ' + methodLabel +
@@ -362,7 +362,7 @@ document.querySelectorAll('.flex-item[data-product]').forEach(function(item) {
 
     function updateEmailLink() {
         var method = select.value;
-        if (method === 'cashapp' || method === 'paypal') {
+        if (method === 'cashapp' || method === 'paypal' || method === 'square') {
             emailLink.href = buildMailto(meta, method);
             emailLink.style.display = 'inline-block';
         } else {
@@ -390,7 +390,7 @@ document.querySelectorAll('.flex-item[data-product]').forEach(function(item) {
             return;
         }
 
-        if (method === 'cashapp' || method === 'paypal') {
+        if (method === 'cashapp' || method === 'paypal' || method === 'square') {
             openPayConfirm(meta, method, link);
         } else {
             window.location.href = link;
