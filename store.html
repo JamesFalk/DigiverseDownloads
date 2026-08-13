@@ -129,72 +129,6 @@
 
 
 
-<!-- Pydroid Apps for Sale -->
-<div class="container" style="width: 100%; margin: 0 auto; border: 2px solid black;font-size: xxx-large; text-align: center; color: green; border-color: green; font-family: arial"> Pydroid Apps</div><br>
-<div class="flex-container">
-
-<div class="flex-item" data-product="portfolioviewer">
-    <img src="StorePics/PortfolioViewer365.jpg">
-    <div class="itemLabel">PortfolioViewer365<br>($13.99)</div>
-    <div class="payRow">
-        <select class="paySelect">
-            <option value="cashapp">CashApp</option>
-            <option value="square">Square</option>
-            <option value="paypal">PayPal</option>
-            <option value="crypto">Crypto</option>
-        </select>
-        <button class="payBtn">Pay Now</button>
-        <a class="emailNoteLink" href="#" style="display:none; font-size:small; margin-top:6px; color:darkgreen;">📧 Email us about this purchase</a>
-    </div>
-</div>
-
-<div class="flex-item" data-product="rollingcryptos">
-    <img src="StorePics/RollingCryptos256.jpg">
-    <div class="itemLabel">RollingCryptos256<br>($21.99)</div>
-    <div class="payRow">
-        <select class="paySelect">
-            <option value="cashapp">CashApp</option>
-            <option value="square">Square</option>
-            <option value="paypal">PayPal</option>
-            <option value="crypto">Crypto</option>
-        </select>
-        <button class="payBtn">Pay Now</button>
-        <a class="emailNoteLink" href="#" style="display:none; font-size:small; margin-top:6px; color:darkgreen;">📧 Email us about this purchase</a>
-    </div>
-</div>
-
-<div class="flex-item" data-product="forecasttables">
-    <img src="StorePics/ForecastTables777.jpg">
-    <div class="itemLabel">ForecastTables777<br>($34.99)</div>
-    <div class="payRow">
-        <select class="paySelect">
-            <option value="cashapp">CashApp</option>
-            <option value="square">Square</option>
-            <option value="paypal">PayPal</option>
-            <option value="crypto">Crypto</option>
-        </select>
-        <button class="payBtn">Pay Now</button>
-        <a class="emailNoteLink" href="#" style="display:none; font-size:small; margin-top:6px; color:darkgreen;">📧 Email us about this purchase</a>
-    </div>
-</div>
-
-<div class="flex-item" data-product="af9000">
-    <img src="StorePics/AssetForecasts9000.jpg">
-    <div class="itemLabel">AssetForecasts9000<br>($47.99)</div>
-    <div class="payRow">
-        <select class="paySelect">
-            <option value="cashapp">CashApp</option>
-            <option value="square">Square</option>
-            <option value="paypal">PayPal</option>
-            <option value="crypto">Crypto</option>
-        </select>
-        <button class="payBtn">Pay Now</button>
-        <a class="emailNoteLink" href="#" style="display:none; font-size:small; margin-top:6px; color:darkgreen;">📧 Email us about this purchase</a>
-    </div>
-</div>
-</div>
-
-
 <!-- ============================================================
      PAYMENT LINK MAP
      Fill in each PLACEHOLDER below once you've set up the
@@ -220,18 +154,6 @@ const productMeta = {
     yearly:          { name: "Yearly Subscription",        price: "$143.88",
                        deliverPhrase: "your yearly subscription of Top Notch Option Recos",
                        intentPhrase: "a 1 year subscription to your Top Notch Options Recos" },
-    portfolioviewer: { name: "PortfolioViewer365",         price: "$13.99",
-                       deliverPhrase: "your PortfolioViewer365 app",
-                       intentPhrase: "your PortfolioViewer365 app" },
-    rollingcryptos:  { name: "RollingCryptos256",          price: "$21.99",
-                       deliverPhrase: "your RollingCryptos256 app",
-                       intentPhrase: "your RollingCryptos256 app" },
-    forecasttables:  { name: "ForecastTables777",          price: "$34.99",
-                       deliverPhrase: "your ForecastTables777 app",
-                       intentPhrase: "your ForecastTables777 app" },
-    af9000:          { name: "AssetForecasts9000",         price: "$47.99",
-                       deliverPhrase: "your AssetForecasts9000 app",
-                       intentPhrase: "your AssetForecasts9000 app" }
 };
 const deliveryEmail = "digiversedownloads@gmail.com";
 
@@ -260,30 +182,6 @@ const paymentLinks = {
         paypal:  "https://paypal.me/JamesAFalk/143.88",
         crypto:  "PLACEHOLDER_CRYPTO_YEARLY"
     },
-    portfolioviewer: {
-        cashapp: "https://cash.app/pay/link/tgr1wsfx",
-        square:  "https://square.link/u/WPUikFL9",
-        paypal:  "https://paypal.me/JamesAFalk/13.99",
-        crypto:  "PLACEHOLDER_CRYPTO_PORTFOLIOVIEWER"
-    },
-    rollingcryptos: {
-        cashapp: "https://cash.app/pay/link/wmjosdcg",
-        square:  "https://square.link/u/H3qDDdKy",
-        paypal:  "https://paypal.me/JamesAFalk/21.99",
-        crypto:  "PLACEHOLDER_CRYPTO_ROLLINGCRYPTOS"
-    },
-    forecasttables: {
-        cashapp: "https://cash.app/pay/link/3tnuryxf",
-        square:  "https://square.link/u/ug7fXrzN",
-        paypal:  "https://paypal.me/JamesAFalk/34.99",
-        crypto:  "PLACEHOLDER_CRYPTO_FORECASTTABLES"
-    },
-    af9000: {
-        cashapp: "https://cash.app/pay/link/aeo5zh80",
-        square:  "https://square.link/u/rLh137uT",
-        paypal:  "https://paypal.me/JamesAFalk/47.99",
-        crypto:  "PLACEHOLDER_CRYPTO_AF9000"
-    }
 };
 
 document.addEventListener('DOMContentLoaded', function() {
