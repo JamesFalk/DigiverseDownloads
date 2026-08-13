@@ -323,7 +323,7 @@ function openZoom(item, img, label, payRow) {
 function buildMailto(meta, method) {
     var methodLabel = method === 'cashapp' ? 'CashApp' : (method === 'square' ? 'Square' : 'PayPal');
     var subject = 'Purchase Inquiry: ' + meta.name;
-    var body = 'Hi, I am about to make / am considering making a purchase of ' +
+    var body = 'Hi, I am considering making a purchase of ' +
         meta.intentPhrase + ' (' + meta.price + ' via ' + methodLabel +
         '). I might have a few questions about it first such as .... ' +
         'Please let me know the next steps once payment is verified. Thanks!';
