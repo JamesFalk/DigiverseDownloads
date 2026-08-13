@@ -69,7 +69,7 @@
     <div class="payRow">
         <select class="paySelect">
             <option value="cashapp">CashApp</option>
-            <option value="square">Card (Square)</option>
+            <option value="square">Square</option>
             <option value="paypal">PayPal</option>
             <option value="crypto">Crypto</option>
         </select>
@@ -84,7 +84,7 @@
     <div class="payRow">
         <select class="paySelect">
             <option value="cashapp">CashApp</option>
-            <option value="square">Card (Square)</option>
+            <option value="square">Square</option>
             <option value="paypal">PayPal</option>
             <option value="crypto">Crypto</option>
         </select>
@@ -101,7 +101,7 @@
     <div class="payRow">
         <select class="paySelect">
             <option value="cashapp">CashApp</option>
-            <option value="square">Card (Square)</option>
+            <option value="square">Square</option>
             <option value="paypal">PayPal</option>
             <option value="crypto">Crypto</option>
         </select>
@@ -116,7 +116,7 @@
     <div class="payRow">
         <select class="paySelect">
             <option value="cashapp">CashApp</option>
-            <option value="square">Card (Square)</option>
+            <option value="square">Square</option>
             <option value="paypal">PayPal</option>
             <option value="crypto">Crypto</option>
         </select>
@@ -139,7 +139,7 @@
     <div class="payRow">
         <select class="paySelect">
             <option value="cashapp">CashApp</option>
-            <option value="square">Card (Square)</option>
+            <option value="square">Square</option>
             <option value="paypal">PayPal</option>
             <option value="crypto">Crypto</option>
         </select>
@@ -154,7 +154,7 @@
     <div class="payRow">
         <select class="paySelect">
             <option value="cashapp">CashApp</option>
-            <option value="square">Card (Square)</option>
+            <option value="square">Square</option>
             <option value="paypal">PayPal</option>
             <option value="crypto">Crypto</option>
         </select>
@@ -169,7 +169,7 @@
     <div class="payRow">
         <select class="paySelect">
             <option value="cashapp">CashApp</option>
-            <option value="square">Card (Square)</option>
+            <option value="square">Square</option>
             <option value="paypal">PayPal</option>
             <option value="crypto">Crypto</option>
         </select>
@@ -184,7 +184,7 @@
     <div class="payRow">
         <select class="paySelect">
             <option value="cashapp">CashApp</option>
-            <option value="square">Card (Square)</option>
+            <option value="square">Square</option>
             <option value="paypal">PayPal</option>
             <option value="crypto">Crypto</option>
         </select>
@@ -321,7 +321,7 @@ function openZoom(item, img, label, payRow) {
 }
 
 function buildMailto(meta, method) {
-    var methodLabel = method === 'cashapp' ? 'CashApp' : (method === 'square' ? 'Card (Square)' : 'PayPal');
+    var methodLabel = method === 'cashapp' ? 'CashApp' : (method === 'square' ? 'Square' : 'PayPal');
     var subject = 'Purchase Inquiry: ' + meta.name;
     var body = 'Hi, I am about to make / am considering making a purchase of ' +
         meta.intentPhrase + ' (' + meta.price + ' via ' + methodLabel +
