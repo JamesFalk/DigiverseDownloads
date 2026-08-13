@@ -324,8 +324,8 @@ function buildMailto(meta, method) {
     var methodLabel = method === 'cashapp' ? 'CashApp' : (method === 'square' ? 'Square' : 'PayPal');
     var subject = 'Purchase Inquiry: ' + meta.name;
     var body = 'Hi, I am considering making a purchase of ' +
-        meta.intentPhrase + ' (' + meta.price + ' via ' + methodLabel +
-        '). I might have a few questions about it first such as .... ' +
+        meta.intentPhrase + ' (' + meta.price + ' via ' + methodLabel + ').\n\n' +
+        'I might have a few questions or comments about it first such as ... {!?!}\n\n' +
         'Please let me know the next steps once payment is verified. Thanks!';
     return 'mailto:' + deliveryEmail +
         '?subject=' + encodeURIComponent(subject) +
