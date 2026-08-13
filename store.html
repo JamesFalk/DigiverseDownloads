@@ -74,8 +74,8 @@
             <option value="crypto">Crypto</option>
         </select>
         <button class="payBtn">Pay Now</button>
-        <a class="emailNoteLink" href="#" style="display:none; font-size:small; margin-top:6px; color:darkgreen;">📧 Email us about this purchase</a>
     </div>
+        <a class="emailNoteLink" href="#" style="display:none; font-size:small; margin-top:6px; color:darkgreen;">📧 Email us about this purchase</a>
 </div>
 
 <div class="flex-item" data-product="monthly">
@@ -89,8 +89,8 @@
             <option value="crypto">Crypto</option>
         </select>
         <button class="payBtn">Pay Now</button>
-        <a class="emailNoteLink" href="#" style="display:none; font-size:small; margin-top:6px; color:darkgreen;">📧 Email us about this purchase</a>
     </div>
+        <a class="emailNoteLink" href="#" style="display:none; font-size:small; margin-top:6px; color:darkgreen;">📧 Email us about this purchase</a>
 </div>
 
 <br><br>
@@ -106,8 +106,8 @@
             <option value="crypto">Crypto</option>
         </select>
         <button class="payBtn">Pay Now</button>
-        <a class="emailNoteLink" href="#" style="display:none; font-size:small; margin-top:6px; color:darkgreen;">📧 Email us about this purchase</a>
     </div>
+        <a class="emailNoteLink" href="#" style="display:none; font-size:small; margin-top:6px; color:darkgreen;">📧 Email us about this purchase</a>
 </div>
 
 <div class="flex-item" data-product="yearly">
@@ -121,12 +121,74 @@
             <option value="crypto">Crypto</option>
         </select>
         <button class="payBtn">Pay Now</button>
-        <a class="emailNoteLink" href="#" style="display:none; font-size:small; margin-top:6px; color:darkgreen;">📧 Email us about this purchase</a>
     </div>
+        <a class="emailNoteLink" href="#" style="display:none; font-size:small; margin-top:6px; color:darkgreen;">📧 Email us about this purchase</a>
 </div>
 </div>
 <br><br>
 
+
+
+<!-- Pydroid Apps for Sale -->
+<div class="container" style="width: 100%; margin: 0 auto; border: 2px solid black;font-size: xxx-large; text-align: center; color: green; border-color: green; font-family: arial"> Pydroid Apps</div><br>
+<div class="flex-container">
+
+<div class="flex-item" data-product="portfolioviewer">
+    <img src="StorePics/PortfolioViewer365.jpg">
+    <div class="itemLabel">PortfolioViewer365<br>($13.99)</div>
+    <div class="payRow">
+        <select class="paySelect">
+            <option value="cashapp">CashApp</option>
+            <option value="square">Square</option>
+            <option value="paypal">PayPal</option>
+            <option value="crypto">Crypto</option>
+        </select>
+        <button class="payBtn">Pay Now</button>
+    </div>
+</div>
+
+<div class="flex-item" data-product="rollingcryptos">
+    <img src="StorePics/RollingCryptos256.jpg">
+    <div class="itemLabel">RollingCryptos256<br>($21.99)</div>
+    <div class="payRow">
+        <select class="paySelect">
+            <option value="cashapp">CashApp</option>
+            <option value="square">Square</option>
+            <option value="paypal">PayPal</option>
+            <option value="crypto">Crypto</option>
+        </select>
+        <button class="payBtn">Pay Now</button>
+    </div>
+</div>
+
+<div class="flex-item" data-product="forecasttables">
+    <img src="StorePics/ForecastTables777.jpg">
+    <div class="itemLabel">ForecastTables777<br>($34.99)</div>
+    <div class="payRow">
+        <select class="paySelect">
+            <option value="cashapp">CashApp</option>
+            <option value="square">Square</option>
+            <option value="paypal">PayPal</option>
+            <option value="crypto">Crypto</option>
+        </select>
+        <button class="payBtn">Pay Now</button>
+    </div>
+</div>
+
+<div class="flex-item" data-product="af9000">
+    <img src="StorePics/AssetForecasts9000.jpg">
+    <div class="itemLabel">AssetForecasts9000<br>($47.99)</div>
+    <div class="payRow">
+        <select class="paySelect">
+            <option value="cashapp">CashApp</option>
+            <option value="square">Square</option>
+            <option value="paypal">PayPal</option>
+            <option value="crypto">Crypto</option>
+        </select>
+        <button class="payBtn">Pay Now</button>
+    </div>
+</div>
+</div>
 
 
 <!-- ============================================================
@@ -154,8 +216,22 @@ const productMeta = {
     yearly:          { name: "Yearly Subscription",        price: "$143.88",
                        deliverPhrase: "your yearly subscription of Top Notch Option Recos",
                        intentPhrase: "a 1 year subscription to your Top Notch Options Recos" },
+    portfolioviewer: { name: "PortfolioViewer365",         price: "$13.99",
+                       deliverPhrase: "your PortfolioViewer365 app",
+                       intentPhrase: "your PortfolioViewer365 app" },
+    rollingcryptos:  { name: "RollingCryptos256",          price: "$21.99",
+                       deliverPhrase: "your RollingCryptos256 app",
+                       intentPhrase: "your RollingCryptos256 app" },
+    forecasttables:  { name: "ForecastTables777",          price: "$34.99",
+                       deliverPhrase: "your ForecastTables777 app",
+                       intentPhrase: "your ForecastTables777 app" },
+    af9000:          { name: "AssetForecasts9000",         price: "$47.99",
+                       deliverPhrase: "your AssetForecasts9000 app",
+                       intentPhrase: "your AssetForecasts9000 app" }
 };
+
 const deliveryEmail = "digiversedownloads@gmail.com";
+const appProducts = ["portfolioviewer", "rollingcryptos", "forecasttables", "af9000"];
 
 const paymentLinks = {
     weekly: {
@@ -182,6 +258,30 @@ const paymentLinks = {
         paypal:  "https://paypal.me/JamesAFalk/143.88",
         crypto:  "PLACEHOLDER_CRYPTO_YEARLY"
     },
+    portfolioviewer: {
+        cashapp: "https://cash.app/pay/link/tgr1wsfx",
+        square:  "https://square.link/u/WPUikFL9",
+        paypal:  "https://paypal.me/JamesAFalk/13.99",
+        crypto:  "PLACEHOLDER_CRYPTO_PORTFOLIOVIEWER"
+    },
+    rollingcryptos: {
+        cashapp: "https://cash.app/pay/link/wmjosdcg",
+        square:  "https://square.link/u/H3qDDdKy",
+        paypal:  "https://paypal.me/JamesAFalk/21.99",
+        crypto:  "PLACEHOLDER_CRYPTO_ROLLINGCRYPTOS"
+    },
+    forecasttables: {
+        cashapp: "https://cash.app/pay/link/3tnuryxf",
+        square:  "https://square.link/u/ug7fXrzN",
+        paypal:  "https://paypal.me/JamesAFalk/34.99",
+        crypto:  "PLACEHOLDER_CRYPTO_FORECASTTABLES"
+    },
+    af9000: {
+        cashapp: "https://cash.app/pay/link/aeo5zh80",
+        square:  "https://square.link/u/rLh137uT",
+        paypal:  "https://paypal.me/JamesAFalk/47.99",
+        crypto:  "PLACEHOLDER_CRYPTO_AF9000"
+    }
 };
 
 document.addEventListener('DOMContentLoaded', function() {
@@ -195,6 +295,7 @@ var payConfirmModal = document.getElementById('payConfirmModal');
 var payConfirmText = document.getElementById('payConfirmText');
 var payConfirmEmailBtn = document.getElementById('payConfirmEmailBtn');
 var payConfirmContinueBtn = document.getElementById('payConfirmContinueBtn');
+var payConfirmOkBtn = document.getElementById('payConfirmOkBtn');
 var payConfirmCloseBtn = document.getElementById('payConfirmCloseBtn');
 
 function closeZoom() {
@@ -218,6 +319,10 @@ function openZoom(item, img, label, payRow) {
     currentZoomed = {item: item, img: img, label: label, payRow: payRow};
 }
 
+function closePayConfirm() {
+    payConfirmModal.classList.remove('active');
+}
+
 function buildMailto(meta, method) {
     var methodLabel = method === 'cashapp' ? 'CashApp' : (method === 'square' ? 'Square' : 'PayPal');
     var subject = 'Purchase Inquiry: ' + meta.name;
@@ -230,14 +335,21 @@ function buildMailto(meta, method) {
         '&body=' + encodeURIComponent(body);
 }
 
-function closePayConfirm() {
-    payConfirmModal.classList.remove('active');
+function openJokeModal() {
+    payConfirmText.textContent = 'Haha, dream on, these apps are not actually for sale. Nice try!';
+    payConfirmEmailBtn.style.display = 'none';
+    payConfirmContinueBtn.style.display = 'none';
+    payConfirmOkBtn.style.display = 'inline-block';
+    payConfirmModal.classList.add('active');
 }
 
 function openPayConfirm(meta, method, link) {
     payConfirmText.textContent = 'Please be courteous and remember to send this confirmation email first -- I\'ll send you a link to ' +
         meta.deliverPhrase + ' once your payment has been verified. Thanks!';
     payConfirmEmailBtn.href = buildMailto(meta, method);
+    payConfirmEmailBtn.style.display = 'inline-block';
+    payConfirmContinueBtn.style.display = 'inline-block';
+    payConfirmOkBtn.style.display = 'none';
     payConfirmContinueBtn.disabled = true;
     payConfirmContinueBtn.textContent = 'Continue to Payment (send email first)';
     payConfirmContinueBtn.onclick = function() {
@@ -257,8 +369,10 @@ document.querySelectorAll('.flex-item[data-product]').forEach(function(item) {
     var payRow = item.querySelector('.payRow');
     var emailLink = item.querySelector('.emailNoteLink');
     var meta = productMeta[product] || { name: product, price: '' };
+    var isApp = appProducts.indexOf(product) !== -1;
 
     function updateEmailLink() {
+        if (isApp || !emailLink) return;
         var method = select.value;
         if (method === 'cashapp' || method === 'paypal' || method === 'square') {
             emailLink.href = buildMailto(meta, method);
@@ -268,8 +382,10 @@ document.querySelectorAll('.flex-item[data-product]').forEach(function(item) {
         }
     }
 
-    select.addEventListener('change', updateEmailLink);
-    updateEmailLink(); // set initial state on page load
+    if (!isApp) {
+        select.addEventListener('change', updateEmailLink);
+        updateEmailLink(); // set initial state on page load
+    }
 
     img.addEventListener('click', function() {
         if (currentZoomed && currentZoomed.item === item) {
@@ -280,6 +396,11 @@ document.querySelectorAll('.flex-item[data-product]').forEach(function(item) {
     });
 
     btn.addEventListener('click', function() {
+        if (isApp) {
+            openJokeModal();
+            return;
+        }
+
         var method = select.value;
         var link = paymentLinks[product] ? paymentLinks[product][method] : null;
 
@@ -296,11 +417,12 @@ document.querySelectorAll('.flex-item[data-product]').forEach(function(item) {
     });
 });
 
-// payment confirmation dialog: close on backdrop click, X, or after sending/continuing
+// payment confirmation / joke dialog: close on backdrop click, X, OK, or after sending/continuing
 payConfirmModal.addEventListener('click', function(e) {
     if (e.target === payConfirmModal) closePayConfirm();
 });
 payConfirmCloseBtn.addEventListener('click', closePayConfirm);
+payConfirmOkBtn.addEventListener('click', closePayConfirm);
 payConfirmEmailBtn.addEventListener('click', function() {
     // opens the buyer's mail app via the mailto: link, then unlocks the payment button
     payConfirmContinueBtn.disabled = false;
@@ -326,13 +448,14 @@ modalContent.addEventListener('click', function(e) {
     <div class="modalContent" id="modalContent"></div>
 </div>
 
-<!-- Payment Courtesy Confirmation Dialog -->
+<!-- Payment Confirmation / Joke "Not For Sale" Dialog (shared) -->
 <div id="payConfirmModal" class="modalOverlay">
     <span class="modalClose" id="payConfirmCloseBtn">&times;</span>
     <div class="modalContent" id="payConfirmContent">
         <p id="payConfirmText"></p>
         <a id="payConfirmEmailBtn" class="payConfirmBtn emailBtn" href="#">📧 Send Confirmation Email</a>
         <button id="payConfirmContinueBtn" class="payConfirmBtn continueBtn">Continue to Payment →</button>
+        <button id="payConfirmOkBtn" class="payConfirmBtn continueBtn">Okay</button>
     </div>
 </div>
 
