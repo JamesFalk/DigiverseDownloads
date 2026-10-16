@@ -1,4 +1,16 @@
 <!DOCTYPE html><html lang="en">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+  /* --u = one "old pixel": the page was designed for a 980px-wide screen,
+     so it scales down on phones and is capped at 1px on desktop. */
+  :root { --u: min(calc(100vw / 980), 1px); -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }
+  html { font-size: calc(16 * var(--u)); }
+  body { font-family: Roboto, "Segoe UI", Arial, sans-serif; }
+  button, select, input, textarea { font-size: calc(13.333 * var(--u)); }
+  img[src*="_nav_icons_"] { width: calc(50 * var(--u)); height: calc(50 * var(--u)); vertical-align: middle; }
+</style>
+
   <meta property="og:image" content="index_DDprvw.png">
 
 <style>
@@ -13,19 +25,27 @@ body {margin: 0; height: 85vh;}
 
 <button id='menubtn' onclick='toggleMenu()' style="width: 100%;
   position: fixed; top:0; left:0;background-color: black;
-  color: lightgray; text-align: center; font-size: xxx-large;
-  height: 80px"><u>===M E N U===</u></button>
+  color: lightgray; text-align: center; font-size: calc(48 * var(--u));
+  height: calc(80 * var(--u))"><u>===M E N U===</u></button>
 
-<iframe id="my-iframe" style="position:fixed; top:60px; left:30%;
+<iframe id="my-iframe" style="position:fixed; top:calc(60 * var(--u)); left:30%;
   border: none; z-index: 100;" src="_nav_menu.html" width="40%"
   height='0px'></iframe>
 
 <script>
+    // The menu page inside the iframe was designed for a 980px-wide layout,
+    // so lay it out at that size and scale it down to fit narrow screens.
     var toggleVar = 0; var iframe = document.getElementById('my-iframe');
-    function toggleMenu() {
-        toggleVar = toggleVar === 0 ? 1 : 0;
-        if (toggleVar === 1) {iframe.style.height = '80%';}
-        else {iframe.style.height = '0%';}}
+    function sizeMenu() {
+        var sc = Math.min(window.innerWidth / 980, 1);
+        iframe.style.transformOrigin = 'top left';
+        iframe.style.transform = 'scale(' + sc + ')';
+        iframe.style.width = (0.4 * window.innerWidth / sc) + 'px';
+        iframe.style.height = toggleVar === 1 ? (0.8 * window.innerHeight / sc) + 'px' : '0px';
+    }
+    function toggleMenu() { toggleVar = toggleVar === 0 ? 1 : 0; sizeMenu(); }
+    window.addEventListener('resize', sizeMenu);
+    sizeMenu();
 </script>
 <script>
   document.addEventListener('click', function playAudio() {
