@@ -1,0 +1,37 @@
+MARKET CONDITIONS: (Wednesday | October 14, 2026 | 11:30 AM)
+Index: Up Nt Dn Odds Årn RSI Gravity
+SPY : 18% 76% 0% ntrl 15 .60 ( Fäll )
+QQQ : 12% 65% 18% ntrl -79 .48 (Crãsh)
+DIA : 12% 71% 12% ntrl 46 .47 (Hôver)
+BTC* : 17% 58% 21% ntrl -16 .52 (Hôver)
+ETH* : 8% 62% 25% ntrl -70 .42 (Crãsh)
+SVIX : 47% 12% 35% up-ntrl 76 .64 (Crãsh)
+Indices Forecast Table:
+[Asset (Prsnt | Opts | tm mWP~mF | cWP~cF) | ENV | Arn | RSI]
+SVIX (29.6b | ——— |0d 1.0x~29.6b|0.8x~22.9b) |6:5ƒivs| 76 |.64
+C_OIL (95.0b | ——— |0d 1.0x~95.0b|1.0x~91.5b) |3:5ƒivs| 79 |.57
+DIA (516b | ——— |0d 1.0x~516b|1.0x~500b) |3:4ƒivs| 46 |.47
+GLD (374b | ——— |18d 1.0x~380b|1.0x~357b) |2:1ƒivs| -46 |.37
+BTC* (81.7Kb | ——— |7d 1.0x~84.1Kb|1.0x~84.2Kb) |2:1ƒivs| -16 |.52
+COIN (174b | ——— |1d 1.0x~177b|1.1x~188b) |1:1ƒivs| 1 |.44
+HOOD (103b | ——— |15d 1.1x~117b|1.0x~107b) |1:-1ƒivs| -53 |.38
+REM (17.2b | ——— |1d 1.0x~17.4b|1.0x~18.0b) |2:1ƒivs| -70 |.13
+TPOR (30.4b | ——— |0d 1.0x~30.4b|0.9x~28.6b) |4:1ƒivs| -61 |.34
+ONLN (56.4b | ——— |0d 1.0x~56.4b|0.9x~52.0b) |4:5ƒivs| 62 |.60
+RETL (7.46b | ——— |0d 1.0x~7.46b|0.9x~6.91b) |5:4ƒivs| 65 |.47
+PBJ (46.7b | ——— |0d 1.0x~46.7b|1.0x~45.1b) |5:6ƒivs| 82 |.57
+HEAL (29.7b | ——— |0d 1.0x~29.7b|1.0x~29.1b) |3:4ƒivs| 30 |.55
+XLE (67.4b | ——— |0d 1.0x~67.4b|0.9x~62.3b) |4:8ƒivs| 85 |.68
+FMAT (56.0b | ——— |1d 1.0x~56.3b|1.0x~56.6b) |3:2ƒivs| 14 |.40
+MADE (34.6b | ——— |0d 1.0x~34.6b|1.0x~33.1b) |2:1ƒivs| -60 |.40
+ARTY (74.4b | ——— |3d 1.1x~78.2b|1.1x~79.8b) |3:-3ƒivs| -79 |.41
+QTUM (143b | ——— |15d 1.1x~151b|1.0x~144b) |3:-3ƒivs| -73 |.42
+BOTZ (34.2b | ——— |4d 1.0x~35.5b|1.0x~35.8b) |4:-2ƒivs| -30 |.44
+NLR (95.2b | ——— |5d 1.1x~107b|1.1x~105b) |2:-3ƒivs| -79 |.29
+DFEN (44.8b | ——— |1d 1.0x~45.4b|1.1x~48.3b) |2:1ƒivs| 1 |.25
+MSOS (4.10b | ——— |5d 1.1x~4.64b|1.1x~4.66b) |1:1ƒivs| -82 |.28
+
+
+ChampWinJim's Daily Options RecosWednesday | October 14, 2026 | 11:30 AMActive Filter: ≥ 70% Win Rates and/or Best Forecasts <$>
+
+( (+) ) =by Fri Oct 16  ( (+)+) =by Fri Oct 23  ( ( ) ) x =MissedTwoWeeksOut+ ?=no data

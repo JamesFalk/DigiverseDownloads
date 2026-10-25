@@ -1,0 +1,37 @@
+MARKET CONDITIONS: (Wednesday | October 07, 2026 | 11:01 AM)
+Index: Up Nt Dn Odds Årn RSI Gravity
+SPY : 24% 71% 0% ntrl 46 .59 ( Fäll )
+QQQ : 29% 53% 12% ntrl 61 .67 ( Fäll )
+DIA : 18% 65% 12% ntrl -63 .38 ( Fäll )
+BTC* : 25% 54% 17% ntrl -1 .60 ( Fäll )
+ETH* : 29% 46% 21% up-ntrl 42 .68 ( Fäll )
+SVIX : 41% 18% 35% up-ntrl 46 .60 ( Fäll )
+Indices Forecast Table:
+[Asset (Prsnt | Opts | tm mWP~mF | cWP~cF) | ENV | Arn | RSI]
+SVIX (29.5b | ——— |0d 1.0x~29.5b|1.0x~28.9b) |3:5ƒivs| 46 |.60
+C_OIL (89.0b | ——— |3d 1.1x~96.9b|1.2x~103b) |1:1ƒivs| -35 |.48
+DIA (511b | ——— |18d 1.0x~512b|1.0x~494b) |1:1ƒivs| -63 |.38
+GLD (377b | ——— |1d 1.0x~383b|1.1x~402b) |-1:-1ƒivs| -8 |.37
+BTC* (83.3Kb | ——— |1d 1.0x~83.6Kb|1.0x~84.5Kb) |4:1ƒivs| -1 |.60
+COIN (179b | ——— |1d 1.0x~182b|1.0x~188b) |4:2ƒivs| -85 |.51
+HOOD (109b | ——— |18d 1.0x~110b|0.9x~103b) |3:1ƒivs| -63 |.50
+REM (17.2b | ——— |5d 1.2x~20.1b|1.2x~20.1b) |1:-2ƒivs| -85 |.12
+TPOR (30.7b | ——— |1d 1.0x~31.3b|1.1x~33.6b) |2:2ƒivs| -14 |.36
+ONLN (55.3b | ——— |1d 1.0x~55.9b|1.0x~56.9b) |1:3ƒivs| -30 |.35
+RETL (7.27b | ——— |2d 1.0x~7.37b|1.0x~7.46b) |2:3ƒivs| 17 |.39
+PBJ (45.6b | ——— |15d 1.0x~46.1b|1.0x~44.2b) |1:3ƒivs| -70 |.31
+HEAL (29.2b | ——— |10d 1.0x~29.2b|1.0x~29.2b) |4:3ƒivs| -4 |.46
+XLE (63.1b | ——— |1d 1.0x~63.5b|1.0x~65.0b) |1:3ƒivs| 8 |.49
+FMAT (56.1b | ——— |18d 1.0x~56.5b|1.0x~53.3b) |1:1ƒivs| -70 |.36
+MADE (35.0b | ——— |2d 1.0x~35.5b|1.0x~35.5b) |3:3ƒivs| 15 |.50
+ARTY (80.2b | ——— |1d 1.0x~81.2b|1.0x~79.0b) |4:5ƒivs| 61 |.64
+QTUM (154b | ——— |1d 1.0x~157b|1.0x~154b) |4:4ƒivs| 61 |.63
+BOTZ (35.6b | ——— |0d 1.0x~35.6b|0.8x~29.5b) |3:4ƒivs| 73 |.56
+NLR (105b | ——— |18d 1.1x~112b|1.0x~102b) |1:2ƒivs| -63 |.33
+DFEN (45.0b | ——— |5d 1.2x~51.9b|1.1x~51.4b) |1:-2ƒivs| -67 |.22
+MSOS (4.47b | ——— |5d 1.1x~5.12b|1.1x~4.96b) |4:-1ƒivs| -83 |.36
+
+
+ChampWinJim's Daily Options RecosWednesday | October 07, 2026 | 11:01 AM
+
+( (+) ) =by Fri Oct 09  ( (+)+) =by Fri Oct 16  ( ( ) ) x =MissedTwoWeeksOut+ ?=no data
