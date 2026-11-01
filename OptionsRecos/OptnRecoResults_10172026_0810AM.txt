@@ -1,0 +1,128 @@
+MARKET CONDITIONS: (Saturday | October 17, 2026 | 08:10 AM)
+Index: Up Nt Dn Odds Årn RSI Gravity
+SPY : 12% 76% 6% ntrl -68 .45 (Crãsh)
+QQQ : 12% 53% 29% ntrl -85 .36 (Crãsh)
+DIA : 18% 71% 6% ntrl 72 .54 ( Fäll )
+BTC* : 12% 62% 21% ntrl -49 .50 ( Fäll )
+ETH* : 8% 67% 21% ntrl -49 .40 ( Fäll )
+SVIX : 35% 24% 35% ntrl -46 .41 ( Fäll )
+Indices Forecast Table:
+[Asset (Prsnt | Opts | tm mWP~mF | cWP~cF) | ENV | Arn | RSI]
+SVIX (26.9b | ——— |5d 1.0x~27.6b|1.0x~27.2b) |5:-4ƒivs| -46 |.41
+C_OIL (99.0b | ——— |0d 1.0x~99.0b|0.9x~90.8b) |5:7ƒivs| 85 |.67
+DIA (519b | ——— |0d 1.0x~519b|0.8x~420b) |5:5ƒivs| 72 |.54
+GLD (382b | ——— |18d 1.0x~391b|1.0x~381b) |3:4ƒivs| -39 |.45
+BTC* (81.6Kb | ——— |1d 1.0x~82.5Kb|1.1x~86.6Kb) |2:2ƒivs| -49 |.50
+COIN (173b | ——— |1d 1.0x~178b|1.1x~191b) |2:1ƒivs| -53 |.45
+HOOD (98.9b | ——— |3d 1.1x~111b|1.2x~118b) |2:-1ƒivs| -40 |.34
+REM (17.3b | ——— |2d 1.0x~17.6b|1.0x~18.0b) |2:2ƒivs| 2 |.24
+TPOR (31.7b | ——— |0d 1.0x~31.7b|1.0x~31.2b) |4:4ƒivs| 50 |.44
+ONLN (57.1b | ——— |0d 1.0x~57.1b|0.9x~50.7b) |5:4ƒivs| 44 |.57
+RETL (8.33b | ——— |0d 1.0x~8.33b|0.9x~7.11b) |6:6ƒivs| 83 |.68
+PBJ (47.7b | ——— |0d 1.0x~47.7b|0.9x~45.0b) |6:6ƒivs| 83 |.67
+HEAL (29.7b | ——— |0d 1.0x~29.7b|0.9x~27.7b) |5:4ƒivs| 57 |.54
+XLE (68.2b | ——— |0d 1.0x~68.2b|0.8x~53.6b) |6:5ƒivs| 85 |.71
+FMAT (57.5b | ——— |1d 1.0x~58.0b|1.0x~57.7b) |3:6ƒivs| 56 |.53
+MADE (33.8b | ——— |15d 1.0x~34.5b|1.0x~33.2b) |2:-1ƒivs| -67 |.35
+ARTY (69.6b | ——— |5d 1.2x~81.7b|1.2x~80.2b) |1:-2ƒivs| -85 |.31
+QTUM (137b | ——— |5d 1.2x~158b|1.1x~156b) |1:-2ƒivs| -85 |.30
+BOTZ (33.0b | ——— |4d 1.1x~35.6b|1.1x~35.9b) |2:-2ƒivs| -82 |.31
+NLR (94.3b | ——— |5d 1.1x~101b|1.0x~99.0b) |1:-1ƒivs| -70 |.29
+DFEN (48.0b | ——— |1d 1.0x~49.1b|1.1x~50.5b) |2:4ƒivs| 56 |.40
+MSOS (3.89b | ——— |5d 1.2x~4.67b|1.2x~4.68b) |1:1ƒivs| -85 |.24
+Big Movers Forecast Table:
+[Asset (Prsnt | Opts | tm mWP~mF | cWP~cF) | ENV | Arn | RSI]
+U (40.4b | ~17opts |5d 1.0x~41.4b|1.0x~40.4b) |4:1ƒivs| -61 |.41
+QBTS (11.8b | ~11opts |5d 1.3x~15.7b|1.3x~15.6b) |1:-1ƒivs| -70 |.20
+RGTI (11.8b | ~10opts |5d 1.3x~15.3b|1.3x~15.1b) |-1:1ƒivs| -70 |.25
+GME (26.8b | ~10opts |0d 1.0x~26.8b|0.9x~23.4b) |6:4ƒivs| 64 |.74
+T (23.4b | ~7opts |1d 1.0x~23.9b|1.1x~25.1b) |1:2ƒivs| 35 |.42
+HIMS (28.1b | ~7opts |3d 1.0x~29.3b|1.1x~29.6b) |5:1ƒivs| -46 |.46
+PFE (29.6b | ~6opts |0d 1.0x~29.6b|0.9x~27.9b) |4:6ƒivs| 79 |.72
+CMG (29.9b | ~5opts |10d 1.0x~31.3b|1.0x~30.6b) |1:-1ƒivs| -69 |.33
+RCAT (4.72b | ~5opts |5d 1.3x~6.18b|1.3x~6.12b) |-1:1ƒivs| -70 |.14
+SBET (7.57b | ~5opts |5d 1.3x~9.70b|1.3x~9.62b) |1:-1ƒivs| -82 |.33
+QUBT (6.36b | ~5opts |5d 1.3x~8.14b|1.3x~8.11b) |1:1ƒivs| -70 |.26
+SERV (3.23b | ~5opts |5d 1.5x~4.92b|1.5x~4.75b) |-1:-1ƒivs| -85 |.20
+KHC (23.7b | ~4opts |18d 1.0x~23.7b|0.9x~22.5b) |2:6ƒivs| 82 |.54
+BULL (6.07b | ~4opts |5d 1.2x~7.08b|1.2x~7.19b) |2:2ƒivs| -4 |.33
+EPD (36.8b | ~4opts |1d 1.0x~37.1b|1.0x~37.2b) |2:4ƒivs| -27 |.45
+NOK (9.14b | ~4opts |5d 1.2x~10.7b|1.2x~10.5b) |1:-1ƒivs| -82 |.37
+ONDS (6.04b | ~4opts |5d 1.2x~7.08b|1.2x~7.04b) |1:-1ƒivs| -64 |.25
+JOBY (4.66b | ~4opts |5d 1.2x~5.76b|1.2x~5.75b) |-1:1ƒivs| -68 |.17
+SOUN (4.72b | ~4opts |5d 1.2x~5.73b|1.2x~5.68b) |-1:1ƒivs| -70 |.23
+TMC (2.58b | ~4opts |5d 1.5x~3.76b|1.4x~3.69b) |-1:1ƒivs| -70 |.20
+KGC (24.0b | ~4opts |1d 1.0x~24.4b|1.0x~24.9b) |2:4ƒivs| 30 |.42
+
+
+ChampWinJim's Daily Options Recos
+Saturday | October 17, 2026 | 08:10 AM
+Active Filter: ≥ 70% Win Rates and/or Best Forecasts <$>
+
+( (+) ) =by Fri Oct 23  ( (+)+) =by Fri Oct 30  ( ( ) ) x =MissedTwoWeeksOut+ ?=no data
+
+
+
+(( [2-Double-Locked Calls] ))
+
+(( [HIMS, Auto #3wk | 2 : 1 : 0 | (28.5C, $0.96) | 100.0% Win] <$> ))  +
+(( [HIMS, FPiv #2wk | 3 : 2 : 1 | --- ... (29.0C, $0.75) | 75.0% Win] ))  +
+
+[( (+) ) 2 (100%) by Friday Oct 23 
+ [( (+)+)  2 (100%) by Friday Oct 30 
+  ( ( ) ) x  0 (0%) MissedTWO+]]
+
+
+
+
+(| [6-Single-Locked Calls] |)
+
+(| [AAL, RSI #4wk | 3 : 1 : 0 | (12.0C, $0.36) | 100.0% Win] |)  +
+(| [GME, Auto #3wk | 3 : 2 : 0 | (27.0C, $1.14), (27.5C, $0.94) | 100.0% Win] <$> |)  x, x
+(| [PFE, Abroon #2wk | 3 : 1 : 0 | (30.0C, $0.21) | 100.0% Win] <$> |)  +
+(| [BB, Abroon_inv #2wk | 4 : 1 : 1 | (8.5C, $0.10) ø7.5, ø8.0, ø8.5, \8.5, ø9.0 | 80.0% Win] |)  +
+(| [GME, FPiv_inv #2wk | 7 : 3 : 3 | --- ... (28.0C, $0.81) \24.0, \24.5, \25.0 | 70.0% Win] |)  x
+(| [GME, RSI _inv #2wk | 7 : 2 : 3 | --- ... \24.0, \24.5, \25.0 | 70.0% Win] |)  
+
+[( (+) ) 3 (50%) by Friday Oct 23 
+ [( (+)+)  3 (50%) by Friday Oct 30 
+  ( ( ) ) x  3 (50%) MissedTWO+]]
+
+
+
+
+(( [11-Double-Locked Puts] ))
+
+(( [SPCE, FPiv_inv #3wk | 2 : 1 : 0 | (2.0P, $0.06) ø3.0 | 100.0% Win] ))  x
+(( [QUBT, RSI _inv #3wk | 7 : 1 : 1 | (6.0P, $0.08) ø9.0 | 87.5% Win] ))  x
+(( [SOUN, RSI _inv #3wk | 4 : 1 : 1 | (4.5P, $0.07) ø6.0 | 80.0% Win] <$> ))  +
+(( [RGTI, RSI _inv #3wk | 10 : 3 : 4 | (10.5P, $0.22), (11.0P, $0.17), (11.5P, $0.31) ø13.5, ø14.0 | 71.4% Win] ))  x, x, +
+(( [JOBY, RSI _inv #3wk | 3 : 1 : 2 | (4.5P, $0.09) ø6.0 | 60.0% Win] <$> ))  x
+(( [ACHR, RSI _inv #3wk | 2 : 1 : 2 | (4.0P, $0.10) ø5.0, ø5.5 | 50.0% Win] <$> ))  +
+(( [CMG, FractDim #2wk | 3 : 1 : 1 | (29.5P, $0.38) | 75.0% Win] ))  +
+(( [NOK, RSI _inv #2wk | 3 : 1 : 1 | (9.0P, $0.39) ø10.5 | 75.0% Win] ))  +
+(( [SBET, Auto_inv #2wk | 3 : 1 : 1 | (7.5P, $0.27) ø9.0, ø9.5 | 75.0% Win] ))  +
+(( [CMG, RSI _inv #2wk | 8 : 2 : 3 | --- ... (29.0P, $0.24) ø31.0, ø31.5, ø32.0 | 72.7% Win] ))  +
+(( [RGTI, Abroon_inv #2wk | 5 : 1 : 2 | --- ... ø13.5, ø14.0, ø15.0, ø16.0, \16.5 | 71.4% Win] ))  
+
+[( (+) ) 7 (58%) by Friday Oct 23 
+ [( (+)+)  7 (58%) by Friday Oct 30 
+  ( ( ) ) x  5 (42%) MissedTWO+]]
+
+
+
+
+(| [8-Single-Locked Puts] |)
+
+(| [RCAT, Abroon #5wk | 3 : 1 : 1 | (4.5P, $0.10) | 75.0% Win] |)  +
+(| [AAL, RSI _inv #4wk | 5 : 1 : 2 | (11.5P, $0.25) ø11.5, ø13.5 | 71.4% Win] |)  x
+(| [OPEN, RSI _inv #3wk | 2 : 1 : 0 | (2.0P, $0.07) ø2.0 | 100.0% Win] <$> |)  +
+(| [DKNG, FPiv #3wk | 5 : 1 : 1 | (18.5P, $0.44) | 83.3% Win] |)  x
+(| [SERV, RSI _inv #2wk | 3 : 1 : 0 | (3.0P, $0.07) ø3.5, ø4.5 | 100.0% Win] <$> |)  +
+(| [EPD, FPiv_inv #2wk | 6 : 1 : 2 | (36.5P, $0.26) ø35.5, ø36.0, \36.0, \36.5, ø36.5, ø37.0, \37.0, ø38.0, \38.5, ø38.5, \39.0 | 75.0% Win] |)  x
+(| [BB, FractDim_inv #2wk | 3 : 1 : 1 | (8.0P, $0.24) ø8.0, ø8.5, ø9.0 | 75.0% Win] |)  x
+(| [UPST, Auto_inv #2wk | 5 : 1 : 2 | (23.5P, $0.73) \23.0, ø23.0, \23.5, ø23.5, ø24.0, \25.0, \25.5, ø25.5, \26.0, ø26.0 | 71.4% Win] |)  +
+
+[( (+) ) 4 (50%) by Friday Oct 23 
+ [( (+)+)  4 (50%) by Friday Oct 30 
+  ( ( ) ) x  4 (50%) MissedTWO+]]
