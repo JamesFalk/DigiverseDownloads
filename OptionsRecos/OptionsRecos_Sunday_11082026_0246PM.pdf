@@ -1,0 +1,1892 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document (opensource)
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 5 0 R /F5 7 0 R /F6 23 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/BaseFont /Courier-Bold /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+5 0 obj
+<<
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font
+>>
+endobj
+6 0 obj
+<<
+/Contents 227 0 R /MediaBox [ 0 0 612 792 ] /Parent 226 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Symbol /Name /F5 /Subtype /Type1 /Type /Font
+>>
+endobj
+8 0 obj
+<<
+/Contents 228 0 R /MediaBox [ 0 0 612 792 ] /Parent 226 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://finance.yahoo.com/quote/%5EVIX)
+>> /Border [ 0 0 0 ] /Rect [ 477.33 576 531.77 588 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stocktwits.com/symbol/VIX)
+>> /Border [ 0 0 0 ] /Rect [ 60 564 101.11 576 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.google.com/search?q=VIX+OR+CBOE+OR+%22volatility+index%22+OR+%22market+volatility%22+OR+%22fear+gauge%22+-dear&tbm=nws&tbs=sbd:1)
+>> /Border [ 0 0 0 ] /Rect [ 106.67 564 147.78 576 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/$VIX/opinion)
+>> /Border [ 0 0 0 ] /Rect [ 153.34 564 208.35 576 ] /Subtype /Link /Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/$VIX/technical-chart?plot=BAR&volume=0&data=DO&density=M&pricesOn=1&asPctChange=0&logscale=0&indicators=KELT\(1.5\);BBANDS\(60,2\);BBANDS\(10,2\);PTP\(120\);BOLLW\(10,4\);AROONOSC\(13\);CHKMF\(6\);TRIX\(17\);PVT;NVI\(65\);PVI\(65\);PERF&grid=1&height=210&studyheight=60)
+>> /Border [ 0 0 0 ] /Rect [ 213.91 564 259.45 576 ] /Subtype /Link /Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/$VIX/expected-move)
+>> /Border [ 0 0 0 ] /Rect [ 265.01 564 317.8 576 ] /Subtype /Link /Type /Annot
+>>
+endobj
+15 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/$VIX/options)
+>> /Border [ 0 0 0 ] /Rect [ 323.36 564 379.49 576 ] /Subtype /Link /Type /Annot
+>>
+endobj
+16 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://finance.yahoo.com/quote/%5EVIX)
+>> /Border [ 0 0 0 ] /Rect [ 288.33 524 342.77 536 ] /Subtype /Link /Type /Annot
+>>
+endobj
+17 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stocktwits.com/symbol/VIX)
+>> /Border [ 0 0 0 ] /Rect [ 348.33 524 389.44 536 ] /Subtype /Link /Type /Annot
+>>
+endobj
+18 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.google.com/search?q=VIX+OR+CBOE+OR+%22volatility+index%22+OR+%22market+volatility%22+OR+%22fear+gauge%22+-dear&tbm=nws&tbs=sbd:1)
+>> /Border [ 0 0 0 ] /Rect [ 395 524 436.11 536 ] /Subtype /Link /Type /Annot
+>>
+endobj
+19 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/$VIX/opinion)
+>> /Border [ 0 0 0 ] /Rect [ 441.67 524 496.68 536 ] /Subtype /Link /Type /Annot
+>>
+endobj
+20 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/$VIX/technical-chart?plot=BAR&volume=0&data=DO&density=M&pricesOn=1&asPctChange=0&logscale=0&indicators=KELT\(1.5\);BBANDS\(60,2\);BBANDS\(10,2\);PTP\(120\);BOLLW\(10,4\);AROONOSC\(13\);CHKMF\(6\);TRIX\(17\);PVT;NVI\(65\);PVI\(65\);PERF&grid=1&height=210&studyheight=60)
+>> /Border [ 0 0 0 ] /Rect [ 502.24 524 547.78 536 ] /Subtype /Link /Type /Annot
+>>
+endobj
+21 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/$VIX/expected-move)
+>> /Border [ 0 0 0 ] /Rect [ 60 512 112.79 524 ] /Subtype /Link /Type /Annot
+>>
+endobj
+22 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/$VIX/options)
+>> /Border [ 0 0 0 ] /Rect [ 118.35 512 174.48 524 ] /Subtype /Link /Type /Annot
+>>
+endobj
+23 0 obj
+<<
+/BaseFont /ZapfDingbats /Name /F6 /Subtype /Type1 /Type /Font
+>>
+endobj
+24 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://robinhood.com/crypto/SOL)
+>> /Border [ 0 0 0 ] /Rect [ 261.33 433.5 301.88 445.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+25 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://finance.yahoo.com/quote/SOL-USD)
+>> /Border [ 0 0 0 ] /Rect [ 307.44 433.5 361.88 445.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+26 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stocktwits.com/coins/solana)
+>> /Border [ 0 0 0 ] /Rect [ 367.44 433.5 408.55 445.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+27 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.google.com/search?q=SOL+coin&tbm=nws&tbs=sbd:1)
+>> /Border [ 0 0 0 ] /Rect [ 414.11 433.5 455.22 445.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+28 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/%5ESOLUSD/opinion)
+>> /Border [ 0 0 0 ] /Rect [ 460.78 433.5 515.79 445.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+29 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/crypto/quotes/%5ESOLUSD/cheat-sheet)
+>> /Border [ 0 0 0 ] /Rect [ 60 421.5 103.89 433.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+30 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/%5ESOLUSD/technical-chart?plot=BAR&volume=0&data=DO&density=M&pricesOn=1&asPctChange=0&logscale=0&indicators=KELT\(1.5\);BBANDS\(60,2\);BBANDS\(10,2\);PTP\(120\);BOLLW\(10,4\);AROONOSC\(13\);CHKMF\(6\);TRIX\(17\);PVT;NVI\(65\);PVI\(65\);PERF&grid=1&height=210&studyheight=60)
+>> /Border [ 0 0 0 ] /Rect [ 109.45 421.5 154.99 433.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+31 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://robinhood.com/crypto/BNB)
+>> /Border [ 0 0 0 ] /Rect [ 189.33 381.5 229.88 393.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+32 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://finance.yahoo.com/quote/BNB-USD)
+>> /Border [ 0 0 0 ] /Rect [ 235.44 381.5 289.88 393.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+33 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stocktwits.com/coins/binancecoin)
+>> /Border [ 0 0 0 ] /Rect [ 295.44 381.5 336.55 393.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+34 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.google.com/search?q=BNB+coin&tbm=nws&tbs=sbd:1)
+>> /Border [ 0 0 0 ] /Rect [ 342.11 381.5 383.22 393.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+35 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/%5EBNBUSD/opinion)
+>> /Border [ 0 0 0 ] /Rect [ 388.78 381.5 443.79 393.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+36 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/crypto/quotes/%5EBNBUSD/cheat-sheet)
+>> /Border [ 0 0 0 ] /Rect [ 449.35 381.5 493.24 393.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+37 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/%5EBNBUSD/technical-chart?plot=BAR&volume=0&data=DO&density=M&pricesOn=1&asPctChange=0&logscale=0&indicators=KELT\(1.5\);BBANDS\(60,2\);BBANDS\(10,2\);PTP\(120\);BOLLW\(10,4\);AROONOSC\(13\);CHKMF\(6\);TRIX\(17\);PVT;NVI\(65\);PVI\(65\);PERF&grid=1&height=210&studyheight=60)
+>> /Border [ 0 0 0 ] /Rect [ 498.8 381.5 544.34 393.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+38 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://robinhood.com/stocks/U)
+>> /Border [ 0 0 0 ] /Rect [ 189.33 341.5 229.88 353.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+39 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://finance.yahoo.com/quote/U)
+>> /Border [ 0 0 0 ] /Rect [ 235.44 341.5 289.88 353.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+40 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stocktwits.com/symbol/U)
+>> /Border [ 0 0 0 ] /Rect [ 295.44 341.5 336.55 353.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+41 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.google.com/search?q=U+stock&tbm=nws&tbs=sbd:1)
+>> /Border [ 0 0 0 ] /Rect [ 342.11 341.5 383.22 353.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+42 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/U/opinion)
+>> /Border [ 0 0 0 ] /Rect [ 388.78 341.5 443.79 353.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+43 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/U/technical-chart?plot=BAR&volume=0&data=DO&density=M&pricesOn=1&asPctChange=0&logscale=0&indicators=KELT\(1.5\);BBANDS\(60,2\);BBANDS\(10,2\);PTP\(120\);BOLLW\(10,4\);AROONOSC\(13\);CHKMF\(6\);TRIX\(17\);PVT;NVI\(65\);PVI\(65\);PERF&grid=1&height=210&studyheight=60)
+>> /Border [ 0 0 0 ] /Rect [ 449.35 341.5 494.89 353.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+44 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/U/expected-move)
+>> /Border [ 0 0 0 ] /Rect [ 60 329.5 112.79 341.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+45 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/U/options)
+>> /Border [ 0 0 0 ] /Rect [ 118.35 329.5 174.48 341.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+46 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://robinhood.com/stocks/RUN)
+>> /Border [ 0 0 0 ] /Rect [ 360.33 289.5 400.88 301.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+47 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://finance.yahoo.com/quote/RUN)
+>> /Border [ 0 0 0 ] /Rect [ 406.44 289.5 460.88 301.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+48 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stocktwits.com/symbol/RUN)
+>> /Border [ 0 0 0 ] /Rect [ 466.44 289.5 507.55 301.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+49 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.google.com/search?q=RUN+stock&tbm=nws&tbs=sbd:1)
+>> /Border [ 0 0 0 ] /Rect [ 60 277.5 101.11 289.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+50 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/RUN/opinion)
+>> /Border [ 0 0 0 ] /Rect [ 106.67 277.5 161.68 289.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+51 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/RUN/technical-chart?plot=BAR&volume=0&data=DO&density=M&pricesOn=1&asPctChange=0&logscale=0&indicators=KELT\(1.5\);BBANDS\(60,2\);BBANDS\(10,2\);PTP\(120\);BOLLW\(10,4\);AROONOSC\(13\);CHKMF\(6\);TRIX\(17\);PVT;NVI\(65\);PVI\(65\);PERF&grid=1&height=210&studyheight=60)
+>> /Border [ 0 0 0 ] /Rect [ 167.24 277.5 212.78 289.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+52 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/RUN/expected-move)
+>> /Border [ 0 0 0 ] /Rect [ 218.34 277.5 271.13 289.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+53 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/RUN/options)
+>> /Border [ 0 0 0 ] /Rect [ 276.69 277.5 332.82 289.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+54 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://robinhood.com/stocks/UPST)
+>> /Border [ 0 0 0 ] /Rect [ 387.33 237.5 427.88 249.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+55 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://finance.yahoo.com/quote/UPST)
+>> /Border [ 0 0 0 ] /Rect [ 433.44 237.5 487.88 249.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+56 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stocktwits.com/symbol/UPST)
+>> /Border [ 0 0 0 ] /Rect [ 493.44 237.5 534.55 249.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+57 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.google.com/search?q=UPST+stock&tbm=nws&tbs=sbd:1)
+>> /Border [ 0 0 0 ] /Rect [ 60 225.5 101.11 237.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+58 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/UPST/opinion)
+>> /Border [ 0 0 0 ] /Rect [ 106.67 225.5 161.68 237.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+59 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/UPST/technical-chart?plot=BAR&volume=0&data=DO&density=M&pricesOn=1&asPctChange=0&logscale=0&indicators=KELT\(1.5\);BBANDS\(60,2\);BBANDS\(10,2\);PTP\(120\);BOLLW\(10,4\);AROONOSC\(13\);CHKMF\(6\);TRIX\(17\);PVT;NVI\(65\);PVI\(65\);PERF&grid=1&height=210&studyheight=60)
+>> /Border [ 0 0 0 ] /Rect [ 167.24 225.5 212.78 237.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+60 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/UPST/expected-move)
+>> /Border [ 0 0 0 ] /Rect [ 218.34 225.5 271.13 237.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+61 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/UPST/options)
+>> /Border [ 0 0 0 ] /Rect [ 276.69 225.5 332.82 237.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+62 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://robinhood.com/stocks/GAP)
+>> /Border [ 0 0 0 ] /Rect [ 261.33 185.5 301.88 197.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+63 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://finance.yahoo.com/quote/GAP)
+>> /Border [ 0 0 0 ] /Rect [ 307.44 185.5 361.88 197.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+64 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stocktwits.com/symbol/GAP)
+>> /Border [ 0 0 0 ] /Rect [ 367.44 185.5 408.55 197.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+65 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.google.com/search?q=GAP+stock&tbm=nws&tbs=sbd:1)
+>> /Border [ 0 0 0 ] /Rect [ 414.11 185.5 455.22 197.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+66 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/GAP/opinion)
+>> /Border [ 0 0 0 ] /Rect [ 460.78 185.5 515.79 197.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+67 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/GAP/technical-chart?plot=BAR&volume=0&data=DO&density=M&pricesOn=1&asPctChange=0&logscale=0&indicators=KELT\(1.5\);BBANDS\(60,2\);BBANDS\(10,2\);PTP\(120\);BOLLW\(10,4\);AROONOSC\(13\);CHKMF\(6\);TRIX\(17\);PVT;NVI\(65\);PVI\(65\);PERF&grid=1&height=210&studyheight=60)
+>> /Border [ 0 0 0 ] /Rect [ 60 173.5 105.54 185.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+68 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/GAP/expected-move)
+>> /Border [ 0 0 0 ] /Rect [ 111.1 173.5 163.89 185.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+69 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/GAP/options)
+>> /Border [ 0 0 0 ] /Rect [ 169.45 173.5 225.58 185.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+70 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://robinhood.com/stocks/PFE)
+>> /Border [ 0 0 0 ] /Rect [ 297.33 133.5 336.338 145.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+71 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://finance.yahoo.com/quote/PFE)
+>> /Border [ 0 0 0 ] /Rect [ 343.44 133.5 396.081 145.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+72 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stocktwits.com/symbol/PFE)
+>> /Border [ 0 0 0 ] /Rect [ 403.44 133.5 442.494 145.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+73 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.google.com/search?q=PFE+stock&tbm=nws&tbs=sbd:1)
+>> /Border [ 0 0 0 ] /Rect [ 450.11 133.5 488.907 145.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+74 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/PFE/opinion)
+>> /Border [ 0 0 0 ] /Rect [ 496.78 133.5 549.22 145.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+75 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/PFE/technical-chart?plot=BAR&volume=0&data=DO&density=M&pricesOn=1&asPctChange=0&logscale=0&indicators=KELT\(1.5\);BBANDS\(60,2\);BBANDS\(10,2\);PTP\(120\);BOLLW\(10,4\);AROONOSC\(13\);CHKMF\(6\);TRIX\(17\);PVT;NVI\(65\);PVI\(65\);PERF&grid=1&height=210&studyheight=60)
+>> /Border [ 0 0 0 ] /Rect [ 60 121.5 105.54 133.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+76 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/PFE/expected-move)
+>> /Border [ 0 0 0 ] /Rect [ 111.1 121.5 163.89 133.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+77 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/PFE/options)
+>> /Border [ 0 0 0 ] /Rect [ 169.45 121.5 225.58 133.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+78 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://robinhood.com/stocks/BULL)
+>> /Border [ 0 0 0 ] /Rect [ 261.33 81.5 301.88 93.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+79 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://finance.yahoo.com/quote/BULL)
+>> /Border [ 0 0 0 ] /Rect [ 307.44 81.5 361.88 93.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+80 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stocktwits.com/symbol/BULL)
+>> /Border [ 0 0 0 ] /Rect [ 367.44 81.5 408.55 93.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+81 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.google.com/search?q=BULL+stock&tbm=nws&tbs=sbd:1)
+>> /Border [ 0 0 0 ] /Rect [ 414.11 81.5 455.22 93.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+82 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/BULL/opinion)
+>> /Border [ 0 0 0 ] /Rect [ 460.78 81.5 515.79 93.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+83 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/BULL/technical-chart?plot=BAR&volume=0&data=DO&density=M&pricesOn=1&asPctChange=0&logscale=0&indicators=KELT\(1.5\);BBANDS\(60,2\);BBANDS\(10,2\);PTP\(120\);BOLLW\(10,4\);AROONOSC\(13\);CHKMF\(6\);TRIX\(17\);PVT;NVI\(65\);PVI\(65\);PERF&grid=1&height=210&studyheight=60)
+>> /Border [ 0 0 0 ] /Rect [ 60 69.5 105.54 81.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+84 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/BULL/expected-move)
+>> /Border [ 0 0 0 ] /Rect [ 111.1 69.5 163.89 81.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+85 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/BULL/options)
+>> /Border [ 0 0 0 ] /Rect [ 169.45 69.5 225.58 81.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+86 0 obj
+<<
+/Annots [ 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 
+  19 0 R 20 0 R 21 0 R 22 0 R 24 0 R 25 0 R 26 0 R 27 0 R 28 0 R 29 0 R 
+  30 0 R 31 0 R 32 0 R 33 0 R 34 0 R 35 0 R 36 0 R 37 0 R 38 0 R 39 0 R 
+  40 0 R 41 0 R 42 0 R 43 0 R 44 0 R 45 0 R 46 0 R 47 0 R 48 0 R 49 0 R 
+  50 0 R 51 0 R 52 0 R 53 0 R 54 0 R 55 0 R 56 0 R 57 0 R 58 0 R 59 0 R 
+  60 0 R 61 0 R 62 0 R 63 0 R 64 0 R 65 0 R 66 0 R 67 0 R 68 0 R 69 0 R 
+  70 0 R 71 0 R 72 0 R 73 0 R 74 0 R 75 0 R 76 0 R 77 0 R 78 0 R 79 0 R 
+  80 0 R 81 0 R 82 0 R 83 0 R 84 0 R 85 0 R ] /Contents 229 0 R /MediaBox [ 0 0 612 792 ] /Parent 226 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+87 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://robinhood.com/crypto/ETH)
+>> /Border [ 0 0 0 ] /Rect [ 261.33 703 301.88 715 ] /Subtype /Link /Type /Annot
+>>
+endobj
+88 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://finance.yahoo.com/quote/ETH-USD)
+>> /Border [ 0 0 0 ] /Rect [ 307.44 703 361.88 715 ] /Subtype /Link /Type /Annot
+>>
+endobj
+89 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stocktwits.com/coins/ethereum)
+>> /Border [ 0 0 0 ] /Rect [ 367.44 703 408.55 715 ] /Subtype /Link /Type /Annot
+>>
+endobj
+90 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.google.com/search?q=ETH+coin&tbm=nws&tbs=sbd:1)
+>> /Border [ 0 0 0 ] /Rect [ 414.11 703 455.22 715 ] /Subtype /Link /Type /Annot
+>>
+endobj
+91 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/%5EETHUSD/opinion)
+>> /Border [ 0 0 0 ] /Rect [ 460.78 703 515.79 715 ] /Subtype /Link /Type /Annot
+>>
+endobj
+92 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/crypto/quotes/%5EETHUSD/cheat-sheet)
+>> /Border [ 0 0 0 ] /Rect [ 60 691 103.89 703 ] /Subtype /Link /Type /Annot
+>>
+endobj
+93 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/%5EETHUSD/technical-chart?plot=BAR&volume=0&data=DO&density=M&pricesOn=1&asPctChange=0&logscale=0&indicators=KELT\(1.5\);BBANDS\(60,2\);BBANDS\(10,2\);PTP\(120\);BOLLW\(10,4\);AROONOSC\(13\);CHKMF\(6\);TRIX\(17\);PVT;NVI\(65\);PVI\(65\);PERF&grid=1&height=210&studyheight=60)
+>> /Border [ 0 0 0 ] /Rect [ 109.45 691 154.99 703 ] /Subtype /Link /Type /Annot
+>>
+endobj
+94 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://robinhood.com/crypto/BTC)
+>> /Border [ 0 0 0 ] /Rect [ 207.33 651 247.88 663 ] /Subtype /Link /Type /Annot
+>>
+endobj
+95 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://finance.yahoo.com/quote/BTC-USD)
+>> /Border [ 0 0 0 ] /Rect [ 253.44 651 307.88 663 ] /Subtype /Link /Type /Annot
+>>
+endobj
+96 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stocktwits.com/coins/bitcoin)
+>> /Border [ 0 0 0 ] /Rect [ 313.44 651 354.55 663 ] /Subtype /Link /Type /Annot
+>>
+endobj
+97 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.google.com/search?q=BTC+coin&tbm=nws&tbs=sbd:1)
+>> /Border [ 0 0 0 ] /Rect [ 360.11 651 401.22 663 ] /Subtype /Link /Type /Annot
+>>
+endobj
+98 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/%5EBTCUSD/opinion)
+>> /Border [ 0 0 0 ] /Rect [ 406.78 651 461.79 663 ] /Subtype /Link /Type /Annot
+>>
+endobj
+99 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/crypto/quotes/%5EBTCUSD/cheat-sheet)
+>> /Border [ 0 0 0 ] /Rect [ 467.35 651 511.24 663 ] /Subtype /Link /Type /Annot
+>>
+endobj
+100 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/%5EBTCUSD/technical-chart?plot=BAR&volume=0&data=DO&density=M&pricesOn=1&asPctChange=0&logscale=0&indicators=KELT\(1.5\);BBANDS\(60,2\);BBANDS\(10,2\);PTP\(120\);BOLLW\(10,4\);AROONOSC\(13\);CHKMF\(6\);TRIX\(17\);PVT;NVI\(65\);PVI\(65\);PERF&grid=1&height=210&studyheight=60)
+>> /Border [ 0 0 0 ] /Rect [ 60 639 105.54 651 ] /Subtype /Link /Type /Annot
+>>
+endobj
+101 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://robinhood.com/crypto/SOL)
+>> /Border [ 0 0 0 ] /Rect [ 252.33 599 292.88 611 ] /Subtype /Link /Type /Annot
+>>
+endobj
+102 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://finance.yahoo.com/quote/SOL-USD)
+>> /Border [ 0 0 0 ] /Rect [ 298.44 599 352.88 611 ] /Subtype /Link /Type /Annot
+>>
+endobj
+103 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stocktwits.com/coins/solana)
+>> /Border [ 0 0 0 ] /Rect [ 358.44 599 399.55 611 ] /Subtype /Link /Type /Annot
+>>
+endobj
+104 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.google.com/search?q=SOL+coin&tbm=nws&tbs=sbd:1)
+>> /Border [ 0 0 0 ] /Rect [ 405.11 599 446.22 611 ] /Subtype /Link /Type /Annot
+>>
+endobj
+105 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/%5ESOLUSD/opinion)
+>> /Border [ 0 0 0 ] /Rect [ 451.78 599 506.79 611 ] /Subtype /Link /Type /Annot
+>>
+endobj
+106 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/crypto/quotes/%5ESOLUSD/cheat-sheet)
+>> /Border [ 0 0 0 ] /Rect [ 60 587 103.89 599 ] /Subtype /Link /Type /Annot
+>>
+endobj
+107 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/%5ESOLUSD/technical-chart?plot=BAR&volume=0&data=DO&density=M&pricesOn=1&asPctChange=0&logscale=0&indicators=KELT\(1.5\);BBANDS\(60,2\);BBANDS\(10,2\);PTP\(120\);BOLLW\(10,4\);AROONOSC\(13\);CHKMF\(6\);TRIX\(17\);PVT;NVI\(65\);PVI\(65\);PERF&grid=1&height=210&studyheight=60)
+>> /Border [ 0 0 0 ] /Rect [ 109.45 587 154.99 599 ] /Subtype /Link /Type /Annot
+>>
+endobj
+108 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://robinhood.com/crypto/HYPE)
+>> /Border [ 0 0 0 ] /Rect [ 468.33 547 508.88 559 ] /Subtype /Link /Type /Annot
+>>
+endobj
+109 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://finance.yahoo.com/quote/HYPE32196-USD)
+>> /Border [ 0 0 0 ] /Rect [ 60 535 114.44 547 ] /Subtype /Link /Type /Annot
+>>
+endobj
+110 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stocktwits.com/coins/hyperliquid)
+>> /Border [ 0 0 0 ] /Rect [ 120 535 161.11 547 ] /Subtype /Link /Type /Annot
+>>
+endobj
+111 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.google.com/search?q=HYPE+coin&tbm=nws&tbs=sbd:1)
+>> /Border [ 0 0 0 ] /Rect [ 166.67 535 207.78 547 ] /Subtype /Link /Type /Annot
+>>
+endobj
+112 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/%5EHYPEUSD/opinion)
+>> /Border [ 0 0 0 ] /Rect [ 213.34 535 268.35 547 ] /Subtype /Link /Type /Annot
+>>
+endobj
+113 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/crypto/quotes/%5EHYPEUSD/cheat-sheet)
+>> /Border [ 0 0 0 ] /Rect [ 273.91 535 317.8 547 ] /Subtype /Link /Type /Annot
+>>
+endobj
+114 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/%5EHYPEUSD/technical-chart?plot=BAR&volume=0&data=DO&density=M&pricesOn=1&asPctChange=0&logscale=0&indicators=KELT\(1.5\);BBANDS\(60,2\);BBANDS\(10,2\);PTP\(120\);BOLLW\(10,4\);AROONOSC\(13\);CHKMF\(6\);TRIX\(17\);PVT;NVI\(65\);PVI\(65\);PERF&grid=1&height=210&studyheight=60)
+>> /Border [ 0 0 0 ] /Rect [ 323.36 535 368.9 547 ] /Subtype /Link /Type /Annot
+>>
+endobj
+115 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://robinhood.com/crypto/SOL)
+>> /Border [ 0 0 0 ] /Rect [ 252.33 495 292.88 507 ] /Subtype /Link /Type /Annot
+>>
+endobj
+116 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://finance.yahoo.com/quote/SOL-USD)
+>> /Border [ 0 0 0 ] /Rect [ 298.44 495 352.88 507 ] /Subtype /Link /Type /Annot
+>>
+endobj
+117 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stocktwits.com/coins/solana)
+>> /Border [ 0 0 0 ] /Rect [ 358.44 495 399.55 507 ] /Subtype /Link /Type /Annot
+>>
+endobj
+118 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.google.com/search?q=SOL+coin&tbm=nws&tbs=sbd:1)
+>> /Border [ 0 0 0 ] /Rect [ 405.11 495 446.22 507 ] /Subtype /Link /Type /Annot
+>>
+endobj
+119 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/%5ESOLUSD/opinion)
+>> /Border [ 0 0 0 ] /Rect [ 451.78 495 506.79 507 ] /Subtype /Link /Type /Annot
+>>
+endobj
+120 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/crypto/quotes/%5ESOLUSD/cheat-sheet)
+>> /Border [ 0 0 0 ] /Rect [ 60 483 103.89 495 ] /Subtype /Link /Type /Annot
+>>
+endobj
+121 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/%5ESOLUSD/technical-chart?plot=BAR&volume=0&data=DO&density=M&pricesOn=1&asPctChange=0&logscale=0&indicators=KELT\(1.5\);BBANDS\(60,2\);BBANDS\(10,2\);PTP\(120\);BOLLW\(10,4\);AROONOSC\(13\);CHKMF\(6\);TRIX\(17\);PVT;NVI\(65\);PVI\(65\);PERF&grid=1&height=210&studyheight=60)
+>> /Border [ 0 0 0 ] /Rect [ 109.45 483 154.99 495 ] /Subtype /Link /Type /Annot
+>>
+endobj
+122 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://robinhood.com/crypto/XRP)
+>> /Border [ 0 0 0 ] /Rect [ 351.33 443 391.88 455 ] /Subtype /Link /Type /Annot
+>>
+endobj
+123 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://finance.yahoo.com/quote/XRP-USD)
+>> /Border [ 0 0 0 ] /Rect [ 397.44 443 451.88 455 ] /Subtype /Link /Type /Annot
+>>
+endobj
+124 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stocktwits.com/coins/ripple)
+>> /Border [ 0 0 0 ] /Rect [ 457.44 443 498.55 455 ] /Subtype /Link /Type /Annot
+>>
+endobj
+125 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.google.com/search?q=XRP+coin&tbm=nws&tbs=sbd:1)
+>> /Border [ 0 0 0 ] /Rect [ 504.11 443 545.22 455 ] /Subtype /Link /Type /Annot
+>>
+endobj
+126 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/%5EXRPUSD/opinion)
+>> /Border [ 0 0 0 ] /Rect [ 60 431 115.01 443 ] /Subtype /Link /Type /Annot
+>>
+endobj
+127 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/crypto/quotes/%5EXRPUSD/cheat-sheet)
+>> /Border [ 0 0 0 ] /Rect [ 120.57 431 164.46 443 ] /Subtype /Link /Type /Annot
+>>
+endobj
+128 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/%5EXRPUSD/technical-chart?plot=BAR&volume=0&data=DO&density=M&pricesOn=1&asPctChange=0&logscale=0&indicators=KELT\(1.5\);BBANDS\(60,2\);BBANDS\(10,2\);PTP\(120\);BOLLW\(10,4\);AROONOSC\(13\);CHKMF\(6\);TRIX\(17\);PVT;NVI\(65\);PVI\(65\);PERF&grid=1&height=210&studyheight=60)
+>> /Border [ 0 0 0 ] /Rect [ 170.02 431 215.56 443 ] /Subtype /Link /Type /Annot
+>>
+endobj
+129 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://robinhood.com/crypto/HYPE)
+>> /Border [ 0 0 0 ] /Rect [ 297.33 391 336.4522 403 ] /Subtype /Link /Type /Annot
+>>
+endobj
+130 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://finance.yahoo.com/quote/HYPE32196-USD)
+>> /Border [ 0 0 0 ] /Rect [ 343.44 391 396.1667 403 ] /Subtype /Link /Type /Annot
+>>
+endobj
+131 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stocktwits.com/coins/hyperliquid)
+>> /Border [ 0 0 0 ] /Rect [ 403.44 391 442.5511 403 ] /Subtype /Link /Type /Annot
+>>
+endobj
+132 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.google.com/search?q=HYPE+coin&tbm=nws&tbs=sbd:1)
+>> /Border [ 0 0 0 ] /Rect [ 450.11 391 488.9356 403 ] /Subtype /Link /Type /Annot
+>>
+endobj
+133 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/%5EHYPEUSD/opinion)
+>> /Border [ 0 0 0 ] /Rect [ 496.78 391 549.22 403 ] /Subtype /Link /Type /Annot
+>>
+endobj
+134 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/crypto/quotes/%5EHYPEUSD/cheat-sheet)
+>> /Border [ 0 0 0 ] /Rect [ 60 379 103.89 391 ] /Subtype /Link /Type /Annot
+>>
+endobj
+135 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/%5EHYPEUSD/technical-chart?plot=BAR&volume=0&data=DO&density=M&pricesOn=1&asPctChange=0&logscale=0&indicators=KELT\(1.5\);BBANDS\(60,2\);BBANDS\(10,2\);PTP\(120\);BOLLW\(10,4\);AROONOSC\(13\);CHKMF\(6\);TRIX\(17\);PVT;NVI\(65\);PVI\(65\);PERF&grid=1&height=210&studyheight=60)
+>> /Border [ 0 0 0 ] /Rect [ 109.45 379 154.99 391 ] /Subtype /Link /Type /Annot
+>>
+endobj
+136 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://robinhood.com/crypto/BTC)
+>> /Border [ 0 0 0 ] /Rect [ 261.33 300.5 301.88 312.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+137 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://finance.yahoo.com/quote/BTC-USD)
+>> /Border [ 0 0 0 ] /Rect [ 307.44 300.5 361.88 312.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+138 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stocktwits.com/coins/bitcoin)
+>> /Border [ 0 0 0 ] /Rect [ 367.44 300.5 408.55 312.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+139 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.google.com/search?q=BTC+coin&tbm=nws&tbs=sbd:1)
+>> /Border [ 0 0 0 ] /Rect [ 414.11 300.5 455.22 312.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+140 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/%5EBTCUSD/opinion)
+>> /Border [ 0 0 0 ] /Rect [ 460.78 300.5 515.79 312.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+141 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/crypto/quotes/%5EBTCUSD/cheat-sheet)
+>> /Border [ 0 0 0 ] /Rect [ 60 288.5 103.89 300.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+142 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/%5EBTCUSD/technical-chart?plot=BAR&volume=0&data=DO&density=M&pricesOn=1&asPctChange=0&logscale=0&indicators=KELT\(1.5\);BBANDS\(60,2\);BBANDS\(10,2\);PTP\(120\);BOLLW\(10,4\);AROONOSC\(13\);CHKMF\(6\);TRIX\(17\);PVT;NVI\(65\);PVI\(65\);PERF&grid=1&height=210&studyheight=60)
+>> /Border [ 0 0 0 ] /Rect [ 109.45 288.5 154.99 300.5 ] /Subtype /Link /Type /Annot
+>>
+endobj
+143 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://robinhood.com/crypto/HYPE)
+>> /Border [ 0 0 0 ] /Rect [ 288.33 210 328.88 222 ] /Subtype /Link /Type /Annot
+>>
+endobj
+144 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://finance.yahoo.com/quote/HYPE32196-USD)
+>> /Border [ 0 0 0 ] /Rect [ 334.44 210 388.88 222 ] /Subtype /Link /Type /Annot
+>>
+endobj
+145 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stocktwits.com/coins/hyperliquid)
+>> /Border [ 0 0 0 ] /Rect [ 394.44 210 435.55 222 ] /Subtype /Link /Type /Annot
+>>
+endobj
+146 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.google.com/search?q=HYPE+coin&tbm=nws&tbs=sbd:1)
+>> /Border [ 0 0 0 ] /Rect [ 441.11 210 482.22 222 ] /Subtype /Link /Type /Annot
+>>
+endobj
+147 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/%5EHYPEUSD/opinion)
+>> /Border [ 0 0 0 ] /Rect [ 487.78 210 542.79 222 ] /Subtype /Link /Type /Annot
+>>
+endobj
+148 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/crypto/quotes/%5EHYPEUSD/cheat-sheet)
+>> /Border [ 0 0 0 ] /Rect [ 60 198 103.89 210 ] /Subtype /Link /Type /Annot
+>>
+endobj
+149 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/%5EHYPEUSD/technical-chart?plot=BAR&volume=0&data=DO&density=M&pricesOn=1&asPctChange=0&logscale=0&indicators=KELT\(1.5\);BBANDS\(60,2\);BBANDS\(10,2\);PTP\(120\);BOLLW\(10,4\);AROONOSC\(13\);CHKMF\(6\);TRIX\(17\);PVT;NVI\(65\);PVI\(65\);PERF&grid=1&height=210&studyheight=60)
+>> /Border [ 0 0 0 ] /Rect [ 109.45 198 154.99 210 ] /Subtype /Link /Type /Annot
+>>
+endobj
+150 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://robinhood.com/stocks/EPD)
+>> /Border [ 0 0 0 ] /Rect [ 360.33 158 400.88 170 ] /Subtype /Link /Type /Annot
+>>
+endobj
+151 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://finance.yahoo.com/quote/EPD)
+>> /Border [ 0 0 0 ] /Rect [ 406.44 158 460.88 170 ] /Subtype /Link /Type /Annot
+>>
+endobj
+152 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stocktwits.com/symbol/EPD)
+>> /Border [ 0 0 0 ] /Rect [ 466.44 158 507.55 170 ] /Subtype /Link /Type /Annot
+>>
+endobj
+153 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.google.com/search?q=EPD+stock&tbm=nws&tbs=sbd:1)
+>> /Border [ 0 0 0 ] /Rect [ 60 146 101.11 158 ] /Subtype /Link /Type /Annot
+>>
+endobj
+154 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/EPD/opinion)
+>> /Border [ 0 0 0 ] /Rect [ 106.67 146 161.68 158 ] /Subtype /Link /Type /Annot
+>>
+endobj
+155 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/EPD/technical-chart?plot=BAR&volume=0&data=DO&density=M&pricesOn=1&asPctChange=0&logscale=0&indicators=KELT\(1.5\);BBANDS\(60,2\);BBANDS\(10,2\);PTP\(120\);BOLLW\(10,4\);AROONOSC\(13\);CHKMF\(6\);TRIX\(17\);PVT;NVI\(65\);PVI\(65\);PERF&grid=1&height=210&studyheight=60)
+>> /Border [ 0 0 0 ] /Rect [ 167.24 146 212.78 158 ] /Subtype /Link /Type /Annot
+>>
+endobj
+156 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/EPD/expected-move)
+>> /Border [ 0 0 0 ] /Rect [ 218.34 146 271.13 158 ] /Subtype /Link /Type /Annot
+>>
+endobj
+157 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/EPD/options)
+>> /Border [ 0 0 0 ] /Rect [ 276.69 146 332.82 158 ] /Subtype /Link /Type /Annot
+>>
+endobj
+158 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://robinhood.com/stocks/GME)
+>> /Border [ 0 0 0 ] /Rect [ 360.33 106 400.88 118 ] /Subtype /Link /Type /Annot
+>>
+endobj
+159 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://finance.yahoo.com/quote/GME)
+>> /Border [ 0 0 0 ] /Rect [ 406.44 106 460.88 118 ] /Subtype /Link /Type /Annot
+>>
+endobj
+160 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stocktwits.com/symbol/GME)
+>> /Border [ 0 0 0 ] /Rect [ 466.44 106 507.55 118 ] /Subtype /Link /Type /Annot
+>>
+endobj
+161 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.google.com/search?q=GME+stock&tbm=nws&tbs=sbd:1)
+>> /Border [ 0 0 0 ] /Rect [ 60 94 101.11 106 ] /Subtype /Link /Type /Annot
+>>
+endobj
+162 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/GME/opinion)
+>> /Border [ 0 0 0 ] /Rect [ 106.67 94 161.68 106 ] /Subtype /Link /Type /Annot
+>>
+endobj
+163 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/GME/technical-chart?plot=BAR&volume=0&data=DO&density=M&pricesOn=1&asPctChange=0&logscale=0&indicators=KELT\(1.5\);BBANDS\(60,2\);BBANDS\(10,2\);PTP\(120\);BOLLW\(10,4\);AROONOSC\(13\);CHKMF\(6\);TRIX\(17\);PVT;NVI\(65\);PVI\(65\);PERF&grid=1&height=210&studyheight=60)
+>> /Border [ 0 0 0 ] /Rect [ 167.24 94 212.78 106 ] /Subtype /Link /Type /Annot
+>>
+endobj
+164 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/GME/expected-move)
+>> /Border [ 0 0 0 ] /Rect [ 218.34 94 271.13 106 ] /Subtype /Link /Type /Annot
+>>
+endobj
+165 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/GME/options)
+>> /Border [ 0 0 0 ] /Rect [ 276.69 94 332.82 106 ] /Subtype /Link /Type /Annot
+>>
+endobj
+166 0 obj
+<<
+/Annots [ 87 0 R 88 0 R 89 0 R 90 0 R 91 0 R 92 0 R 93 0 R 94 0 R 95 0 R 96 0 R 
+  97 0 R 98 0 R 99 0 R 100 0 R 101 0 R 102 0 R 103 0 R 104 0 R 105 0 R 106 0 R 
+  107 0 R 108 0 R 109 0 R 110 0 R 111 0 R 112 0 R 113 0 R 114 0 R 115 0 R 116 0 R 
+  117 0 R 118 0 R 119 0 R 120 0 R 121 0 R 122 0 R 123 0 R 124 0 R 125 0 R 126 0 R 
+  127 0 R 128 0 R 129 0 R 130 0 R 131 0 R 132 0 R 133 0 R 134 0 R 135 0 R 136 0 R 
+  137 0 R 138 0 R 139 0 R 140 0 R 141 0 R 142 0 R 143 0 R 144 0 R 145 0 R 146 0 R 
+  147 0 R 148 0 R 149 0 R 150 0 R 151 0 R 152 0 R 153 0 R 154 0 R 155 0 R 156 0 R 
+  157 0 R 158 0 R 159 0 R 160 0 R 161 0 R 162 0 R 163 0 R 164 0 R 165 0 R ] /Contents 230 0 R /MediaBox [ 0 0 612 792 ] /Parent 226 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+167 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://robinhood.com/stocks/RCAT)
+>> /Border [ 0 0 0 ] /Rect [ 324.33 703 364.88 715 ] /Subtype /Link /Type /Annot
+>>
+endobj
+168 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://finance.yahoo.com/quote/RCAT)
+>> /Border [ 0 0 0 ] /Rect [ 370.44 703 424.88 715 ] /Subtype /Link /Type /Annot
+>>
+endobj
+169 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stocktwits.com/symbol/RCAT)
+>> /Border [ 0 0 0 ] /Rect [ 430.44 703 471.55 715 ] /Subtype /Link /Type /Annot
+>>
+endobj
+170 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.google.com/search?q=RCAT+stock&tbm=nws&tbs=sbd:1)
+>> /Border [ 0 0 0 ] /Rect [ 477.11 703 518.22 715 ] /Subtype /Link /Type /Annot
+>>
+endobj
+171 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/RCAT/opinion)
+>> /Border [ 0 0 0 ] /Rect [ 60 691 115.01 703 ] /Subtype /Link /Type /Annot
+>>
+endobj
+172 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/RCAT/technical-chart?plot=BAR&volume=0&data=DO&density=M&pricesOn=1&asPctChange=0&logscale=0&indicators=KELT\(1.5\);BBANDS\(60,2\);BBANDS\(10,2\);PTP\(120\);BOLLW\(10,4\);AROONOSC\(13\);CHKMF\(6\);TRIX\(17\);PVT;NVI\(65\);PVI\(65\);PERF&grid=1&height=210&studyheight=60)
+>> /Border [ 0 0 0 ] /Rect [ 120.57 691 166.11 703 ] /Subtype /Link /Type /Annot
+>>
+endobj
+173 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/RCAT/expected-move)
+>> /Border [ 0 0 0 ] /Rect [ 171.67 691 224.46 703 ] /Subtype /Link /Type /Annot
+>>
+endobj
+174 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/RCAT/options)
+>> /Border [ 0 0 0 ] /Rect [ 230.02 691 286.15 703 ] /Subtype /Link /Type /Annot
+>>
+endobj
+175 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://robinhood.com/stocks/U)
+>> /Border [ 0 0 0 ] /Rect [ 288.33 651 328.88 663 ] /Subtype /Link /Type /Annot
+>>
+endobj
+176 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://finance.yahoo.com/quote/U)
+>> /Border [ 0 0 0 ] /Rect [ 334.44 651 388.88 663 ] /Subtype /Link /Type /Annot
+>>
+endobj
+177 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stocktwits.com/symbol/U)
+>> /Border [ 0 0 0 ] /Rect [ 394.44 651 435.55 663 ] /Subtype /Link /Type /Annot
+>>
+endobj
+178 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.google.com/search?q=U+stock&tbm=nws&tbs=sbd:1)
+>> /Border [ 0 0 0 ] /Rect [ 441.11 651 482.22 663 ] /Subtype /Link /Type /Annot
+>>
+endobj
+179 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/U/opinion)
+>> /Border [ 0 0 0 ] /Rect [ 487.78 651 542.79 663 ] /Subtype /Link /Type /Annot
+>>
+endobj
+180 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/U/technical-chart?plot=BAR&volume=0&data=DO&density=M&pricesOn=1&asPctChange=0&logscale=0&indicators=KELT\(1.5\);BBANDS\(60,2\);BBANDS\(10,2\);PTP\(120\);BOLLW\(10,4\);AROONOSC\(13\);CHKMF\(6\);TRIX\(17\);PVT;NVI\(65\);PVI\(65\);PERF&grid=1&height=210&studyheight=60)
+>> /Border [ 0 0 0 ] /Rect [ 60 639 105.54 651 ] /Subtype /Link /Type /Annot
+>>
+endobj
+181 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/U/expected-move)
+>> /Border [ 0 0 0 ] /Rect [ 111.1 639 163.89 651 ] /Subtype /Link /Type /Annot
+>>
+endobj
+182 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/U/options)
+>> /Border [ 0 0 0 ] /Rect [ 169.45 639 225.58 651 ] /Subtype /Link /Type /Annot
+>>
+endobj
+183 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://robinhood.com/stocks/DKNG)
+>> /Border [ 0 0 0 ] /Rect [ 360.33 599 400.88 611 ] /Subtype /Link /Type /Annot
+>>
+endobj
+184 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://finance.yahoo.com/quote/DKNG)
+>> /Border [ 0 0 0 ] /Rect [ 406.44 599 460.88 611 ] /Subtype /Link /Type /Annot
+>>
+endobj
+185 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stocktwits.com/symbol/DKNG)
+>> /Border [ 0 0 0 ] /Rect [ 466.44 599 507.55 611 ] /Subtype /Link /Type /Annot
+>>
+endobj
+186 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.google.com/search?q=DKNG+stock&tbm=nws&tbs=sbd:1)
+>> /Border [ 0 0 0 ] /Rect [ 60 587 101.11 599 ] /Subtype /Link /Type /Annot
+>>
+endobj
+187 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/DKNG/opinion)
+>> /Border [ 0 0 0 ] /Rect [ 106.67 587 161.68 599 ] /Subtype /Link /Type /Annot
+>>
+endobj
+188 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/DKNG/technical-chart?plot=BAR&volume=0&data=DO&density=M&pricesOn=1&asPctChange=0&logscale=0&indicators=KELT\(1.5\);BBANDS\(60,2\);BBANDS\(10,2\);PTP\(120\);BOLLW\(10,4\);AROONOSC\(13\);CHKMF\(6\);TRIX\(17\);PVT;NVI\(65\);PVI\(65\);PERF&grid=1&height=210&studyheight=60)
+>> /Border [ 0 0 0 ] /Rect [ 167.24 587 212.78 599 ] /Subtype /Link /Type /Annot
+>>
+endobj
+189 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/DKNG/expected-move)
+>> /Border [ 0 0 0 ] /Rect [ 218.34 587 271.13 599 ] /Subtype /Link /Type /Annot
+>>
+endobj
+190 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/DKNG/options)
+>> /Border [ 0 0 0 ] /Rect [ 276.69 587 332.82 599 ] /Subtype /Link /Type /Annot
+>>
+endobj
+191 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://robinhood.com/stocks/QBTS)
+>> /Border [ 0 0 0 ] /Rect [ 360.33 547 400.88 559 ] /Subtype /Link /Type /Annot
+>>
+endobj
+192 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://finance.yahoo.com/quote/QBTS)
+>> /Border [ 0 0 0 ] /Rect [ 406.44 547 460.88 559 ] /Subtype /Link /Type /Annot
+>>
+endobj
+193 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stocktwits.com/symbol/QBTS)
+>> /Border [ 0 0 0 ] /Rect [ 466.44 547 507.55 559 ] /Subtype /Link /Type /Annot
+>>
+endobj
+194 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.google.com/search?q=QBTS+stock&tbm=nws&tbs=sbd:1)
+>> /Border [ 0 0 0 ] /Rect [ 60 535 101.11 547 ] /Subtype /Link /Type /Annot
+>>
+endobj
+195 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/QBTS/opinion)
+>> /Border [ 0 0 0 ] /Rect [ 106.67 535 161.68 547 ] /Subtype /Link /Type /Annot
+>>
+endobj
+196 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/QBTS/technical-chart?plot=BAR&volume=0&data=DO&density=M&pricesOn=1&asPctChange=0&logscale=0&indicators=KELT\(1.5\);BBANDS\(60,2\);BBANDS\(10,2\);PTP\(120\);BOLLW\(10,4\);AROONOSC\(13\);CHKMF\(6\);TRIX\(17\);PVT;NVI\(65\);PVI\(65\);PERF&grid=1&height=210&studyheight=60)
+>> /Border [ 0 0 0 ] /Rect [ 167.24 535 212.78 547 ] /Subtype /Link /Type /Annot
+>>
+endobj
+197 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/QBTS/expected-move)
+>> /Border [ 0 0 0 ] /Rect [ 218.34 535 271.13 547 ] /Subtype /Link /Type /Annot
+>>
+endobj
+198 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/QBTS/options)
+>> /Border [ 0 0 0 ] /Rect [ 276.69 535 332.82 547 ] /Subtype /Link /Type /Annot
+>>
+endobj
+199 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://robinhood.com/stocks/RGTI)
+>> /Border [ 0 0 0 ] /Rect [ 360.33 495 400.88 507 ] /Subtype /Link /Type /Annot
+>>
+endobj
+200 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://finance.yahoo.com/quote/RGTI)
+>> /Border [ 0 0 0 ] /Rect [ 406.44 495 460.88 507 ] /Subtype /Link /Type /Annot
+>>
+endobj
+201 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stocktwits.com/symbol/RGTI)
+>> /Border [ 0 0 0 ] /Rect [ 466.44 495 507.55 507 ] /Subtype /Link /Type /Annot
+>>
+endobj
+202 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.google.com/search?q=RGTI+stock&tbm=nws&tbs=sbd:1)
+>> /Border [ 0 0 0 ] /Rect [ 60 483 101.11 495 ] /Subtype /Link /Type /Annot
+>>
+endobj
+203 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/RGTI/opinion)
+>> /Border [ 0 0 0 ] /Rect [ 106.67 483 161.68 495 ] /Subtype /Link /Type /Annot
+>>
+endobj
+204 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/RGTI/technical-chart?plot=BAR&volume=0&data=DO&density=M&pricesOn=1&asPctChange=0&logscale=0&indicators=KELT\(1.5\);BBANDS\(60,2\);BBANDS\(10,2\);PTP\(120\);BOLLW\(10,4\);AROONOSC\(13\);CHKMF\(6\);TRIX\(17\);PVT;NVI\(65\);PVI\(65\);PERF&grid=1&height=210&studyheight=60)
+>> /Border [ 0 0 0 ] /Rect [ 167.24 483 212.78 495 ] /Subtype /Link /Type /Annot
+>>
+endobj
+205 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/RGTI/expected-move)
+>> /Border [ 0 0 0 ] /Rect [ 218.34 483 271.13 495 ] /Subtype /Link /Type /Annot
+>>
+endobj
+206 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/RGTI/options)
+>> /Border [ 0 0 0 ] /Rect [ 276.69 483 332.82 495 ] /Subtype /Link /Type /Annot
+>>
+endobj
+207 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://robinhood.com/stocks/KGC)
+>> /Border [ 0 0 0 ] /Rect [ 324.33 443 364.88 455 ] /Subtype /Link /Type /Annot
+>>
+endobj
+208 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://finance.yahoo.com/quote/KGC)
+>> /Border [ 0 0 0 ] /Rect [ 370.44 443 424.88 455 ] /Subtype /Link /Type /Annot
+>>
+endobj
+209 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stocktwits.com/symbol/KGC)
+>> /Border [ 0 0 0 ] /Rect [ 430.44 443 471.55 455 ] /Subtype /Link /Type /Annot
+>>
+endobj
+210 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.google.com/search?q=KGC+stock&tbm=nws&tbs=sbd:1)
+>> /Border [ 0 0 0 ] /Rect [ 477.11 443 518.22 455 ] /Subtype /Link /Type /Annot
+>>
+endobj
+211 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/KGC/opinion)
+>> /Border [ 0 0 0 ] /Rect [ 60 431 115.01 443 ] /Subtype /Link /Type /Annot
+>>
+endobj
+212 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/KGC/technical-chart?plot=BAR&volume=0&data=DO&density=M&pricesOn=1&asPctChange=0&logscale=0&indicators=KELT\(1.5\);BBANDS\(60,2\);BBANDS\(10,2\);PTP\(120\);BOLLW\(10,4\);AROONOSC\(13\);CHKMF\(6\);TRIX\(17\);PVT;NVI\(65\);PVI\(65\);PERF&grid=1&height=210&studyheight=60)
+>> /Border [ 0 0 0 ] /Rect [ 120.57 431 166.11 443 ] /Subtype /Link /Type /Annot
+>>
+endobj
+213 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/KGC/expected-move)
+>> /Border [ 0 0 0 ] /Rect [ 171.67 431 224.46 443 ] /Subtype /Link /Type /Annot
+>>
+endobj
+214 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/KGC/options)
+>> /Border [ 0 0 0 ] /Rect [ 230.02 431 286.15 443 ] /Subtype /Link /Type /Annot
+>>
+endobj
+215 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://robinhood.com/crypto/BNB)
+>> /Border [ 0 0 0 ] /Rect [ 261.33 391 301.88 403 ] /Subtype /Link /Type /Annot
+>>
+endobj
+216 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://finance.yahoo.com/quote/BNB-USD)
+>> /Border [ 0 0 0 ] /Rect [ 307.44 391 361.88 403 ] /Subtype /Link /Type /Annot
+>>
+endobj
+217 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://stocktwits.com/coins/binancecoin)
+>> /Border [ 0 0 0 ] /Rect [ 367.44 391 408.55 403 ] /Subtype /Link /Type /Annot
+>>
+endobj
+218 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.google.com/search?q=BNB+coin&tbm=nws&tbs=sbd:1)
+>> /Border [ 0 0 0 ] /Rect [ 414.11 391 455.22 403 ] /Subtype /Link /Type /Annot
+>>
+endobj
+219 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/%5EBNBUSD/opinion)
+>> /Border [ 0 0 0 ] /Rect [ 460.78 391 515.79 403 ] /Subtype /Link /Type /Annot
+>>
+endobj
+220 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/crypto/quotes/%5EBNBUSD/cheat-sheet)
+>> /Border [ 0 0 0 ] /Rect [ 60 379 103.89 391 ] /Subtype /Link /Type /Annot
+>>
+endobj
+221 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.barchart.com/stocks/quotes/%5EBNBUSD/technical-chart?plot=BAR&volume=0&data=DO&density=M&pricesOn=1&asPctChange=0&logscale=0&indicators=KELT\(1.5\);BBANDS\(60,2\);BBANDS\(10,2\);PTP\(120\);BOLLW\(10,4\);AROONOSC\(13\);CHKMF\(6\);TRIX\(17\);PVT;NVI\(65\);PVI\(65\);PERF&grid=1&height=210&studyheight=60)
+>> /Border [ 0 0 0 ] /Rect [ 109.45 379 154.99 391 ] /Subtype /Link /Type /Annot
+>>
+endobj
+222 0 obj
+<<
+/Annots [ 167 0 R 168 0 R 169 0 R 170 0 R 171 0 R 172 0 R 173 0 R 174 0 R 175 0 R 176 0 R 
+  177 0 R 178 0 R 179 0 R 180 0 R 181 0 R 182 0 R 183 0 R 184 0 R 185 0 R 186 0 R 
+  187 0 R 188 0 R 189 0 R 190 0 R 191 0 R 192 0 R 193 0 R 194 0 R 195 0 R 196 0 R 
+  197 0 R 198 0 R 199 0 R 200 0 R 201 0 R 202 0 R 203 0 R 204 0 R 205 0 R 206 0 R 
+  207 0 R 208 0 R 209 0 R 210 0 R 211 0 R 212 0 R 213 0 R 214 0 R 215 0 R 216 0 R 
+  217 0 R 218 0 R 219 0 R 220 0 R 221 0 R ] /Contents 231 0 R /MediaBox [ 0 0 612 792 ] /Parent 226 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+223 0 obj
+<<
+/Contents 232 0 R /MediaBox [ 0 0 612 792 ] /Parent 226 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+224 0 obj
+<<
+/PageMode /UseNone /Pages 226 0 R /Type /Catalog
+>>
+endobj
+225 0 obj
+<<
+/Author (\(anonymous\)) /CreationDate (D:20261108144637-07'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261108144637-07'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+>>
+endobj
+226 0 obj
+<<
+/Count 6 /Kids [ 6 0 R 8 0 R 86 0 R 166 0 R 222 0 R 223 0 R ] /Type /Pages
+>>
+endobj
+227 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2254
+>>
+stream
+Gb!<Q>>H2.'Z],,'_?oE:moUWB)Q=X""q;rDc2b0Wk^So,#"s&:a0%ip7AgrD=AI?D'TT&m$$8umd/84s5u/T$%lS+?:PYq%Wh44&LUhFr$10X.[%83,N&<4LSl@+,F09.(q*;eG\/q/6<L)C>oI=G,1Ac#i'_s<DE-ARc7@h3iOm1&Fg#*<T/L^flZVR<]\2Z\.V-%Jpj."(nVo(jkKD\+E]K^(k'eM+#m8qLW$k#ZmGXNn,l^R/I6Y(ppjG7e-IVAdM>s0-kCCSRal5d8(f9hdC4'A3Df83[:?jd6HZ_1j6cnumL@b^FE]h%Fq_\>]p"ER]j(u@d^bB_A"$b@Ds2H-(M.R*t0$/3/547mDnA.)qJ=VDAL^iQ%d!4:;:[kd\0&2Ho2mU)e616t9&@5#ghBbMUP+2:>RN,uFhie2mjCfs,]"TMf3.HLocTBWKs$NBlpQ'm.-@Zj+2$nI2`\eWeD(KO5O1):C+`Z\?c^g?jZjI8gZa2IG.2,DT*eB%N^qLSW-J^[>n>&Yn\l4pZN6j+>b:gcAhQ-c_mWOGQlcpur=d8uq-UVUth0=epX`A*&oe<T:"&K"nWWW=H,1(tCS&eR?fA`u3UOh.?:C=$5]MuID$WRlQ;B'lWJSUPUP5bJJ!UF%_*;D"t)jJ,gm+:!EPn8be[m-,4%,chJ,n)eiM(-l:XZ@+[,&r2sjjRm*,=c+<j3bh^:@a=dlZ)$sS4HlYhf>IKWjCB'%buE[g!(LWYjUn+#&j)>RJbccQlLZ?!b6=/HimuUo+#*-O>&86b4PRP\WSj+NCh*eg'=C>FM6Y)?rUILd"h,('RsYeY6_&sr]sZ/0,N"me6Vo4k*6$/'MNteRk95Y0#12$\tqp")91lIqkMn^!WJ#YeT1TIrdclcl#UdB"J;mMCH.P.L6oTl;]>FQCUg:QfVHaoDKc&Q\b3JGQ#MZ(!Is+p9&Se_n<=F'XZGs;[R=B19>%+G&oVKijPDD$JK"[E(,'NbZE=IYn8Q]gC/-_@bCn_5b"e//37+,CjR,gW?/ek-PrU\;[+9);!'6JC))4(o!tU\K&TcuPitZXsFMW["#b9$sKHJ5SNZn<^R@eT5?=FnL=c(.Ckh`cX'e+^mXG"1U+sRM&l;jQtnp[A$IGE8V(n,Omls1=&9WB;&^gdX=m,ant=@-]Xlh5`8'p+&d!,"_/'er)M-G0Q@H4>*k>4@8DV$n:%h+l/:\9;F9?4[Wo(SEfsC4Pc0X,:'n<t9arN>K*hBRogr\Z^T)F_3`)YVuW-Pk3tqX$k>`jM1pd"2&jQ$h.2_QLJ536*T)i9i3fo\6RJs(^pE-G_%Y5Flu>kl9/CX1?(q=pNn-(Ob*<BGSG/9`+=\$niUhJ!4_!!^i`6WNMBXVIZ1,3k\I:4\'h27Ll"3RLA4WXRX\u&N2E:`6cHT&mc"FH\_4.:)_j-"!Nlc,OcY&G<bBQS2YpQSiC0n,)W]Ftr]\I3gKrlD[ZZo7l9\P&O;jf3M@;.YKr<cibMS&+;f%qrn9o:jM[m9S>C#7G@S)]UiI0A'5Bp2eAb@BWeXJ<+QUUT=(jTqs+Em;:>-=2^hJ)cmh`6LJjXq%]1JWjBM2]j!ak'E*m?#LN_c(O*NuGaL=.5FsC5Z%;m#;1H&kU(boi.1EeLJ5BMTG9dSF&Udi/(B0io<\kIW$JaBbkb)ZeeXN'rOBu.>AGn7*4EnTo50*Ik?,J9u#N0^\jS/%mh^eCEJ43F]ODD]tg^8YOa[Ho4*joX3me3g9g?8;(4tKiW,K))jLOeS)Kr#&DWp$?E5F4.XRJk@OpHp/g66;[1I,9mKJGK)u]2R/BIKBikAS.<#*?RUgiumk(*82TR06HDfh"&E'kq@49M*72+_l)Q<H6#<j5--CJ;7G(l0:.K;NT1qM^1;b3^SX#<OI+nAlPe.`[Oc^q88`&%i'W-+oSN^JGmc]XdV,7^4-mgr0WP*!>YIV]I*'C2?rQ>c%.LbimKkPun(E#auBER_ko=5lA:F%N_cG4hOT*DLG&]XP)?Yj'C]\"eN0f@I;!3(TO:O[o@@6'cQL^Yq0rj;G<IX_)q\?H-oPZ[8=*YD>/Y&B4X_t$V:lp_\7I>&N:Kt6pX>UU*mk-?la>nqm"sYZ=7[M0Wa2<\mPto6ee<53DU-crKrZcYt`KR:Vq7UntU'FnjAFAbUn^0Zesur)uZ.dl]OH(.AgmZji)TV[<b276KH'hh]!9[k'?qL`(WnKI(MWqXNqk2CZ2r)'Xgj%Pah%;","UoYl~>endstream
+endobj
+228 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2124
+>>
+stream
+Gb!<R9lJcU&;KZQ'miUUGdBL/`Uus6A_E>#b7^AQW-_'7-V+drX^rb<#la4^rLt^&8eI_HVf<soUdWYWNo#%oFtK,t*uU[eGDmQnm,a(7&m5*m8^0,nce5PZqg2-$G8e_ro_@RYO$i\ls*jEX32i2VRdK/$r@NBj@Saqgi6cRK&Pie*P:Ct@1PVOo$/)o!q@6;oR?[4E17[:Ui-=aCh)pm]qo)dJ@Q+:i4P7gTaX!51+$jkVGe7^-h`PO%306'Ae;(6N(#-3\XZ6+=XT$<+(ZEZBn0d#80DP=Pa.3S;f_4WI[)^"eDrm>#Mn_GnHt)]W:ZPej@uja,,ote9gf8Fc2/cnpn3.q"#2gP*r;a>A>SZ2,XUB)]JE%*@\>mX@[U(7@gq$*.Ug@a_N+^oRl)jjoq6rTYYP\X/L,%V[lI)#M^-L[M'_Y^RaR<2$?;%lj.mY?,J"9:YBJ.O?iZ*dhe/WRB]t^["MD/o5.)u'kI2(m,_sM\mTKC?i3:j=mca^%A8eBSlHmJ^Fg+X@P"J,nq0L<1\P!.$3Nd8Z&"Qk8"(M6/e<JiDL/]f,":WSOVHFM$6c"/5>'Xs47lqnWp(HGG/1jsh!Fr51nVhN4Wjb_Z<a'IQ8otg(KJ1Q>jL&/?$V309_R%O7\)#!pQEHb:9"Pn'aL;LGB?]Ljr6G9CF>\d!dN*S9o#'R9CWs3[.$_Wm6L\5?u!T3s+$,)8tTSea##iL&8b38-jPgN2oUGAE0WKW^oHU8dH37s*U$2O5MPg=ISh"ji#&E`B2Q*Ed7.AoC)Pb7q59gW@#gQBg7[%OiAQ-m80L:Hi^9/L,n)<BD5ZXd7Qm0Ri>OE2R#EZ>u6Om@0f**#Eh]#]jRKDbX`161'4GTZP:N+=WM=]klo4iO\T`2-^!1=33OF_'oe)F'rQIdl8fE$&WHAm*Mc0lDd_Al^Sf0lq7$("krpR1'L-#cA-G.P&m*FSJ/]#>FF(c_c`>L\L/pbLbMG,s1pCJ%Ks3HslW:\"@OKH?_7_f=oalYg2AM=50)+EiLt?dr>7L=>"M6E58@FbKg\Y@[DR-/Fhi\NnqC?52Mjgp&[/g-XiCpE:O@.#PXk\Gr@naA*6!`<,+pt'muS;f%;!i<;&u_rCS?T!uQp`4!)7TQbN@2M++<r'HQ"]<OXa='/Db_(a3Ie;g7.3@$>UnJ<VQ@bEr8SATM81Pf"<o)S2.BM,s*CCj$RJ6cL\U(1pZY2E@/l2J-Ud@TFb$]VfBYo2$''/eW>mYa=c1TP5p?G+P2Os(IfYj(S=#%<S&Na5]b<'!1hj@`ti!Aj&Y!el/B+[A<3@U^:puE0s9i5tttO3cHu^-I-X19]CVf):922NgSHQ4m2#E,0H*_jW5G5#OV#[!^W'?PiI<aZ=T'Y[22l;_R;k7E1gHuBUmAN-ZQFV'ci@c-KM[$KsJ[^P!dp*6TGF,UME)Y,M=Q[T$Dt?J4)oZU>D\7#bdfB>3FQ]9T(KrL6rb@c3bu[.<6MkNWOC>jO_Ch$?sHhktFIQ,P"+%?!r1X=AcFOj$g*\lZqb;`@gDMgU&/&2A%!W86t6lP9f*YQuFW,YV.BE!OgrZ7G,$P)hN)L+(3,`n2[T)'4..$FM7fB;,(Yt3Y[hr^f;>#ZUP=IBh79]b1QBqLsrJCPb?JE*DVY_rU+\LfoGPu^:R@tUeR8(s(ZnlKs'MAYN_^_;\>G!M<WNO:k[TdIZunGD[CXSq[m.H$PeL:o(=^3mOGD'/=;@aNr)ap@tUeZib%Si.nR>p"h#V=*@I36\1kju3`9l#FG2`OX=ltqkZR4@4?8!JA>E^_)Z@)+)lT6`>pn*fS@7[\Zjn9skSBAT8J[Mb_)0]*VA%jdOF_OK"$KSiZ0=cgX9%g$!do)E%'3+b:U^^&)5h/:#VX@bTG?F?o(6``/M4pI5<On(dciZ3eYGfECj*cJh^R93HlKXD)fLpl*LU7U`BT(GWZr]rJsWOJc6I4YmTZSm"Vm/A*JsD6CWPb^0K$C`YB]rAY%d%=bX"b2kq90%cB7XJZ_Kf,=,)VcCC$uK>qprp;oC:58@Rb3Xeqa:dm8C#UdX<B^#[7HG"f<u,.>\*!lAddMbh@dXC79h@J)5/lE7NgGamgCg-`TBE"TPQ%k3P!q>~>endstream
+endobj
+229 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1341
+>>
+stream
+Gb!l^D/\-!&BE]".HX'o,:DjEY4p&cW=fb5W)B;@1d.+16jVE)%RUb?U.YFS*C""c9?MsaW\.=+N4nQWrdWtuQib*`L7]\$T]X*_P6,=RrX"gY*8F2#\>=[J1d4hN:j@6G@EbO#g6.'0R,S2AQ6](D=F;[Y7*,^e&MQ&O*_st1l!S67iP`m'3#-nUKl[-qU%ded14(nKITaP@E&.@nSPQ<.I("^bGVibKKDRU;^OhRcL!&91Q;]/J&ugd5GqGs_77qN]G.:'Y-n.6MB=Gc3i'Vj?2th./$R!$417?&t@Ad?spN7[Rn?RoVQedVCfW(GG&kIg2]QW%/OdX&E`CD=X8#sbf(n-ZQC:lN[nCf6aOg'[Q&"'``,;alQ'KH6e'7.RHGR;:@mE'_V[IJ8@c1tg2)D5)apamIiIdqIAb.(HY12?3?"9beO")qWj;aq-#2gF)'QcaorENnhp6puSO+mf?;)9oa0!>V<_bbCE/^uRgt`k`pXi4%)/6.q%fJ"WSE1`+'Wl>5Hc:M+f)TLt(<IkW$^3!G':"MYJi9UMV[8bA;`o//ZL**8k%U0@YpI4[.+Vc,q+Ls1Y(rb2$=HorXNM)LJmBB$(jR,E.L-%XuNkPJrJmmaY6Y.!YUkiZ-*A%5Slf87DmbiNo@h720peZM!i<kHmrDhO,H7CD=@K8k(\j)sO%,9Ol2>TE3;7mB6)Jg[MnIS9bg-4gj2L#_`\+SHSIlK?\[6Ur@=/#Hen#+28*T\oj.e/Tob-+B!V#!qUu@0*1P%tFX]/E5Dc^c``b<AJ.TVdOT'4"njqOWJI'W4PuI[V%ujl&:ZP#U`?70+c;aNGKHs_s)8Ka`]8%94es)$dN9,q7?u'<$8DQ";tm9W,@8[i,gT2^2m=O/m+L&*0ZM^j[.]KJXcLZ_:V;trR7u`>]`#>q6W,'C8S#sL3(aU\2uHhB*qhRfR<W9k(f@(i-h_5MnSRSmP]HZ3StPXD9)@hfApWDJ1:L,[`@@IRVqZo;I4FFd.X^=p9F2F/EZP,`c<T<S;*=;C'o(<0\3CZ^Wq2raKk]%`]mTTAt&+@6o.J<77_eOdd+A`9VU\nbM<@:;]V:=+=:0X)FT!b++^?B_d/0"S>]>>5JD,G(>0(\*Oq7u`GNIi<;iu[I^?f5'4WR9Q5Y>8[(mW<pdte0k]RX2IjILJhN&5G<+h]D*2<$S[dH;V'nYDTneQk7ar:Bo1'*QLi@4bY_>KXtqGVsuYLe)nlgH_NCG;KU`F<ulL6DtYRKosD,0qAY'+3NA6mV.IH7+&7AgCX)'7j)/2%1"7X7\,!\),^,[8%tX-d!$kb^r2eeq)]0IaVF-8m_TNR!Jf~>endstream
+endobj
+230 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1187
+>>
+stream
+Gb!l^CJPm>'SaC"=.Bde1+bSUq^&6lJQZJA@(Z-@,f1,pRRV0KW!5jXm#TKGRD!jS0%e<8<3X5tB4cp?hWI$XZOA6gb^WsC!VR.Nfk%rY,_#lZ6pbo"ERO]q`U].[Jp&%;@iLG?jTM)>1A=QciZ&#eb2sgu)(c:/.1K8e#Z]AW=F>Ym8Y#FIh^84^cs</Ih!WMNVmEFR@*4F*pE(O^#Hr+/=#bC2dl&RY^-;#PCd[b0,X4OuX44)Mkr/5j8dX=*j4VsEnGP#P*#j;+N&%:K#%G**(]];!/IrHgZ0cP\)\2V[h`Kfmp=lP#+7'IuEP6W1--,sp;K"[R#4Z].D=;R+l4<a/6/Gj9h2*Jl3)1BeUJ>`OS2\/4`hMn9i`4T:apk`@9PKi-0:5!/1beEumj4N0r6]=`FF815Fe]8f<!Ou^[EDO8<W=MdrZ^-HI\IPIjuS,MTCjW]a#BZaWNd'b#fi?&$K:DOT*u54L#'Aql\>A+a[o$!_P,Vdm!iSE_h.n?HRAGfP&;JVe_I5A^@udb@sL&i-j&h5\#;?kC;?oIStbd;=f2Xu+DIiV/4X'X0Zk6H95/4d7p<Mg+3BLA/E;A`P<_<:..1+ML*n3<1;a'g&4I0B6F,<Q%78L==p,[s'D!bi6])>]jbL3m1EH_ea-6MNHDG:E_$IB`pUSdR*a'j$73Q3A`08rNWtkZ('S3J-m*Pue!m!-Q`ZeF@#]#[M.tQ8$_,s$^fHNqt<D$srm\*pji_L'),BZ;#pg;03)kmBK]\d5N0.ip)+5@tWp[LQ8b!.lkM&SU39:2fJ;,f=eK(0gi^?%"3e1Ddu#C)en5@<a7"^V#^^8l3(2oF&0e,)A&HbFZREHZDMK<V%jG'S?85JlV:qnE$%!8N9I)suF;,)pa3ar-f6("uZ#WM3[H_Y"RR\R\d^GlDWV.\^7AO/cBj4LOn_k05Qe,rateRZ^>8/M)2E+-o=P<JGlT:Z5?"O,=C:\'fBCF56%>8M9S/Zm]9r8qQ7mYd3nm[7!.clS4WCII[8?4->mh71_;#1<Y'&(S&F=XR=CNf@O*K\!Yn8,d*OLomT2HhlALe3jiE)k!hL[I%G69OREIPN,aJ+FH&T6(r$qW8&O4'rsU8GnG12j)ShltJ="G)aaeYS1iNi8;E-ZrMV#_a<Img--!W8a2T*KU`K`V7>1!*Sh3_=,~>endstream
+endobj
+231 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1502
+>>
+stream
+Gb"/fD/\-!&BE\k;p:/#,q&&(f2!5h:C8?mW!T06D&S*X19cj'Ya;Le3$^]cc*"m:,XmQShXs<k'OZ)H1]RF@$l]6`^52dCNr`u=*&Ip4$K2PP@lb0m_/[!ZD3(b\4U\p<6YEd"2^nf)!b&1&4Mr!o&6Hh)C#BP#!Rl%9b727o>UQa(a:XZJV'Xo%edoYR1h>+^Nd(t<iqr.k$qm6i`OJp,]S(1E0s,U:hH2*Nja@F7L@>^%H,7q4]S5"I]DLe\/BbEW_A,k\_@eHSn";sd6'jnh&pOOQgS\-VQrm1]P*^3aI7opHl,CV=rjeO`?b/-6c.6=(I_9Oc(u\INltdV:N7ROLg/aG@]=hl:>Kr)W[WB]lT,q<ngW&8,D<(QRo7LQj+N3G)\,"XZld/2b,JLVN36pj;q1NG8r*ElQ1_tRpKkN"iaghtHdPBlG$Jhsgd9J08l)q8gR1"8'^]!gU?s;$(!9lSYT7b5pkjpO^q%ddSZ@[tjOX3=TqTq:F3Sj8eI\VUeXVN)qe'36\o<s"e=$>V-lCg_PQN&83U;H*?qRJ3>3n=[@&[`KPZ-jZcYnhN*E&c%Z"'FtL/8G^<V]2kQV=-Q1nG_UrqLrTCQ--/T\i^:gcY4t/cuP_N7=N_^0eN8+QO0,of*`9E`=6PCe-]G&:?kX3-+7Mb]"UkJp'**ml/U)hlik-W'*TDgnq,''%QZPV<mCEh3PrniP<pN`2pna#7F&p]/EjK#a>f($,:^J']qK=c:61IR*LM$=]Vk3'&$>P?[[E-s<$kb_UK#u:Z.l&gUNlB&YF1Xof?IMtL%@iq=U'#2%!]c\P!YBAi,eJt%(KhrAV(LeR#EAU"UnMQABY^Q6?^C7ghSu>rVd3eD?3*J^Pg\o(p#mDTHQ!kP\-o*9/$g,f9/V(:n'%]14fds@%Aa!WK>e09Xk'W<2Jl;fDriH=5F`bV?R:n5mG"nNZt(1<:W5qj_-3@c$>JNd!1.FR`-i"+N5]a2HoIuk?5!bc`TTj"M@%-JGNQia&qW;8D!t^'/>8a2B$"<MIn#MXV`CZ5=VaL?/=[]&n,14'PH4,:l%bjRM*#m:Hr^]QJdM#gq3Gs`O$4J1#Jt""TF=$j6sgFF>q,/.b<"h,Tef^i#5B/g18m6C-K980c8uL1Y"\9T86GI9XHP*H\CZ_&Yf_,;g#s(MaFsp,.L5>h^>#OL?'bk$p>ahKm5Yto.lOSf"j,u+#E^FKo+Ma'Y90gRLlr3=GtJ'47$7ac=#T*Z7R0]jW+"t'rsU`JtlH22Y*rbmdXhQJ]H4Ga0`NKhK0Y`-5H.&l%C[c54gfYQad^mL"*AXF[f$%HGAu,*W\"8"+S@cW<m4KTd,DpEkirt;Jk/)'-W:@>XAr3'X[+BddF.F-hf?.c1a91'*;W,0YYe"L>kjPpCY]$!?XWP5VJf%H=I7A+?$HRVHb`]I`IT\g=Y'FUB\r;F>`6#,4(V/P8?ftSlF@mYJW2.=YUitbHb)GFn[!=LV80<5djp%~>endstream
+endobj
+232 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 79
+>>
+stream
+GapQh0E=F,0U\H3T\pNYT^QKk?tc>IP,;W#U1^23ihPEM_H"Zg#ZYSNTO;YR#ZT"_aJHZU!1=B,Er~>endstream
+endobj
+xref
+0 233
+0000000000 65535 f 
+0000000061 00000 n 
+0000000143 00000 n 
+0000000250 00000 n 
+0000000362 00000 n 
+0000000472 00000 n 
+0000000577 00000 n 
+0000000774 00000 n 
+0000000851 00000 n 
+0000001048 00000 n 
+0000001224 00000 n 
+0000001392 00000 n 
+0000001671 00000 n 
+0000001861 00000 n 
+0000002308 00000 n 
+0000002503 00000 n 
+0000002693 00000 n 
+0000002870 00000 n 
+0000003042 00000 n 
+0000003318 00000 n 
+0000003508 00000 n 
+0000003955 00000 n 
+0000004147 00000 n 
+0000004337 00000 n 
+0000004421 00000 n 
+0000004596 00000 n 
+0000004778 00000 n 
+0000004956 00000 n 
+0000005157 00000 n 
+0000005356 00000 n 
+0000005555 00000 n 
+0000006011 00000 n 
+0000006186 00000 n 
+0000006368 00000 n 
+0000006551 00000 n 
+0000006752 00000 n 
+0000006951 00000 n 
+0000007154 00000 n 
+0000007609 00000 n 
+0000007782 00000 n 
+0000007958 00000 n 
+0000008132 00000 n 
+0000008332 00000 n 
+0000008523 00000 n 
+0000008971 00000 n 
+0000009164 00000 n 
+0000009355 00000 n 
+0000009530 00000 n 
+0000009708 00000 n 
+0000009884 00000 n 
+0000010082 00000 n 
+0000010275 00000 n 
+0000010725 00000 n 
+0000010924 00000 n 
+0000011117 00000 n 
+0000011293 00000 n 
+0000011472 00000 n 
+0000011649 00000 n 
+0000011848 00000 n 
+0000012042 00000 n 
+0000012493 00000 n 
+0000012693 00000 n 
+0000012887 00000 n 
+0000013062 00000 n 
+0000013240 00000 n 
+0000013416 00000 n 
+0000013618 00000 n 
+0000013811 00000 n 
+0000014257 00000 n 
+0000014455 00000 n 
+0000014648 00000 n 
+0000014824 00000 n 
+0000015003 00000 n 
+0000015180 00000 n 
+0000015383 00000 n 
+0000015576 00000 n 
+0000016022 00000 n 
+0000016220 00000 n 
+0000016413 00000 n 
+0000016587 00000 n 
+0000016764 00000 n 
+0000016939 00000 n 
+0000017140 00000 n 
+0000017332 00000 n 
+0000017777 00000 n 
+0000017974 00000 n 
+0000018166 00000 n 
+0000018928 00000 n 
+0000019099 00000 n 
+0000019277 00000 n 
+0000019453 00000 n 
+0000019650 00000 n 
+0000019845 00000 n 
+0000020040 00000 n 
+0000020492 00000 n 
+0000020663 00000 n 
+0000020841 00000 n 
+0000021016 00000 n 
+0000021213 00000 n 
+0000021408 00000 n 
+0000021607 00000 n 
+0000022056 00000 n 
+0000022228 00000 n 
+0000022407 00000 n 
+0000022582 00000 n 
+0000022780 00000 n 
+0000022976 00000 n 
+0000023172 00000 n 
+0000023625 00000 n 
+0000023798 00000 n 
+0000023979 00000 n 
+0000024156 00000 n 
+0000024355 00000 n 
+0000024552 00000 n 
+0000024752 00000 n 
+0000025205 00000 n 
+0000025377 00000 n 
+0000025556 00000 n 
+0000025731 00000 n 
+0000025929 00000 n 
+0000026125 00000 n 
+0000026321 00000 n 
+0000026774 00000 n 
+0000026946 00000 n 
+0000027125 00000 n 
+0000027300 00000 n 
+0000027498 00000 n 
+0000027690 00000 n 
+0000027890 00000 n 
+0000028343 00000 n 
+0000028518 00000 n 
+0000028705 00000 n 
+0000028887 00000 n 
+0000029088 00000 n 
+0000029285 00000 n 
+0000029482 00000 n 
+0000029936 00000 n 
+0000030112 00000 n 
+0000030295 00000 n 
+0000030475 00000 n 
+0000030677 00000 n 
+0000030877 00000 n 
+0000031077 00000 n 
+0000031534 00000 n 
+0000031707 00000 n 
+0000031892 00000 n 
+0000032072 00000 n 
+0000032271 00000 n 
+0000032468 00000 n 
+0000032665 00000 n 
+0000033119 00000 n 
+0000033291 00000 n 
+0000033466 00000 n 
+0000033639 00000 n 
+0000033834 00000 n 
+0000034024 00000 n 
+0000034471 00000 n 
+0000034667 00000 n 
+0000034857 00000 n 
+0000035029 00000 n 
+0000035204 00000 n 
+0000035377 00000 n 
+0000035571 00000 n 
+0000035760 00000 n 
+0000036206 00000 n 
+0000036401 00000 n 
+0000036590 00000 n 
+0000037441 00000 n 
+0000037614 00000 n 
+0000037790 00000 n 
+0000037964 00000 n 
+0000038164 00000 n 
+0000038351 00000 n 
+0000038799 00000 n 
+0000038996 00000 n 
+0000039187 00000 n 
+0000039357 00000 n 
+0000039530 00000 n 
+0000039701 00000 n 
+0000039898 00000 n 
+0000040086 00000 n 
+0000040527 00000 n 
+0000040720 00000 n 
+0000040908 00000 n 
+0000041081 00000 n 
+0000041257 00000 n 
+0000041431 00000 n 
+0000041627 00000 n 
+0000041818 00000 n 
+0000042266 00000 n 
+0000042463 00000 n 
+0000042654 00000 n 
+0000042827 00000 n 
+0000043003 00000 n 
+0000043177 00000 n 
+0000043373 00000 n 
+0000043564 00000 n 
+0000044012 00000 n 
+0000044209 00000 n 
+0000044400 00000 n 
+0000044573 00000 n 
+0000044749 00000 n 
+0000044923 00000 n 
+0000045119 00000 n 
+0000045310 00000 n 
+0000045758 00000 n 
+0000045955 00000 n 
+0000046146 00000 n 
+0000046318 00000 n 
+0000046493 00000 n 
+0000046666 00000 n 
+0000046865 00000 n 
+0000047051 00000 n 
+0000047498 00000 n 
+0000047694 00000 n 
+0000047884 00000 n 
+0000048056 00000 n 
+0000048235 00000 n 
+0000048415 00000 n 
+0000048613 00000 n 
+0000048809 00000 n 
+0000049005 00000 n 
+0000049458 00000 n 
+0000050124 00000 n 
+0000050323 00000 n 
+0000050395 00000 n 
+0000050677 00000 n 
+0000050775 00000 n 
+0000053122 00000 n 
+0000055339 00000 n 
+0000056773 00000 n 
+0000058053 00000 n 
+0000059648 00000 n 
+trailer
+<<
+/ID 
+[<37271a2aed74b1356cb3695af82fd4c9><37271a2aed74b1356cb3695af82fd4c9>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 225 0 R
+/Root 224 0 R
+/Size 233
+>>
+startxref
+59818
+%%EOF
