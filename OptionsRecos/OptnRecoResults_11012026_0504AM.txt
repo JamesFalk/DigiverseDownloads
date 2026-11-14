@@ -1,0 +1,98 @@
+MARKET CONDITIONS: (Sunday | November 01, 2026 | 05:04 AM)
+Index: Up Nt Dn Odds Årn RSI Gravity
+SPY : 0% 76% 18% ntrl -50 .40 ( Fäll )
+QQQ : 29% 29% 35% ntrl-dn -50 .35 ( Fäll )
+DIA : 24% 59% 12% ntrl -56 .47 ( Fäll )
+BTC* : 21% 50% 25% ntrl -30 .38 (Hôver)
+ETH* : 21% 38% 38% ntrl-dn -38 .34 ( Fäll )
+SVIX : 47% 18% 29% up-ntrl -39 .37 ( RÎSÈ)
+Indices Forecast Table:
+[Asset (Prsnt | Opts | tm mWP~mF | cWP~cF) | ENV | Arn | RSI]
+SVIX (25.6b | ——— |15d 1.1x~27.9b|1.0x~26.1b) |2:-1ƒivs| -39 |.37
+C_OIL (104b | ——— |1d 1.0x~105b|1.0x~103b) |4:5ƒivs| 54 |.64
+DIA (517b | ——— |0d 1.0x~517b|0.9x~476b) |4:1ƒivs| -56 |.47
+GLD (356b | ——— |10d 1.0x~369b|1.0x~360b) |1:-2ƒivs| -52 |.30
+BTC* (77.8Kb | ——— |1d 1.0x~78.8Kb|1.1x~83.0Kb) |1:1ƒivs| -30 |.38
+COIN (144b | ——— |5d 1.2x~166b|1.1x~164b) |1:-2ƒivs| -73 |.28
+HOOD (85.0b | ——— |5d 1.2x~98.4b|1.2x~98.1b) |1:-1ƒivs| -80 |.26
+REM (17.2b | ——— |0d 1.0x~17.2b|1.0x~16.6b) |4:2ƒivs| 28 |.35
+TPOR (33.3b | ——— |0d 1.0x~33.3b|0.9x~30.8b) |5:5ƒivs| 37 |.54
+ONLN (56.6b | ——— |1d 1.0x~56.9b|1.0x~57.8b) |2:2ƒivs| 20 |.49
+RETL (8.78b | ——— |0d 1.0x~8.78b|1.0x~8.42b) |4:5ƒivs| 30 |.65
+PBJ (47.7b | ——— |1d 1.0x~48.0b|1.0x~48.0b) |4:4ƒivs| -49 |.59
+HEAL (30.7b | ——— |0d 1.0x~30.7b|0.9x~28.5b) |5:3ƒivs| 28 |.60
+XLE (70.0b | ——— |0d 1.0x~70.0b|0.8x~53.4b) |4:6ƒivs| 72 |.72
+FMAT (58.5b | ——— |0d 1.0x~58.5b|1.0x~57.2b) |4:5ƒivs| 57 |.61
+MADE (33.5b | ——— |18d 1.0x~35.1b|1.0x~33.8b) |2:2ƒivs| 57 |.42
+ARTY (68.4b | ——— |18d 1.1x~76.6b|1.0x~68.7b) |2:1ƒivs| -30 |.38
+QTUM (134b | ——— |18d 1.1x~148b|1.0x~135b) |2:1ƒivs| -30 |.36
+BOTZ (32.2b | ——— |18d 1.1x~34.6b|1.0x~32.6b) |2:-1ƒivs| -30 |.34
+NLR (91.8b | ——— |17d 1.1x~103b|1.0x~95.6b) |2:2ƒivs| 57 |.35
+DFEN (47.9b | ——— |0d 1.0x~47.9b|1.0x~46.1b) |3:4ƒivs| 57 |.50
+MSOS (3.94b | ——— |18d 1.1x~4.17b|1.0x~3.81b) |2:2ƒivs| -32 |.36
+Big Movers Forecast Table:
+[Asset (Prsnt | Opts | tm mWP~mF | cWP~cF) | ENV | Arn | RSI]
+CMG (31.9b | ~11opts |0d 1.0x~31.9b|0.9x~28.6b) |2:6ƒivs| 73 |.56
+GME (24.2b | ~10opts |2d 1.1x~25.7b|1.1x~27.6b) |1:2ƒivs| -53 |.46
+KGC (20.1b | ~9opts |5d 1.2x~23.8b|1.2x~23.6b) |2:-3ƒivs| -50 |.27
+T (21.4b | ~8opts |1d 1.0x~22.0b|1.1x~23.9b) |1:2ƒivs| -39 |.37
+U (37.7b | ~8opts |5d 1.1x~42.6b|1.1x~42.6b) |2:1ƒivs| -77 |.32
+CCL (28.8b | ~7opts |0d 1.0x~28.8b|0.9x~25.2b) |5:6ƒivs| 57 |.70
+EPD (38.1b | ~6opts |0d 1.0x~38.1b|0.9x~34.7b) |4:5ƒivs| 60 |.60
+HIMS (27.7b | ~5opts |18d 1.1x~29.5b|1.0x~27.9b) |1:1ƒivs| -15 |.45
+SIRI (29.0b | ~5opts |0d 1.0x~29.0b|0.9x~26.8b) |4:8ƒivs| 68 |.69
+GAP (22.3b | ~5opts |1d 1.0x~22.7b|1.1x~23.6b) |1:2ƒivs| -22 |.49
+KHC (24.3b | ~4opts |0d 1.0x~24.3b|0.9x~22.8b) |4:4ƒivs| -21 |.57
+RKT (12.8b | ~4opts |0d 1.0x~12.8b|0.8x~10.8b) |4:8ƒivs| 79 |.63
+UNG (9.08b | ~4opts |4d 1.1x~10.4b|1.2x~10.8b) |1:1ƒivs| -78 |.27
+NOK (8.56b | ~4opts |15d 1.2x~9.96b|1.1x~9.00b) |2:2ƒivs| 64 |.40
+DKNG (20.9b | ~4opts |0d 1.0x~20.9b|0.9x~18.8b) |5:4ƒivs| -19 |.52
+BB (8.42b | ~3opts |18d 1.0x~8.78b|1.0x~8.18b) |5:2ƒivs| -16 |.47
+SBET (6.74b | ~3opts |5d 1.2x~8.19b|1.2x~8.00b) |1:-1ƒivs| -76 |.30
+UPST (23.0b | ~3opts |3d 1.0x~23.4b|1.0x~23.6b) |2:1ƒivs| 46 |.44
+WEN (7.21b | ~3opts |0d 1.0x~7.21b|0.9x~6.59b) |2:6ƒivs| 61 |.63
+ET (20.9b | ~3opts |0d 1.0x~20.9b|1.0x~20.1b) |4:6ƒivs| 85 |.60
+QBTS (10.7b | ~3opts |5d 1.2x~12.5b|1.2x~12.4b) |2:-1ƒivs| -50 |.22
+RGTI (11.2b | ~3opts |18d 1.2x~13.7b|1.1x~11.9b) |2:1ƒivs| -30 |.32
+PATH (13.7b | ~3opts |0d 1.0x~13.7b|0.9x~12.8b) |5:3ƒivs| -20 |.51
+PFE (30.5b | ~3opts |1d 1.0x~30.6b|1.0x~29.9b) |4:5ƒivs| 30 |.69
+
+
+ChampWinJim's Daily Options Recos
+Sunday | November 01, 2026 | 05:04 AM
+Active Filter: ≥ 70% Win Rates and/or Best Forecasts <$>
+
+( (+) ) =by Fri Nov 06  ( (+)+) =by Fri Nov 13  ( ( ) ) x =MissedTwoWeeksOut+ ?=no data
+
+
+
+(( [1-Double-Locked Calls] ))
+
+(( [JBLU, FPiv #4wk | 2 : 1 : 0 | 3.0C, $0.09, 38 | 53%m52) | 100.0% Win] <$> ))  +
+
+[( (+) ) 1 (100%) by Friday Nov 06 
+ [( (+)+)  1 (100%) by Friday Nov 13 
+  ( ( ) ) x  0 (0%) MissedTWO+]]
+
+
+
+
+(( [2-Double-Locked Puts] ))
+
+(( [SERV, RSI _inv #5wk | 4 : 1 : 1 | --- ... ø3.0, ø3.5, ø4.5 | 80.0% Win] ))  
+(( [SERV, Abroon #3wk | 2 : 1 : 0 | 2.5P, $0.28, 51 | 64% m74) | 100.0% Win] <$> ))  +
+
+[( (+) ) 1 (100%) by Friday Nov 06 
+ [( (+)+)  1 (100%) by Friday Nov 13 
+  ( ( ) ) x  0 (0%) MissedTWO+]]
+
+
+
+
+(| [1-Single-Locked Puts] |)
+
+(| [BULL, RSI _inv #3wk | 4 : 1 : 1 | 5.0P, $0.11, 48 | 62% m55) ø6.0, ø7.0 | 80.0% Win] <$> |)  +
+
+[( (+) ) 1 (100%) by Friday Nov 06 
+ [( (+)+)  1 (100%) by Friday Nov 13 
+  ( ( ) ) x  0 (0%) MissedTWO+]]
